@@ -117,14 +117,14 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 112	Additional Notes: 	Ytterligare noteringar:	Notas adicionales:	Weitere Bemerkungen:	Extra notities:		Notes supplémentaires:	Flere notater:	其他注意事项：		Дополнительные Замечания: 			Catatan tambahan:	Πρόσθετες Σημειώσεις:		Notas adicionais:	Notas Adicionais:	ملاحظات اضافية	Yderligere noter:	Ek Notlar:			dummy
 113	Additional X-RAY Notes:	Ytterligare röntgen Anmärkning:	Notas de Rayos X adicionales:	Weitere Bemerkungen zu Röntgenuntersuchungen:	Extra rontgenfoto notities:		Radiographies supplémentaires:	Flere røntgen notater:	额外的X射线注：		Дополнительные Замечания рентген исследования:			Catatan Tambahan X-RAY:	Πρόσθετες σημειώσεις Ακτινογραφιών:		Notas de RADIOGRAFIA adicionais:	Notas Adicionais do Raio-X:	ملاحظات شعاعية اضافية	Yderligere røntgen noter:	Ek Röntgen filmi Notları:			dummy
 114	addonly	Lägg endast till	solo añadir	nur hinzufügen	Alleen toevoegen		Ajouter seulement				добавить только			hanya menambahkan	μόνον προσθήκη		Só adicionar	somente adicionar	اضافة محددة	kun tilføjelser	sadece eklenir			dummy
-115	Addr Bk	Adressbok	Lbta Direcciónes	Adressbuch	Adresboek				地址浅滩		Адресная Книга			Buku Alamat	Κατάλ. Διευθ.		Lst Endcs	Agenda	دفتر العناوين	Adressebog	Adres Def			dummy
-116	Addr Book	Adressbok	Lbta Direcciónes	Adressbuch	Adresboek				地址簿		Адресная Книга			Buku Alamat	Κατάλ. Διευθύσεων		List Endereços	Agenda	دفتر العناوين	Adressebog	Adres Defteri			dummy
+115	Addr Bk	Adressbok	Lbta Direcciónes	Adressbuch	Adresboek				地址浅滩		Адресная Книга			Buku Alamat	Κατάλ. Διευθ.		Contactos	Agenda	دفتر العناوين	Adressebog	Adres Def			dummy
+116	Addr Book	Adressbok	Lbta Direcciónes	Adressbuch	Adresboek				地址簿		Адресная Книга			Buku Alamat	Κατάλ. Διευθύσεων		Contactos	Agenda	دفتر العناوين	Adressebog	Adres Defteri			dummy
 117	Address	Adress	Dirección	Adresse	Adres		Adresse	adresse	地址		Адрес			Alamat	Διεύθυνση		Endereço	Endereço	العنوان	Adresse	Adres			dummy
-118	Address Book	Adressbok	Libreta de direcciones	Adressbuch	Adresboek		Carnet d'adresses	adresse bok	地址簿		Адресная Книга			Buku Alamat	Κατάλογος Διευθύνσεων		Lista de Endereços	Endereços	دفتر العناوين	Adressebog	Adres Defteri			dummy
-119	Address book entry for the company performing this procedure		Entrada al Libro de Direcciones para la compañia haciendo este procedimiento	Adressbucheintrag der ausführenden Firma 	Gegevensinvoer in adresboek van het bedrijf dat deze procedure uitvoert		Entrée au carnet d'adresses pour la compagnie réalisant cette procédure				Ввод в адресную книгу для компании,выполняющей эту процедуру				Καταχώρηση της εταιρείας που εκτελεί αυτή τη διαδικασία, στον τηλεφων. καταλόγο 		Registo da empresa que vai efectuar o procedimento				Bu işlemi yapan şirketin adres defteri kaydı			dummy
-120	Address book entry for the distributor				Adresboekgegevens voor de ditributeur		Entrée au carnet d'adresse pour le distributeur										Registo do fornecedor				Distribütör için adres girdisi			dummy
-121	Address book entry for the vendor		Entrada al Libro de Direcciones para el vendedor	Adressbucheintrag des Anbieters	Adresboekgegevens van de verkoper		Entrée au carnet d'adresse pour le vendeur				Ввод в адресную книгу для продавца				Καταχώρηση του πωλητού στον τηλεφων. καταλόγο		Registo do vendedor		ادخال دفتر العناوين للبائع		Satıcının adres defteri kaydı			dummy
-122	Address Book Types		Tipos de Libro de Direcciones	Adressbuchtypen	Type adresboek		Type de carnet d'adresse				Типы Адресных Книг				Τύποι τηλεφωνικού καταλόγου		Tipos da Lista Endereços		أنواع دفتر العناوين	Adressebogtyper	Adres Defteri Tipleri			dummy
+118	Address Book	Adressbok	Libreta de direcciones	Adressbuch	Adresboek		Carnet d'adresses	adresse bok	地址簿		Адресная Книга			Buku Alamat	Κατάλογος Διευθύνσεων		Contactos	Endereços	دفتر العناوين	Adressebog	Adres Defteri			dummy
+119	Address book entry for the company performing this procedure		Entrada al Libro de Direcciones para la compañia haciendo este procedimiento	Adressbucheintrag der ausführenden Firma 	Gegevensinvoer in adresboek van het bedrijf dat deze procedure uitvoert		Entrée au carnet d'adresses pour la compagnie réalisant cette procédure				Ввод в адресную книгу для компании,выполняющей эту процедуру				Καταχώρηση της εταιρείας που εκτελεί αυτή τη διαδικασία, στον τηλεφων. καταλόγο 		Contacto empresa que vai efectuar o procedimento				Bu işlemi yapan şirketin adres defteri kaydı			dummy
+120	Address book entry for the distributor				Adresboekgegevens voor de ditributeur		Entrée au carnet d'adresse pour le distributeur										Contacto do fornecedor				Distribütör için adres girdisi			dummy
+121	Address book entry for the vendor		Entrada al Libro de Direcciones para el vendedor	Adressbucheintrag des Anbieters	Adresboekgegevens van de verkoper		Entrée au carnet d'adresse pour le vendeur				Ввод в адресную книгу для продавца				Καταχώρηση του πωλητού στον τηλεφων. καταλόγο		Contacto do vendedor		ادخال دفتر العناوين للبائع		Satıcının adres defteri kaydı			dummy
+122	Address Book Types		Tipos de Libro de Direcciones	Adressbuchtypen	Type adresboek		Type de carnet d'adresse				Типы Адресных Книг				Τύποι τηλεφωνικού καταλόγου		Tipos de Contacto		أنواع دفتر العناوين	Adressebogtyper	Adres Defteri Tipleri			dummy
 123	Address1	Adress1	Dirección1	Adresse1	Adres1		Adresse 1	adresse1	地址		Адрес 1			Alamat 1	Διεύθυνση 1		Endereço1	Endereço1	العنوان 1	Adresse 1 	Address1			dummy
 124	Address2	Adress2	Dirección2	Adresse2	Adres2		Adresse 2	adresse2	地址		Адрес 2			Alamat 2	Διεύθυνση 2		Endereço2	Endereço2	العنوان 2	Adresse 2	Address2			dummy
 125	ADDRESSEE		DESTINATARIO	Empfänger	Geadresseerde		Destinataire				АДРЕС			ALAMAT			DESTINATÁRIO	DESTINATÁRIO	مخاطب	Adressent	ALACAK OLAN			dummy
@@ -694,12 +694,12 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 689	Click to generate the report	Klicka för att generera rapporten	Selecciona para generar el reporte	Klicken um Bericht zu generieren	Klik om rapport te maken			Klikk for å generere rapport	点击生成报告					Klik untuk menghasilkan laporan	Κλικ για δημιουργία της αναφοράς		Clique para gerar o relatório	Clique para gerar o relatório	انقر لأنشاء التقرير	Klicka för att generera rapporten	Rapor oluşturmak için tıklayınız			dummy
 690	Click to print	Klicka för att printa	Selecciona para imprimir	Klicken um zu Drucken	Klik om af te drukken										Κλικ για εκτύπωση		Clique para imprimir	Clique para imprimir	انقر للطباعة	Klicka för att printa	Yazdırmak için tıklayınız			dummy
 691	Click to receive (add) new lot	Klicka för att lägga till/få ny lot	Selecciona aquí para recibir (añadir) nuevo lote 		Kilk om een nieuwe voorraad te ontvangen/toe te voegen										Κλικ για λήψη (προσθήκη) νέας παρτίδας		Clique para receber (adicionar) novo lote	Clique para receber (add) novo lote	انقر لاستقبال أو إضافة جديد	Klicka för att lägga till/få ny lot	Yeni bir parti almak (eklemek) için tıklayınız			dummy
-692	Click to select	Klicka för att välja	Seleecionar para elegir	Klicken zum Selektieren	Klik om te selecteren			Klikk for å velge	单击以选中					Klik untuk memilih	Κλικ για να επιλέξετε		Faça cilque para selecionar	Clique para selecionar	انقر للاختيار	Klicka för att välja	Seçmek için tıklayınız			dummy
-693	Click To Select				Klik om te selecteren										Κάντε κλικ για Επιλογή									dummy
+692	Click to select	Klicka för att välja	Seleecionar para elegir	Klicken zum Selektieren	Klik om te selecteren			Klikk for å velge	单击以选中					Klik untuk memilih	Κλικ για να επιλέξετε		Clique para seleccionar	Clique para selecionar	انقر للاختيار	Klicka för att välja	Seçmek için tıklayınız			dummy
+693	Click To Select				Klik om te selecteren										Κάντε κλικ για Επιλογή		Clique para seleccionar							dummy
 694	Click to select an industry-standard code for this procedure		Seleccionar para elegir un codigo usual de la industria para este procedimiento		Klik om een standaard industriecode voor deze procedure te selecteren										Κλικ για επιλογή ενός στανταρισμένου κωδικού για αυτή τη διαδικασία 						Bu işlem için bir endüstri standardı kodu seçmek için tıklayınız			dummy
 695	Click to select or change diagnoses	Klicka för att välja eller ändra diagnoser	Seleccionar para elegir o cambiar diagnóstico	Klicken um Diagnose zu selektieren/ändern	Klik om te selecteren of de diagnose te veranderen			Klikk for å velge eller forandre diagnose	单击以选中或改变诊断					Klik untuk memilih atau mengubah diagnosa	Κλικ για επιλογή ή αλλαγή διαγνώσεων		Clique para selecionar ou mudança de diagnóstico	Clique para seleccionar ou alterar diagnósticos	انقر لاختيار إو تغيير التشخيص	Klicka för att välja eller ändra diagnoser	Seçmek veya tanıları değiştirmek için tıklayınız			dummy
 696	Click to select or change service codes				Klik om service code te selecteren of te veranderen																			dummy
-697	Click to select patient	Klicka för att välja patient	Selecciona para elegir paciente	Klicken um Klienten zu wählen	Klik om patient te selecteren			Klikk for å velge en pasient	单击以选中病人					Klik untuk memilih pasien	Κλικ για επιλογή ασθενούς		Clique para selecionar o doente	Clique para selecionar pacientes	انقر لاختيار المريض	Klicka för att välja patient	Hastayı seçmek için tıklayınız			dummy
+697	Click to select patient	Klicka för att välja patient	Selecciona para elegir paciente	Klicken um Klienten zu wählen	Klik om patient te selecteren			Klikk for å velge en pasient	单击以选中病人					Klik untuk memilih pasien	Κλικ για επιλογή ασθενούς		Clique para seleccionar o utente	Clique para selecionar pacientes	انقر لاختيار المريض	Klicka för att välja patient	Hastayı seçmek için tıklayınız			dummy
 698	Click to select related code	Klicka för att välja tillhörande kod	Selecciona para elegir código relacionado	Klicken um zugehörigen Code zu wählen	Klik om de gerelateerde code te selecteren			Klikk for å velge relatert kode	单击以选中相关的代码					Klik untuk memilih kode yang terkait	Κλικ για επιλογή σχετικού κώδικα		Clique para selecionar o código relacionado	Clique para selecionar o código relacionado	انقر لاختيار الرمز 	Klicka för att välja tillhörande kod	İlgili kodu seçmek tıklayınız			dummy
 699	Click to select services to perform if this result is abnormal		Selecciona para elegir servicios a rendir si este resultado es anormal		Klik om services kiezen als het resultaat abnormaal is										Κλικ για επιλογή υπηρεσιών προς εκτέλεση αν αυτό το αποτέλεσμα είναι παθολογικό						Bu sonuç anormal ise yapılacak hizmetleri seçmek için tıklayınız			dummy
 700	Click to select the desired procedure		Selecciona para elegir el procedimiento deseado		Klik om de gewenste procedure te selecteren										Κλικ για προβολή όλων						İstenilen işlemi seçmek için tıklayınız			dummy
@@ -1645,9 +1645,9 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1640	Format used to display most dates.			Format um die meisten Daten anzuzeigen	Het formaat om de meeste datums te tonen										Μορφή εμφάνισης των περισσότερων ημερομ.						Çoğu tarihi göstermek için kullanılan format.			dummy
 1641	Format used to display most times.				Het formaat om de tijd merendeels te tonen																			dummy
 1642	Formatted Report				GEformatterd report																			dummy
-1643	Former smoker				Was roker																			dummy
+1643	Former smoker				Was roker												Ex-fumador							dummy
 1644	Forms	Formulär	Formularios	Formulare	Formulieren			Skjemaer	形式					Formulir	Έντυπα 		Formulários	Formulários		Formulär	Formlar			dummy
-1645	Forms Administration	Formulär administration	Formas de administración	Administrationsformulare	Administratie van formulieren			Skjema Administrasjon	形式管理					Formulir Administrasi	Έντυπα Διαχείρισης		Formulários de Administração	Formas de administração		Formulär administration	Form Yönetimi			dummy
+1645	Forms Administration	Formulär administration	Formas de administración	Administrationsformulare	Administratie van formulieren			Skjema Administrasjon	形式管理					Formulir Administrasi	Έντυπα Διαχείρισης		Administração de Formulários	Formas de administração		Formulär administration	Form Yönetimi			dummy
 1646	Forward Pages via Fax	Vidarebefordra Sidor via Fax	Páginas delanteras vía fax 		Stuur pagina\'s door met Fax			Send videre via Fax	转寄页通过传真					Halaman maju melalui Fax	Προώθηση σελίδων μέσω Fax		Encaminhar páginas via Fax	Páginas transmitir via Fax		Vidarebefordra Sidor via Fax	Sayfaları Faks ile İlet			dummy
 1647	Forwarded			weitergeleitet	Ge-forward										Προωθήθηκε		Encaminhado				İletilmiş			dummy
 1648	Fourth	Fjärde	Cuarto	Vierte	4e			Fjerde	第四次					Keempat	Τέταρτο		Quarto	Quarta		Fjärde	Dördüncü			dummy
@@ -1684,20 +1684,20 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1679	Front Rec		Frente Rec.	Empfangsbereich	Kwitantie Balie				接待建议					Muka Rec	Γραφείο υποδοχής		Recpção Rec	Front Rec			Resepsiyon			dummy
 1680	Frontal Right:	Frontal Höger:	La derecha frontal: 		Frontaal rechts				正面右：					Frontal Kanan:	Μετωπιαία δεξιά:		Frontal Direita:	Frontal Direita:		Frontal Höger:	Sağ Frontal:			dummy
 1681	Full Name		Nombre Completo 	Vollständiger Name	Volledige naam										Πλήρες όνομα		Nome Completo	Nome Completo			Tam İsim			dummy
-1682	Full path to directory containing MySQL executables.			Vollständiger Pfad zu MySQL Programmdatei	Volledige pad naar de folder met de MySQL executables.										Πλήρες path στον κατάλογο που περιέχει τα εκτελέσιμα αρχεία της MySQL.						MYSQL çalışanlarını içeren klasörün tam yolu.			dummy
-1683	Full path to directory containing Perl executables.			Vollständiger Pfad zu Perl Programmdatei	Volledige pad naar de folder met de Perl executables										Πλήρες path στον κατάλογο που περιέχει τα εκτελέσιμα αρχεία της Perl.						Perl çalışanlarını içeren klasörün tam yolu			dummy
-1684	Full path to directory for event log backup.			Vollständiger Pfad für Termin log Backup	Volledige pad naar de folder voor de log backup										Πλήρες path στον κατάλογο backup της καταγραφής logs. 						Olay kaydı yedeği klasörünün tam yolu			dummy
-1685	Full path to directory used for temporary files.			Vollständiger Pfad für temporäre Dateien	Volledige pad naar de folder gebrukit voor tijdelijke bestanden										Πλήρες path στον κατάλογο των προσωρινών αρχείων:						Geçici dosyalar için kullanılan klasörün tam yolu			dummy
+1682	Full path to directory containing MySQL executables.			Vollständiger Pfad zu MySQL Programmdatei	Volledige pad naar de folder met de MySQL executables.										Πλήρες path στον κατάλογο που περιέχει τα εκτελέσιμα αρχεία της MySQL.		Caminho completo dos executáveis MySQL				MYSQL çalışanlarını içeren klasörün tam yolu.			dummy
+1683	Full path to directory containing Perl executables.			Vollständiger Pfad zu Perl Programmdatei	Volledige pad naar de folder met de Perl executables										Πλήρες path στον κατάλογο που περιέχει τα εκτελέσιμα αρχεία της Perl.		Caminho completo dos executáveis Perl				Perl çalışanlarını içeren klasörün tam yolu			dummy
+1684	Full path to directory for event log backup.			Vollständiger Pfad für Termin log Backup	Volledige pad naar de folder voor de log backup										Πλήρες path στον κατάλογο backup της καταγραφής logs. 		Caminho completo da cópia de segurança do registo de eventos.				Olay kaydı yedeği klasörünün tam yolu			dummy
+1685	Full path to directory used for temporary files.			Vollständiger Pfad für temporäre Dateien	Volledige pad naar de folder gebrukit voor tijdelijke bestanden										Πλήρες path στον κατάλογο των προσωρινών αρχείων:		Caminho completo dos ficheiros temporários.				Geçici dosyalar için kullanılan klasörün tam yolu			dummy
 1686	Full Play		Juego completo 	Vollständig Spielberechtigt	Volledige spelen				充分发挥					Penuh Putar			Jogo Completo	Completamente Tocar			Tam Oynat			dummy
-1687	Full Training	All utbildning	Entrenamiento completo 	Vollständig Trainingsberechtigt	Volledige training			Full Trenning	训练					Pelatihan penuh	Πλήρης εκπαίδευση		Treino Completo	Full Training		All utbildning	Tam Eğitim			dummy
+1687	Full Training	All utbildning	Entrenamiento completo 	Vollständig Trainingsberechtigt	Volledige training			Full Trenning	训练					Pelatihan penuh	Πλήρης εκπαίδευση		Formação Completa	Full Training		All utbildning	Tam Eğitim			dummy
 1688	Fully Paid				Volledig betaald												Completamente Pago							dummy
 1689	G		G	G	G												G	G			G			dummy
 1690	G/DL		G/DL	G/DL	G/DL																G/DL			dummy
 1691	Gall Bladder Condition		Condición de la vesícula biliar		Galblaasconditie				胆囊条件					Kandung empedu Kondisi	Διαταραχή χοληδόχου κύστης		Vesícula Biliar Condição	Vesícula Biliar Condição			Safra Kesesi Rahatsızlığı			dummy
-1692	Gall Stones	Gallsten	Piedras de la rozadura 	Gallensteine	Galstenen			Galle Steiner	胆结石					Batu empedu	Χολόλιθοι		Pedras na vesiculal	Gall Stones		Gallsten	Safra Taşları			dummy
+1692	Gall Stones	Gallsten	Piedras de la rozadura 	Gallensteine	Galstenen			Galle Steiner	胆结石					Batu empedu	Χολόλιθοι		Pedras na vesícula	Gall Stones		Gallsten	Safra Taşları			dummy
 1693	Game Period	Game Period	Periodo de Juego		Wedstrijdduur			Spill periode	游戏时代					Periode permainan	Περίοδος παιχνιδιού		Período do Jogo	Jogo Período		Game Period	Oyun Dönemi			dummy
 1694	Games	Spel	Juegos	Spiele	Spellen			Spill	运动会					Game	Παιχνίδια 		Jogos	Jogos		Spel	Oyunlar			dummy
-1695	Games Missed		Juegos faltados	Spiele versäumt	Gemiste spelen										Απωλεσθέντα παιγνίδια						Kaçırılmış Oyunlar			dummy
+1695	Games Missed		Juegos faltados	Spiele versäumt	Gemiste spelen										Απωλεσθέντα παιγνίδια		Jogos Perdidos				Kaçırılmış Oyunlar			dummy
 1696	games/events	spel / evenemang	juegos/eventos	Spiele / Termine	Spelen/Gebeurtenissen				游戏/事件					permainan / acara	παιχνίδια/ συμβάντα		jogos/Eventos	jogos / eventos		spel / evenemang	oyunlar/olaylar			dummy
 1697	Games/Events Missed		Juegos / Eventos perdidas	Spiele / Termine versäumt	Spelen/Gemiste gebeurtenissen				游戏/活动漏诊					Permainan / Terkini Missed	Απωλεσθέντα παιχνίδια/ συμβάντα		jogos/Eventos Perdidos	Jogos / Eventos Missed			Kaçırılmış Oyunlar/Olaylar			dummy
 1698	Gastritis	Gastrit	Gastritis		Gastritis				胃炎					Radang perut	Γαστρίτιδα 		Gastrites	Gastrite		Gastrit	Gastrit			dummy
@@ -1706,34 +1706,34 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1701	GCAC Statistics Report	GCAC Statistik Rapport	Informe de estadísticas del GCAC 		GCAC Statistiek verslag				GCAC统计报告					Statistik GCAC Lapor	Αναφορά στατιστικών GCAC		Relatório de Estatisticas GCAC	GCAC Statistics Report		GCAC Statistik Rapport	GCAC İstatistik Raporu			dummy
 1702	GCAC Stats				GCAC Statistiek										Στατιστ. GCAC						GCAC İstatistikleri			dummy
 1703	GCAC visit form is missing		Falta la forma de la visita del GCAC		GCAC bezoek formulier afwezig										Το έντυπο επίσκεψης GCAC λείπει		Está perdendo a forma de visita GCAC	GCAC formulário visita está faltando			GCAC vizit formu eksik			dummy
-1704	Gender		Género	Geschlecht	Geslacht										Φύλο		Género	Gênero			Cinsiyet			dummy
-1705	Gender 	Kön	Género	Geschlecht	Geslacht			Kjønn	性别					Jender	Φύλο		Género	Gênero		Kön	Cinsiyet			dummy
+1704	Gender		Género	Geschlecht	Geslacht										Φύλο		Sexo	Gênero			Cinsiyet			dummy
+1705	Gender 	Kön	Género	Geschlecht	Geslacht			Kjønn	性别					Jender	Φύλο		Sexo	Gênero		Kön	Cinsiyet			dummy
 1706	General	Allmänt	General	Allgemein	Algemeen			Generelt	一般					Lain-lain	Γενικά		Geral	Filtro		Allmänt	Genel			dummy
 1707	General Service Category	Allmänna Tjänstekategori	Categoría de servicio general	Allgemeine Service Kategorie	Categorie voor Algemene Service			Generel Service Kategori	一般事务类					Layanan Umum Kategori	Γεν. κατηγορία υπηρεσιών 		Serviço Geral de Categoria	Categoria de Serviços Gerais		Allmänna Tjänstekategori	Genel Servis Kategorisi			dummy
-1708	Generate and download CMS 1500 paper claims		Generar y Descargar		Schriftelijk Claimformulier HCFA 1500 aanmaken en downloaden										Δημιουργ. και κατέβασμα εγγράφου αιτήσεων CMS 1500						CMS 1500 kağıdı alacaklarını oluştur ve indir			dummy
-1709	Generate and download HCFA 1500 paper claims	Skapa och hämta HCFA 1500 papper fordringar	Generar y descargar HCFA 1500 reclamaciones en papel		Schriftelijk Claimformulier HCFA 1500 aanmaken en downloaden				生成和下载HCFA 1500年书面索赔					Menghasilkan dan men-download HCFA 1500 klaim kertas	Δημιουργ. και κατέβασμα εγγράφου αιτήσεων HCFA 1500		Gere e Carregue reivindicaçôes de papel HCFA 1500	Gerar e transferir créditos HCFA 1500 papel		Skapa och hämta HCFA 1500 papper fordringar	HCFA 1500 kağıdı alacaklarını oluştur ve indir			dummy
-1710	Generate and download X12 batch	Skapa och hämta X12 parti	Generar y descargar lote X12 		Aanmaken en downloaden X12 batch				生成并下载X12批次					Menghasilkan dan men-download X12 batch	Δημιουργ. και κατέβασμα ενεργειών Χ12		Gere e Carregue Grupo X12	Gerar e lote X12 download		Skapa och hämta X12 parti	X12 yığın dosyasını oluştur ve indir			dummy
+1708	Generate and download CMS 1500 paper claims		Generar y Descargar		Schriftelijk Claimformulier HCFA 1500 aanmaken en downloaden										Δημιουργ. και κατέβασμα εγγράφου αιτήσεων CMS 1500		Criar e descarregar 1500 pedidos CMS				CMS 1500 kağıdı alacaklarını oluştur ve indir			dummy
+1709	Generate and download HCFA 1500 paper claims	Skapa och hämta HCFA 1500 papper fordringar	Generar y descargar HCFA 1500 reclamaciones en papel		Schriftelijk Claimformulier HCFA 1500 aanmaken en downloaden				生成和下载HCFA 1500年书面索赔					Menghasilkan dan men-download HCFA 1500 klaim kertas	Δημιουργ. και κατέβασμα εγγράφου αιτήσεων HCFA 1500		Criar e descarregar 1500 pedidos HCFA	Gerar e transferir créditos HCFA 1500 papel		Skapa och hämta HCFA 1500 papper fordringar	HCFA 1500 kağıdı alacaklarını oluştur ve indir			dummy
+1710	Generate and download X12 batch	Skapa och hämta X12 parti	Generar y descargar lote X12 		Aanmaken en downloaden X12 batch				生成并下载X12批次					Menghasilkan dan men-download X12 batch	Δημιουργ. και κατέβασμα ενεργειών Χ12		Criar e descarregar X12	Gerar e lote X12 download		Skapa och hämta X12 parti	X12 yığın dosyasını oluştur ve indir			dummy
 1711	Generate and download X12 encounter claim batch		Generar y descargar X12 lote de reclamo por encuentro		Genereren en downloaden van X12 consultatie claim batchj										Δημιουργ. και κατέβ. δέσμης ενεργειών με αιτήσεις πληρωμής Χ12						Görüşme alacakları X12 yığın dosyasını oluştur ve indir			dummy
-1712	Generate CMS 1500		Generar formulario CMS 1500		CMS 1500 aanmaken										Δημιουργία CMS 1500						CMS 1500 oluştur			dummy
-1713	Generate CMS 1500 PDF		Generar formulario CMS 1500 PDF		CMS 1500 PDF aanmaken										Δημιουργ. PDF CMS 1500						CMS 1500 PDF oluştur			dummy
+1712	Generate CMS 1500		Generar formulario CMS 1500		CMS 1500 aanmaken										Δημιουργία CMS 1500		Criar 1500 CMS				CMS 1500 oluştur			dummy
+1713	Generate CMS 1500 PDF		Generar formulario CMS 1500 PDF		CMS 1500 PDF aanmaken										Δημιουργ. PDF CMS 1500		Criar 1500 PDF CMS				CMS 1500 PDF oluştur			dummy
 1714	Generate CMS 1500 TEXT		Generar formulario CMS 1500 TEXTO		CMS 1500 TEKST aanmaken										Δημιουργ. TEXT CMS 1500						CMS 1500 TEKST oluştur			dummy
 1715	Generate HCFA		Genere HCFA 		HCFA aanmaken										Δημιουργία HCFA		HCFA Geral	Gerar HCFA			HCFA oluştur			dummy
-1716	Generate Letter		Genere la Carta	Brief generieren	Brief aanmaken										Δημιουργ. επιστολής		Carta Geral	Gerar Carta			Mektup Oluştur			dummy
-1717	Generate Letter regarding 	Generera Skrivelse angående	Generar carta relacionada		Maak brief aangaande			Generer brev som omhandler	产生来信					Menghasilkan Banding tentang	Δημιουργ. επιστολής σχετικά με		Carta Geral relativo a	Gerar carta a respeito		Generera Skrivelse angående	Oluşturulacak Mektup Konusu:			dummy
-1718	Generate Report	Generera rapport	Generar informe	Bericht generieren	Rapport aanmaken			Generer rapport	生成报告					Menghasilkan Lapor	Δημιουργ. Αναφοράς		Relatório Geral	Gerar relatório		Generera rapport	Rapor Oluştur			dummy
-1719	Generate X12		Generar X12	X12 generieren	X12 aanmaken										Δημιουργ. Χ12		Geral X12	Gerar X12			X12 Oluştur			dummy
-1720	Generate X12 Encounter		Generar encuentro en formulario X12		X12 Encounter aanmaken										Δημιουργ. Χ12 Επίσκεψης						X12 Görüşme Oluştur			dummy
-1721	Generated on	Skapad på	Generado en	Generiert am	Aangemaakt op			Generert på	产生					Pada	Δημιουργήθηκε στις		Gerado em	Geração de		Skapad på	Oluşturulduğu tarih:			dummy
-1722	Generates	Genererar	genera		Genereert			Genererer	生成					Menghasilkan	Δημιουργεί 		Gerados	Gera		Genererar	Oluşturur			dummy
+1716	Generate Letter		Genere la Carta	Brief generieren	Brief aanmaken										Δημιουργ. επιστολής		Criar Carta	Gerar Carta			Mektup Oluştur			dummy
+1717	Generate Letter regarding 	Generera Skrivelse angående	Generar carta relacionada		Maak brief aangaande			Generer brev som omhandler	产生来信					Menghasilkan Banding tentang	Δημιουργ. επιστολής σχετικά με		Criar Carta a respeito de	Gerar carta a respeito		Generera Skrivelse angående	Oluşturulacak Mektup Konusu:			dummy
+1718	Generate Report	Generera rapport	Generar informe	Bericht generieren	Rapport aanmaken			Generer rapport	生成报告					Menghasilkan Lapor	Δημιουργ. Αναφοράς		Criar Relatório	Gerar relatório		Generera rapport	Rapor Oluştur			dummy
+1719	Generate X12		Generar X12	X12 generieren	X12 aanmaken										Δημιουργ. Χ12		Criar X12	Gerar X12			X12 Oluştur			dummy
+1720	Generate X12 Encounter		Generar encuentro en formulario X12		X12 Encounter aanmaken										Δημιουργ. Χ12 Επίσκεψης		Criar Consulta X12				X12 Görüşme Oluştur			dummy
+1721	Generated on	Skapad på	Generado en	Generiert am	Aangemaakt op			Generert på	产生					Pada	Δημιουργήθηκε στις		Criado em	Geração de		Skapad på	Oluşturulduğu tarih:			dummy
+1722	Generates	Genererar	genera		Genereert			Genererer	生成					Menghasilkan	Δημιουργεί 		Criado	Gera		Genererar	Oluşturur			dummy
 1723	Genitourinary		Genitourinario		Genito-Urinair				泌尿生殖					Genitourinary	Ουρογεννητικό		Genitourinary	Geniturinário			Genitoüriner			dummy
 1724	German		Alemán	Deutsch	Duits				德语					Jerman	Γερμανικά 		Alemão	Alemão			Almanca			dummy
-1725	Get HL7				HL7 code ophalen										Λάβετε το HL7						HL7 Al			dummy
+1725	Get HL7				HL7 code ophalen										Λάβετε το HL7		Obter HL7				HL7 Al			dummy
 1726	Glaucoma	Glaukom	Glaucoma		Glaucoom				青光眼					Glaukoma	Γλαύκωμα 		Glaucoma	Glaucoma		Glaukom	Glokom			dummy
 1727	Glaucoma Family History		Historia Familiar de Glaucoma 		Familiegeschiedenis van Glaucoom										Οικογεν. ιστορικό γλαυκώματος		História Glaucoma da Familia	Glaucoma na Família			Glokom Aile Öyküsü			dummy
 1728	Global	Global	Global	Global	Globaal			Global	全球					Global	Γενικό		Global	Global		Global	Global			dummy
 1729	Global ID		ID Global	Globale ID	Global ID										Γεν. Κωδικός αναγνώρισης		ID Global	Global ID			Global ID			dummy
-1730	Global Settings			Globale Einstellungen	Globale sttings										Γεν. Ρυθμίσεις						Global Ayarlar			dummy
-1731	Globals				Globalen										Γενικές						Globaller			dummy
+1730	Global Settings			Globale Einstellungen	Globale sttings										Γεν. Ρυθμίσεις		Definições Gerais				Global Ayarlar			dummy
+1731	Globals				Globalen										Γενικές		Gerais				Globaller			dummy
 1732	GM/DL		GM/DL		GM/DL																GM/DL			dummy
 1733	go	gå	ir		ga				离去					pergi	Ξεκινείστε		vai	ir		gå	git			dummy
 1734	Go	Gå	Ir	Gehe	Ga				离去					Pergi	Ξεκινείστε		Vai	Ir		Gå	Git			dummy
@@ -1756,27 +1756,27 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1751	Group Payment				Groeps betaling																			dummy
 1752	Group:	Grupp:	Grupo:	Gruppe:	Groep:			Gruppe:	组：					Group:	Ομάδα: 		Grupo:	Grupo:		Grupp:	Grup			dummy
 1753	Groupname	Gruppnamn	Nombre del grupo	Gruppenname	Groepsnaam			Gruppenavn	群组					Groupname	Όνομα ομάδας		Nome do Grupo	Nome do Grupo		Gruppnamn	Grup ismi			dummy
-1754	Groups and Access Controls	Grupper och åtkomstkontroller	Controles de grupos y accesos	Gruppen und Zugriffskontrolle	Groeps- en toegangscontroles				团体和访问控制					Kelompok dan Akses Kontrol	Ομάδες και έλεγχος πρόσβασης 		Grupos e control de Access	Grupos e Controles de Acesso		Grupper och åtkomstkontroller	Gruplar ve Erişim Kontrolleri			dummy
-1755	Growth Chart		Gráfico de Crecimiento 	Wachstumskurve	Groei Curves										Καμπύλη Ανάπτυξης		Desenhar o Tumor	Growth Chart			Büyüme Çizelgesi			dummy
-1756	Growth-Chart		Gráfico de Crecimiento 	Wachstumskurve	Groei Curves										Καμπύλη Ανάπτυξης		Desenhar -Tumor	Growth-chart			Büyüme-Çizelgesi			dummy
+1754	Groups and Access Controls	Grupper och åtkomstkontroller	Controles de grupos y accesos	Gruppen und Zugriffskontrolle	Groeps- en toegangscontroles				团体和访问控制					Kelompok dan Akses Kontrol	Ομάδες και έλεγχος πρόσβασης 		Grupos e Controlo de Accesso	Grupos e Controles de Acesso		Grupper och åtkomstkontroller	Gruplar ve Erişim Kontrolleri			dummy
+1755	Growth Chart		Gráfico de Crecimiento 	Wachstumskurve	Groei Curves										Καμπύλη Ανάπτυξης		Carta de Crescimento	Growth Chart			Büyüme Çizelgesi			dummy
+1756	Growth-Chart		Gráfico de Crecimiento 	Wachstumskurve	Groei Curves										Καμπύλη Ανάπτυξης		Carta de Crescimento	Growth-chart			Büyüme-Çizelgesi			dummy
 1757	gtts(drops)	Droppar	gtts (gotas) 		druppels				gtts （滴）					gtts (tetes)	σταγόνες (drops)		gtts(gotas)	Gotas		Droppar	gtts(damla)			dummy
 1758	Guamanian				Guamiaan																Guamca			dummy
-1759	Guardian's Name				Naam van voogd																Veli / Vasi Adı			dummy
-1760	Gynecological Exam		Examen ginecológico		Gynaecologisch onderzoek				妇科考试					Gynecological Ujian	Γυναικολογική εξέταση	Gynaecological Exam	Exame ginecológico	Exame ginecológico			Jinekolojik Muayene			dummy
+1759	Guardian's Name				Naam van voogd												Nome do Guardião				Veli / Vasi Adı			dummy
+1760	Gynecological Exam		Examen ginecológico		Gynaecologisch onderzoek				妇科考试					Gynecological Ujian	Γυναικολογική εξέταση	Gynaecological Exam	Exame Ginecológico	Exame ginecológico			Jinekolojik Muayene			dummy
 1761	h		h	h.	h				h					h			h	h			h			dummy
 1762	h.s.		h.s.	h.s.	h.s.				h.s.					h.s.	με την κατάκλιση		h.s.	H.S.			yatarken			dummy
 1763	H/O Hepatitis		H/O Hepatitis 	HO Hepatitis	HO Hepatitis										Ιστορικό Ηπατίτιδος		Hepatite H/O	H / O Hepatite			H/O Hepatit			dummy
-1764	had been successfully deleted. Any sub-categories if present were moved below		se ha suprimido con éxito. Cualquier sub-categorías si fueron trasladados abajo	wurde erfolgreich gelöscht. Jede Unterkategorie wurde nach unten verschoben.	Succesvol verwijderd. De eventueel aanwezige subcategorieen zijn verplaatst naar onderen										είχαν διαγραφεί επιτυχώς. Όλες οι υποκατηγορίες, αν υπάρχουν, μετεφέρθησαν κάτωθι		Foi apagado com sucesso. Algumas sub-categórias	tinha sido excluído com sucesso. Qualquer sub-categorias se apresentam foram movidos abaixo			başarıyla silinmişti. Eğer var ise alt kategoriler aşağı taşındı.			dummy
-1765	Haematoma / bruising	Hematom / blåmärken	Hematoma/moratón		Hematoom/kneuzing				血肿/瘀伤					Haematoma / bruising	Αιμάτωμα / μώλωπες		Hematoma / contindindo	Hematoma / contusão		Hematom / blåmärken	Hematom / Morarma			dummy
+1764	had been successfully deleted. Any sub-categories if present were moved below		se ha suprimido con éxito. Cualquier sub-categorías si fueron trasladados abajo	wurde erfolgreich gelöscht. Jede Unterkategorie wurde nach unten verschoben.	Succesvol verwijderd. De eventueel aanwezige subcategorieen zijn verplaatst naar onderen										είχαν διαγραφεί επιτυχώς. Όλες οι υποκατηγορίες, αν υπάρχουν, μετεφέρθησαν κάτωθι		Eliminado com sucesso. As subcategorias foram movidas abaixo	tinha sido excluído com sucesso. Qualquer sub-categorias se apresentam foram movidos abaixo			başarıyla silinmişti. Eğer var ise alt kategoriler aşağı taşındı.			dummy
+1765	Haematoma / bruising	Hematom / blåmärken	Hematoma/moratón		Hematoom/kneuzing				血肿/瘀伤					Haematoma / bruising	Αιμάτωμα / μώλωπες		Hematoma/ferida	Hematoma / contusão		Hematom / blåmärken	Hematom / Morarma			dummy
 1766	HAI Status		HAI Estado 	HAI Status	HAI status												Estado de HAI	HAI Status			HAI Durumu			dummy
-1767	Hand + fingers	Hand + fingrar	manos + dedos	Hand und Finger	Hand en vingers			Hender + Fingre	另一方面+手指					Jari tangan +	Χέρι + δάκτυλα		Maõ + Dedos	Mão + dedos		Hand + fingrar	El + Parmaklar			dummy
+1767	Hand + fingers	Hand + fingrar	manos + dedos	Hand und Finger	Hand en vingers			Hender + Fingre	另一方面+手指					Jari tangan +	Χέρι + δάκτυλα		Mão + Dedos	Mão + dedos		Hand + fingrar	El + Parmaklar			dummy
 1768	Hand Problems	Handproblem	Problemas de manos	Probleme mit der Hand	Problemen van de hand			Hånd Problemer	另一方面问题					Tangan Masalah	Προβλήμ. χειρός		Problema das Maõs	Mão Problemas		Handproblem	El Sorunları			dummy
 1769	Hardship w/o	Umbäranden w / o	Dificultad sin 		Tegenslag met/zonder				艰苦W / O型					Kesulitan w / o			w/ de Sofrimento	Hardship w / o		Umbäranden w / o	Güçlük ile / değil			dummy
-1770	has been linked to visit		se ha ligado para visitar 	wurde mit Besuch verknüpft	is gekoppeld aan visite										συνδέθηκε με επίσκεψη		Foi unido para visitar	tem sido associada a visitar			vizite ilişkilendirildi			dummy
-1771	has expired			ist abgelaufen	is verlopen										έληξε						zaman aşımına uğradı			dummy
+1770	has been linked to visit		se ha ligado para visitar 	wurde mit Besuch verknüpft	is gekoppeld aan visite										συνδέθηκε με επίσκεψη		foi anexo à visita	tem sido associada a visitar			vizite ilişkilendirildi			dummy
+1771	has expired			ist abgelaufen	is verlopen										έληξε		expirou				zaman aşımına uğradı			dummy
 1772	Hawaiian			Hawaiian	Hawaiaan																Havaice			dummy
-1773	Hazardous activities		Actividades peligrosas 		Gevaarlijke activiteiten										Επικίνδυνες δραστηριότητες		atividades Perigosas	Atividades perigosas			Tehlikeli etkinlikler			dummy
-1774	Hazardous Activities	Farliga aktiviteter	Actividades peligrosas		Gevaarlijke activiteiten			Skadelige Aktiviteter	危险活动					Berbahaya Kegiatan	Επικίνδυνες δραστηριότητες		Atividades Perigosas	Atividades perigosas		Farliga aktiviteter	Tehlikeli Etkinlikler			dummy
+1773	Hazardous activities		Actividades peligrosas 		Gevaarlijke activiteiten										Επικίνδυνες δραστηριότητες		Actividades perigosas	Atividades perigosas			Tehlikeli etkinlikler			dummy
+1774	Hazardous Activities	Farliga aktiviteter	Actividades peligrosas		Gevaarlijke activiteiten			Skadelige Aktiviteter	危险活动					Berbahaya Kegiatan	Επικίνδυνες δραστηριότητες		Actividades Perigosas	Atividades perigosas		Farliga aktiviteter	Tehlikeli Etkinlikler			dummy
 1775	HCFA left margin in points		Margen izquierdo de HCFA en puntos 		Linkermarge HCFA in punten										Αριστερό όριο HCFA σε σημεία		HCFA deixou margens em pontos	HCFA margem esquerda em pontos			HCFA sol kenarlık			dummy
 1776	HCFA Margins		Márgenes de HCFA 		Marges HCFA										Ορια HCFA		HCFA Margens	Margens HCFA			HCFA Kenarlıkları			dummy
 1777	HCFA top margin in points		Margen superior de HCFA en puntos 		Bovenmarge in punten										Ανω όριο HCFA σε σημεία		HCFA tampam margens em pontos	HCFA margem superior nos pontos			HCFA üst kenarlığı			dummy
@@ -1784,7 +1784,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1779	Head	Huvud	Cabeza	Kopf	Hoofd			Hode	头					Kepala	Κεφαλή		Cabeça	Cabeça		Huvud	Baş			dummy
 1780	Head Circ		Jefe Circ 	Kopfumfang	Hoofdomt.										Περίμ. Κεφ.		Circ Da Cabeça	Chefe Circ			Baş Çev			dummy
 1781	Head Circumference		Circunferencia principal 	Kopfumfang	Hoofdomtrek										Περίμετρος Κεφαλής		Circunferência da Cabeça	Perímetro cefálico			Baş Çevresi			dummy
-1782	Headache		Dolor de cabeza 	Kopfschmerz	Hoofdpijn										Κεφαλαλγία		Dor da Cabeça	Dor de cabeça			Baş Ağrısı			dummy
+1782	Headache		Dolor de cabeza 	Kopfschmerz	Hoofdpijn										Κεφαλαλγία		Dor de Cabeça	Dor de cabeça			Baş Ağrısı			dummy
 1783	Headaches	Huvudvärk	Dolores de cabeza	Kopfschmerzen	Hoofdpijnen			Hodepine	头痛					Sakit kepala	Κεφαλαλγίες		Dores de Cabeça	Dores de cabeça		Huvudvärk	Baş ağrıları			dummy
 1784	health care operations				gezondheidszorg operaties																sağlık işlemleri			dummy
 1785	Health Care Operations				Gezondheidszorg operaties																Sağlık İşlemleri 			dummy
@@ -1820,7 +1820,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1815	Hepatitis B 1		Hepatitis B 1	Hepatitis B 1	Hepatitis B 1										Ηπατ. Β 1		Hepatite B 1	Hepatite B 1			Hepatit B 1			dummy
 1816	Hepatitis B 2		Hepatitis B 2	Hepatitis B 2	Hepatitis B 2										Ηπατ. Β 2		Hepatite B 2	Hepatite B 2			Hepatit B 2			dummy
 1817	Hepatitis B 3		Hepatitis B 3	Hepatitis B 3	Hepatitis B 3										Ηπατ. Β 3		Hepatite B 3	Hepatite B 3			Hepatit B 3			dummy
-1818	here		aqui	hier	hier										εδώ		Aqui	aqui			buraya			dummy
+1818	here		aqui	hier	hier										εδώ		aqui	aqui			buraya			dummy
 1819	Hernia Repair	Bråck Reparation	La reparación de la hernia	Hernienversorgung	Hernia herstel				疝修补术					Hernia Repair	Διόρθωση Κήλης		Conserto da Hérnia	Hernia Repair		Bråck Reparation	Fıtık Onarımı			dummy
 1820	Herniated Disc	Diskbråck	disco herniado		HNP				腰椎间盘突出					Herniated Disc	Κήλη δίσκου		Disco Herniado	Hérnia de disco		Diskbråck	Disk Hernisi			dummy
 1821	Herpes	Herpes	Herpes	Herpes	Herpes			Herpes	疱疹					Herpes	Έρπης 		Herpes	Herpes		Herpes	Herpes			dummy
@@ -1831,14 +1831,14 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1826	Hib 3		Hib 3	HIB 3	HIB 3				B型流感嗜血杆菌结合疫苗 3								Hib 3	Hib 3			Hib 3			dummy
 1827	Hib 4		Hib 4	HIB 4	HIB 4				B型流感嗜血杆菌结合疫苗 4								Hib 4	Hib 4			Hib 4			dummy
 1828	Hidden	Dolda	Oculto	Ausgeblendet	Verborgen			Skjult	隐藏					Tersembunyi	Κρυφό		Esconder	Oculto		Dolda	Gizli			dummy
-1829	Hidden Events Administration	Dolda Händelser Administration	Administración de eventos ocultos	Versteckte Termine administrieren	Verborgen gebeurtenis administratie				隐藏活动管理					Peristiwa tersembunyi Administrasi	Διαχείριση κρυφών Συμβάντων		Administração de Eventos Escondida	Administração de Eventos Ocultos		Dolda Händelser Administration	Gizli Olaylar Yönetimi			dummy
+1829	Hidden Events Administration	Dolda Händelser Administration	Administración de eventos ocultos	Versteckte Termine administrieren	Verborgen gebeurtenis administratie				隐藏活动管理					Peristiwa tersembunyi Administrasi	Διαχείριση κρυφών Συμβάντων		Administração de Eventos Escondidos	Administração de Eventos Ocultos		Dolda Händelser Administration	Gizli Olaylar Yönetimi			dummy
 1830	Hide	Gömma	Ocultar	Ausblenden	Verbergen			Skjul	隐藏					Sembunyi	Απόκρυψη		Ocultar	Ocultar		Gömma	Gizle			dummy
 1831	Hide Details	Dölj detaljer	Ocultar detalles	Details ausblenden	Verberg details			Skjul Detaljer	隐藏详细信息					Sembunyikan Detail	Απόκρυψη λεπτομερειών		Ocultar detalhes	Ocultar Detalhes		Dölj detaljer	Ayrıntıları Gizle			dummy
 1832	Hide/Show Columns		Ocultar/Mostrar Columnas	Spalten aus-/einblenden	Verberg/Toon kolommen										Απόκρ./ Εμφάνιση Στηλών		Ocutar/Mostrar Colunas				Sütunları Gizle/Göster			dummy
 1833	High	Hög	Alto	Höhe	Hoog				高的					Tinggi	Υψηλή		Alto	Alto		Hög	Yüksek			dummy
 1834	High Blood Pressure	Högt blodtryck	Presión Sanguínea Alta	Bluthochdruck	Hoge bloeddruk			Høyt Bloodtrykk	血压高					Tekanan Darah tinggi	Αρτηρ. Υπέρταση		Hipertensão	Alta Pressão Sanguínea		Högt blodtryck	Yüksek Kan Basıncı			dummy
-1835	Hip + groin	Höft + ljumske	Cadera + ingle		Heup en liezen			Hofte + lysk	嘻哈+腹股沟					Hip + kunci paha	Ισχίο + βουβωνική χώρα		anca + virilha	anca + virilha		Höft + ljumske	Kalça + kasık			dummy
-1836	Hip and groin	Höft och ljumske	Cadera y ingle		Heup en liezen			Hofte og lysk	髋部和腹股沟					Kunci paha dan hip	Ισχίο και βουβωνική χώρα		anca e virilha	anca e virilha		Höft och ljumske	Kalça ve kasık			dummy
+1835	Hip + groin	Höft + ljumske	Cadera + ingle		Heup en liezen			Hofte + lysk	嘻哈+腹股沟					Hip + kunci paha	Ισχίο + βουβωνική χώρα		Anca + virilha	anca + virilha		Höft + ljumske	Kalça + kasık			dummy
+1836	Hip and groin	Höft och ljumske	Cadera y ingle		Heup en liezen			Hofte og lysk	髋部和腹股沟					Kunci paha dan hip	Ισχίο και βουβωνική χώρα		Anca e virilha	anca e virilha		Höft och ljumske	Kalça ve kasık			dummy
 1837	Hip Problems	Hip Problem	Problemas de cadera		Heupproblemen			Hofte Problemer	髋关节的问题					Hip Masalah	Προβλήμ. ισχίου		Problemas de anca	Problemas no anca		Hip Problem	Kalça sorunları			dummy
 1838	Hip Replacement	Höftledsplastik	Reemplazo de Cadera		Heupvervanging			Hofte Erstatning	髋关节置换术					Hip Replacement	Αντικατάσταση ισχίου		Substituição de anca	anca Replacement		Höftledsplastik	Kalça Protezi			dummy
 1839	HIPAA Notice Received	Ej Tilldelad	Aviso Recibido de HIPPA		HIPAA notitie ontvangen				HIPAA标准的通知收稿					HIPAA Notice Diterima	Ελήφθη Ειδοποίηση HIPAA		Recebeu a Notícia HIPAA	HIPAA Aviso Recebido		Ej Tilldelad	HIPAA Uyarısı Alındı			dummy
@@ -1847,21 +1847,21 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1842	Hispanic - Other (Born in US)			Hispanic - Andere (Geboren in US)	Spaans - anders (geb. in USA)																Esmer - Diğer ( ABD de doğmuş)			dummy
 1843	Hispanic - Other (Born outside US)			Hispanic - Andere (Geboren nicht in US)	Spaans - anders (geb. niet USA)																Esmer - Diğer ( ABD dışında doğmuş)			dummy
 1844	Hispanic or Latino				Spaans of Latino																			dummy
-1845	History	Historia	Historial	Verlauf	Historie			Historie	历史					Sejarah	Ιστορικό		História	Histórico		Historia	Öykü			dummy
-1846	History Data	Historikdata	Historia de Datos	Verlaufsdaten	Voorgeschiedenis(sen)				历史数据					Sejarah Data	Ιστορικά δεδομένα		Dados da História	Dados Históricos		Historikdata	Öykü Verisi			dummy
-1847	History Date				Datum van historie																			dummy
+1845	History	Historia	Historial	Verlauf	Historie			Historie	历史					Sejarah	Ιστορικό		Histórico	Histórico		Historia	Öykü			dummy
+1846	History Data	Historikdata	Historia de Datos	Verlaufsdaten	Voorgeschiedenis(sen)				历史数据					Sejarah Data	Ιστορικά δεδομένα		Dados do Histórico	Dados Históricos		Historikdata	Öykü Verisi			dummy
+1847	History Date				Datum van historie												Data do Histórico							dummy
 1848	History Murmur		Historia de Murmullos	Geräuschverlauf	Geruis in verleden				心脏杂音病史						Ιστορικό φυσημάτων		História de Murmúrio	História Murmur			Üfürüm Öyküsü			dummy
-1849	History not authorized			Nicht für Verlauf berechtigt	Historie niet geauthoriseerd										Μη εξουσιοδοτημένο ιστορικό	History not authorised					Öykü yetkilendirilmemiş			dummy
+1849	History not authorized			Nicht für Verlauf berechtigt	Historie niet geauthoriseerd										Μη εξουσιοδοτημένο ιστορικό	History not authorised	Histórico não autorizado				Öykü yetkilendirilmemiş			dummy
 1850	History of Heart Murmur		Historia de los Murmullos de Corazón 	Herzgeräuschverlauf	Hartsoufle in verleden				心脏杂音病史						Ιστορικό καρδιακών φυσημάτων		História de Murmúrio do Coração	History of Heart Murmur			Kalp Üfürümü Öyküsü			dummy
-1851	Hits		Hits	Treffer	Slagen																Vuruşlar			dummy
-1852	HIV		HIV	HIV	HIV				人体免疫缺损病毒，艾滋病病毒 						HIV		HIV	HIV			HIV			dummy
+1851	Hits		Hits	Treffer	Slagen												Resultados				Vuruşlar			dummy
+1852	HIV		HIV	HIV	HIV				人体免疫缺损病毒，艾滋病病毒 						HIV		VIH	HIV			HIV			dummy
 1853	HL7 Viewer		Espectador HL7 	HL7 Viewer	HL7 bekijken				HL7标准浏览器					HL7 Viewer	HL7 Viewer		Visualizador HL7	HL7 Viewer			HL7 Görüntüleyici			dummy
 1854	HMOL/L		HMO/L	HMOL/L	HMOL/L																HMOL/L			dummy
 1855	Hmong			Hmong	Hmong																Hmongca			dummy
-1856	Hold down [Ctrl] for multiple selections or to unselect	Håll ner [Ctrl] för flera val eller avmarkera	Mantener apretado Control para selecciones múltiples o deseleccionar	[STRG] halten um mehrere Einträge zu selektieren	Druk op [Ctrl] voor meerdere keuze\'s of om selectie ongedaan te maken			Hold nede [Ctrl] for å velge flere eller til å ta bort individuelle	按住[ Ctrl键]以便进行多项选择或取消					Menekan [Ctrl] untuk beberapa pilihan atau unselect	Κρατήστε το [Ctrl] πατημένο για πολλαπλή επιλογή ή αποεπιλογή		unselect	Segure a tecla [Ctrl] para seleção múltipla ou desfazer seleção		Håll ner [Ctrl] för flera val eller avmarkera	Çoklu seçim yapmak veya seçimden çıkarmak için [Ctrl] yi basılı tutunuz.			dummy
-1857	Hold down Ctrl to select multiple items	Håll ned Ctrl för att välja flera objekt	Mantener apretado Control para seleccionar múltiples elementos	[STRG] halten um mehrere Einträge zu selektieren	Druk op Ctrl om meerdere items te selecteren				按住CTRL键选择多个项目					Menekan Ctrl untuk memilih beberapa item	Κρατήστε το [Ctrl] πατημένο για επιλογή πολλών αντικειμένων		Pressione Ctrl para celecional múltiplos itens	Segue a tecla [Ctrl] para selecionar múltiplos itens		Håll ned Ctrl för att välja flera objekt	Çok kalem seçmek için [Ctrl] yi basılı tutunuz			dummy
-1858	Hold down Ctrl to select multiple squads	Håll ned Ctrl för att välja flera patruller	Mantenga presionada la tecla CTRL para seleccionar varios escuadrones	[STRG] halten um mehrere Einträge zu selektieren	Druk op Ctrl om meerdere groepen te selecteren				按住CTRL键选择多个敢死队					Menekan Ctrl untuk memilih beberapa squads	Κρατήστε το [Ctrl] πατημένο για επιλογή πολλών ομάδων		Pressione Ctrl para celecional múltiplas esquadras	Segure a tecla [Ctrl] para selecionar vários esquadrões		Håll ned Ctrl för att välja flera patruller	Çok takım seçmek için [Ctrl] yi basılı tutunuz			dummy
-1859	Home	Hem	Casa	Heimanschrift	Home				家					Rumah	Οικία		Casa	Início		Hem	Ev			dummy
+1856	Hold down [Ctrl] for multiple selections or to unselect	Håll ner [Ctrl] för flera val eller avmarkera	Mantener apretado Control para selecciones múltiples o deseleccionar	[STRG] halten um mehrere Einträge zu selektieren	Druk op [Ctrl] voor meerdere keuze\'s of om selectie ongedaan te maken			Hold nede [Ctrl] for å velge flere eller til å ta bort individuelle	按住[ Ctrl键]以便进行多项选择或取消					Menekan [Ctrl] untuk beberapa pilihan atau unselect	Κρατήστε το [Ctrl] πατημένο για πολλαπλή επιλογή ή αποεπιλογή		Pressione [Ctrl] para seleccionar vários itens	Segure a tecla [Ctrl] para seleção múltipla ou desfazer seleção		Håll ner [Ctrl] för flera val eller avmarkera	Çoklu seçim yapmak veya seçimden çıkarmak için [Ctrl] yi basılı tutunuz.			dummy
+1857	Hold down Ctrl to select multiple items	Håll ned Ctrl för att välja flera objekt	Mantener apretado Control para seleccionar múltiples elementos	[STRG] halten um mehrere Einträge zu selektieren	Druk op Ctrl om meerdere items te selecteren				按住CTRL键选择多个项目					Menekan Ctrl untuk memilih beberapa item	Κρατήστε το [Ctrl] πατημένο για επιλογή πολλών αντικειμένων		Pressione Ctrl para seleccionar vários itens	Segue a tecla [Ctrl] para selecionar múltiplos itens		Håll ned Ctrl för att välja flera objekt	Çok kalem seçmek için [Ctrl] yi basılı tutunuz			dummy
+1858	Hold down Ctrl to select multiple squads	Håll ned Ctrl för att välja flera patruller	Mantenga presionada la tecla CTRL para seleccionar varios escuadrones	[STRG] halten um mehrere Einträge zu selektieren	Druk op Ctrl om meerdere groepen te selecteren				按住CTRL键选择多个敢死队					Menekan Ctrl untuk memilih beberapa squads	Κρατήστε το [Ctrl] πατημένο για επιλογή πολλών ομάδων		Pressione Ctrl para seleccionar múltiplas esquadras	Segure a tecla [Ctrl] para selecionar vários esquadrões		Håll ned Ctrl för att välja flera patruller	Çok takım seçmek için [Ctrl] yi basılı tutunuz			dummy
+1859	Home	Hem	Casa	Heimanschrift	Home				家					Rumah	Οικία		Início	Início		Hem	Ev			dummy
 1860	Home Phone	Hemtelefon	Teléfono de casa	Tel. privat	Tel. prive			Hjemme Telefon	家庭电话					Telepon Rumah	Τηλέφωνο οικίας 		Telefone de Casa	Telefone Residencial		Hemtelefon	Ev Telefonu			dummy
 1861	Home Phone Number		Teléfono de Casa 	Tel. privat	Tel. prive										Αριθμ. τηλεφ. Οικίας 		Número de Telefone de Casa	Número de telefone residencial			Ev Telefon Numarası			dummy
 1862	Homeless or similar?	Hemlös eller liknande?	Sin hogar o similares?	Obdachlos oder vergleichbar	Dakloos of vergelijkbaar				无家可归或类似？					Wisma atau sama?	Άστεγος ή παρόμοιο;		Sem-abrigo ou similar?	Sem-teto ou similar?		Hemlös eller liknande?	Evsiz veya benzer?			dummy
@@ -1893,7 +1893,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1888	ICD		ICD	ICD	REK				国际疾病分类					ICD	ICD		ICD	CID	التصنيف الدولي للأمراض 		ICD			dummy
 1889	ICD9		ICD9	ICD9	ICD9										ICD9		ICD9	CID9	التصنيف الدولي للأمراض - الطبعة التاسعة		ICD9			dummy
 1890	ID		Identificación 	ID	ID				编号					ID	Κωδικός		ID	RG			ID			dummy
-1891	Id				Id																			dummy
+1891	Id				Id												Id							dummy
 1892	ID cannot be blank		La ID no puede quedar en blanco	ID kann nicht leer sein	ID moet ingevuld zijn										Ο κωδικός δεν μπορεί να είναι κενός		ID não pode ficar em branco	Identificação não pode estar em branco			ID boş olamaz			dummy
 1893	ID Card				ID kaart																			dummy
 1894	IDays		IDays	IDays	IDagen				IDays					IDays			Idias	IDays			IDays			dummy
@@ -1929,12 +1929,12 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1924	Import Patient Demographics	Importera Patientdemografi	Paciente de importación Demografía 		Importeer persoonsgeg. van client				输入性病人统计数据						Εισαγ. δημογραφ. ασθενούς		Importar Demografia do Utente	Importar Informações do Paciente		Importera Patientdemografi	Hasta Demografik Bilgilerini içe aktar			dummy
 1925	Imported from Accounting	Importerad från Accounting	Importados de Contabilidad		Geimporteerd van accountantrekening			Importert fra Økonomi	进口会计					Diimpor dari Akuntansi	Εισήχθη από το Λογιστήριο		Importado apartir da Contabilidade	Importado da Contabilidade		Importerad från Accounting	Muhasebeden içe aktarıldı			dummy
 1926	Improved	förbättrad	Mejorado 	Verbessert	Verbeterd				改良的						Βελτιωμένο		Melhorado	Melhoria		förbättrad	İyileştirilmiş			dummy
-1927	in	i	dentro	in	in			i	在					di	ίντσες		dentro	em		i	içinde			dummy
-1928	IN		DENTRO	IN	IN												Dentro	EM			İÇİNDE			dummy
+1927	in	i	dentro	in	in			i	在					di	ίντσες		disponível	em		i	içinde			dummy
+1928	IN		DENTRO	IN	IN												DISPONÍVEL	EM			İÇİNDE			dummy
 1929	in each eye	i båda ögonen	dentro de cada ojo	in beiden Augen	in beide ogen			i hvert øye	在每只眼睛					di setiap mata	σε κάθε οφθαλμό 		Em cada olho	em cada olho		i båda ögonen	her bir gözde			dummy
 1930	in left eye	i vänster öga	en ojo izquierdo	im linken Auge	in linker oog			i venstre øye	在左眼					di mata kiri	στον Αριστ. οφθαλμό 		no olho esquerdo	no olho esquerdo		i vänster öga	sol gözde			dummy
 1931	in nostril	i näsborre	en los agujeros de la nariz		in neusgat			i nesa	在鼻孔					dalam lubang hidung	στον Ρώθωνα		na narina	na narina		i näsborre	burun deliğinde			dummy
-1932	In Office	Arbetar	En Oficina 	Im Büro	Op kantoor										Στο γραφείο		no consultório	Na Clínica - Disponível		Arbetar	Ofiste			dummy
+1932	In Office	Arbetar	En Oficina 	Im Büro	Op kantoor										Στο γραφείο		Disponível	Na Clínica - Disponível		Arbetar	Ofiste			dummy
 1933	in right eye	i höger öga	en ojo derecho	im rechten Auge	in rechteroog			i høyre øye	在右眼					di mata kanan	Στο Δεξιό οφθαλμό 		no olho direto	no olho direito		i höger öga	sağ gözde			dummy
 1934	in-house		Dentro de la empresa		op voorraad			innom hus	在内部					in-house	Κατ\' οίκον		interno	em casa			ev içi			dummy
 1935	Inactive		Inactivo 	Inaktiv	Inactief										Ανενεργό		Inativo	Inativo			inaktif			dummy
@@ -2250,7 +2250,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 2245	Location where scans are stored.				Locatie waar de scans worden bewaard																			dummy
 2246	Location:	Lokalisation	Localización:		Locatie:									Lokasi:	Τοποθεσία:		Localização:	Localização:		Lokalisation	Yer:			dummy
 2247	Lock		Bloquear		Afsluiten										Κλείδωμα						Kilit			dummy
-2248	Logged in	Inloggad	Iniciar sesión		Ingelogd			Inlogget	登录					Login	Συνδέθηκε σε		Sessão iniciada	Logado		Inloggad	Girdi			dummy
+2248	Logged in	Inloggad	Iniciar sesión		Ingelogd			Inlogget	登录					Login	Συνδέθηκε σε		Sessão	Logado		Inloggad	Girdi			dummy
 2249	Logged in as	Inloggad som	Abierto una sesión como		Actieve gebruiker 			Logget in som	登录身份为					Login sebagai	Συνδέθηκε ως		Sessão iniciada como	Logado como		Inloggad som	Girdi:			dummy
 2250	Logged in as: 	Inloggad som:	Abierto una sesión como:		Actieve gebruiker: 			Logget in som:						Login sebagai:	Συνδέθηκε ως:		Sessão iniciada como:	Logado como:		Inloggad som:	Olarak girdi:			dummy
 2251	Logged out.	Utloggad.	Salir de sesión.		Afgemeld.			Logget ut.	登出					Keluar.	Αποσυνδέθηκε.		Sessão terminada.	Desconectado.		Utloggad.	Çıktı.			dummy
@@ -2267,8 +2267,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 2262	Low	låg	Bajo		Laag				低的					Rendah	Χαμηλό		Baixo	Baixo		låg	Düşük			dummy
 2263	Lower leg	Benet	Pierna inferior		Onderbeen				小腿					Rendah kaki	Κάτω άκρο		Perna mais baixa	Perna		Benet	Alt bacak			dummy
 2264	Lumbar spine	Lumbal delen av ryggraden	Columna lumbar		Lumbale wervelkolom				腰脊柱					Lumbar spine	Οσφ.Μ.Σ.Σ.		Espinha Lombar	Coluna lombar		Lumbal delen av ryggraden	Lomber omurgalar			dummy
-2265	LUNCH	LUNCH	ALMUERZO 	Mittagessen	LUNCH				午餐						ΓΕΥΜΑ 		ALMIÇO	Horário de Almoço		LUNCH	ÖĞLE			dummy
-2266	Lunch	Lunch	almuerzo	Mittagessen	Lunch										Γεύμα		almoço	Horário de Almoço		Lunch	Öğle Yemeği			dummy
+2265	LUNCH	LUNCH	ALMUERZO 	Mittagessen	LUNCH				午餐						ΓΕΥΜΑ 		ALMOÇO	Horário de Almoço		LUNCH	ÖĞLE			dummy
+2266	Lunch	Lunch	almuerzo	Mittagessen	Lunch										Γεύμα		Almoço	Horário de Almoço		Lunch	Öğle Yemeği			dummy
 2267	Lung Cancer	Lung Cancer	cáncer de pulmón	Lungenkrebs	Longkanker			Lunge Kreft	肺癌					Kanker paru-paru	Καρκίνος του πνεύμονα 		Cancro do Pulmão	Câncer de Pulmão		Lung Cancer	Akciğer Kanseri			dummy
 2268	Lung Cancer Surgery	Lung Cancer kirurgi	Cirugía del cáncer de pulmón 	Thoraxchirurgie bei Lungenkrebs	Longkanker chirurgie				肺癌手术					Kanker Paru Bedah	Χειρουργική καρκίνου του πνεύμονα 		Cirurgia de Cancro do Pulmão	Cirurgia de Câncer de Pulmão		Lung Cancer kirurgi	Akciğer Kanseri Cerrahisi			dummy
 2269	LUNGS:	Lungor:	PULMONES:	Lungen:	LONGEN:			LUNGER:						Paru-paru:	ΠΝΕΥΜΟΝΕΣ:		PULMÕES:	Pulmões:		Lungor:	AKCİĞERLER:			dummy
@@ -3098,28 +3098,28 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3093	Pre Payment				Vooruit betaling																Ön Ödeme			dummy
 3094	Pre-Abortion Consultation		Consulta del Pre-Aborto 		Consultatie pre-abortus									Pra-Abortion Konsultasi	Συμβουλή προ της άμβλωσης		Consulta de Pre-aborto	Consulta pré-aborto			Düşük-Öncesi Konsültasyon			dummy
 3095	Pre-Abortion Counseling		Asesoramiento del Pre-Aborto 		Pre-abortus begeleiding									Pra-Abortion Konseling	Συμβουλευτική προ της άμβλωσης		Pre-aborto Aconselhando	Aconselhamento pré-aborto			Düşük Öncesi Danışma			dummy
-3096	Pref Cat		Gato de Pref		Pref Cat									Pref Cat	Προτιμ κατηγ		Gato de Pref	Pref Cat			Seç Kat			dummy
-3097	Preferences				Voorkeuren																Tercihler			dummy
+3096	Pref Cat		Gato de Pref		Pref Cat									Pref Cat	Προτιμ κατηγ		Categoria de Preferência	Pref Cat			Seç Kat			dummy
+3097	Preferences				Voorkeuren												Preferências				Tercihler			dummy
 3098	Preferred Event Category		Categoría preferida del evento		Voorkeurs gebeurtenissen categorie									Even yang dipilih Kategori	Προτιμώμενη κατηγορία συμβάντων		Categoria de Evento preferida	Preferidos Categoria do evento			Seçilen Olay Kategorisi			dummy
-3099	Preferred Language		Lengua preferida 		Voorkeurstaal									Preferred Language	Προτιμώμενη γλώσσα 		Idioma preferido	Idioma preferido			Seçilen Dil			dummy
-3100	Preferred Pharmacy		Preferencia Farmacia		Voorkeursapotheek										Προτιμώμενο φαρμακείο		Farmácia preferida	Preferidos Farmácia			Seçilen Eczane			dummy
+3099	Preferred Language		Lengua preferida 		Voorkeurstaal									Preferred Language	Προτιμώμενη γλώσσα 		Idioma Preferido	Idioma preferido			Seçilen Dil			dummy
+3100	Preferred Pharmacy		Preferencia Farmacia		Voorkeursapotheek										Προτιμώμενο φαρμακείο		Farmácia Preferida	Preferidos Farmácia			Seçilen Eczane			dummy
 3101	Preferred Provider Organization (PPO)		Organización de Proveedor Preferido (PPO)		Preferred Provider Organization (PPO)									Preferred Provider Organization (PPO)	Προτιμώμενο οργανισμός Παρόχου	Preferred Provider Organisation (PPO)	Provedor Organization preferida (PPO)	Preferred Provider Organization (PPO)			Seçilen Sağlayıcı Örgüt			dummy
 3102	Preg Test	Graviditets test	Prueba de embarazo		Zwang.test									Uji preg	Τέστ κύησης		Preg Test	Teste de gravidez		Graviditets test	Gebelik Testi			dummy
-3103	Preliminary		Preliminar		Voorlopig										Προκαταρκτικός/ ή						İlk			dummy
+3103	Preliminary		Preliminar		Voorlopig										Προκαταρκτικός/ ή		Preliminar				İlk			dummy
 3104	Prepay	Förskottsbetalning 	Pague por Adelantado		Vooruitbetalen									Prabayar	Προπληρωμή 		Pague	Pagamento antecipado		Förskottsbetalning 	Ön Ödeme			dummy
 3105	Prescription		Prescripción 		Recept										Συνταγή		Prescrição	Prescrição			Reçete			dummy
 3106	prescription has reached its limit of		Receta ha alcanzado sus limites de		recept heeft de limiet bereikt van										η συνταγή έφθασε στο όριό της των						reçete limitine ulaştı:			dummy
 3107	Prescription Label	Receptbelagda märken	Etiqueta de la prescripción		Receptlabel									Resep Label	Συνταγογραφούμενη ετικέτα 		Rótulo de prescrição	Prescrição Label		Receptbelagda märken	Reçete Etiketi			dummy
-3108	Prescription Report				Voorschrijf rapport																Reçete Raporu			dummy
+3108	Prescription Report				Voorschrijf rapport												Relatório de Prescrição				Reçete Raporu			dummy
 3109	Prescriptions	Recept 	Prescripciónes		Recept									Resep	Συνταγές 		Prescrições	Prescrição		Recept 	Reçeteler			dummy
 3110	Prescriptions and Dispensations	Föreskrifter och dispenser 	Prescripciones y dispensaciones 		Voorschriften en Ontheffingen									Resep dan Dispensations	Συνταγές και σκευάσματα		Prescrições e Dispensações	Prescrição e dispensas		Föreskrifter och dispenser 	Reçeteler ve Dağıtımlar			dummy
 3111	Prescriptions and other referrals	Recept och andra råd	Recetas y otras referencias 		Voorschriften en andere verwijzingen										Συνταγές και άλλες παραπομπές		Prescrições e outras indicações	Prescrições e outras referências		Recept och andra råd	Reçeteler ve diğer sevkler			dummy
 3112	Prescriptions and/or referrals by specialist	Recept och andra råd av specialist	Prescripciones y/o remisiones del especialista 		Voorschriften en/of verwijzing door specialist									Resep dan / atau arahan oleh pakar	Συνταγές ή/ και παραπομπές από ειδικό		Indicações de and/or de prescrições por especialista	Prescrições e / ou referências do especialista		Recept och andra råd av specialist	Reçeteler ve/veya uzmanın sevkleri			dummy
 3113	Prescriptions Report	recept rapport	Informe de las prescripciones 		Verslag van recepten									Resep Lapor	Αναφορά συνταγών		Prescrições Informam	Prescrição Relatório		recept rapport	Reçeteler Raporu			dummy
 3114	Prescriptions/Referrals	Recept/råd	Prescripciones/remisiones		Voorschriften/Verwijzingen									Resep / Arahan	Συνταγές/ Παραπομπές		Prescriptions/Referrals	Prescrição / Registo		Recept/råd	Reçeteler/Sevkler			dummy
-3115	Present		Presente		Aanwezig										Παρών						Mevcut			dummy
+3115	Present		Presente		Aanwezig										Παρών		Presente				Mevcut			dummy
 3116	Presenting Complaint	Presentera Klagomål	Presentación de queja		Klacht zoals gepresenteerd									Mempresentasikan Complaint	Κύριο ενόχλημα		Reclamação apresentando	Apresentar Queixa		Presentera Klagomål	Başvuru Yakınması			dummy
-3117	Press Continue to proceed	Tryck på fortsätt för att fortsätta	Pulse Continuar para proseguir		Druk op Doorgaan om verder te gaan										Πατήστε Συνέχεια για να προχωρήσετε 		Imprensa Continua procedendo	Pressione Continuar para prosseguir		Tryck på fortsätt för att fortsätta	İlerlemek için Devam ı Tıklayınız.			dummy
+3117	Press Continue to proceed	Tryck på fortsätt för att fortsätta	Pulse Continuar para proseguir		Druk op Doorgaan om verder te gaan										Πατήστε Συνέχεια για να προχωρήσετε 		Pressione Continuar	Pressione Continuar para prosseguir		Tryck på fortsätt för att fortsätta	İlerlemek için Devam ı Tıklayınız.			dummy
 3118	Presumed Diagnosis	Förmodad diagnos	Diagnosis presumida		Voorlopige diagnose									Disangka Diagnosis	Αρχική Διάγνωση		Diagnose presumida	Presume-Diagnóstico		Förmodad diagnos	Tahmini Tanı			dummy
 3119	Presumed diagnosis by specialist	Förmodad diagnos från specialist	Diagnosis presumida del especialista 		Vermoedelijke diagnose van specialist									Disangka diagnosa oleh pakar	Υποτιθέμενη διάγνωση από Ειδικό		Diagnose presumida por especialista	Diagnóstico presumido por especialista		Förmodad diagnos från specialist	Uzmanın Tahmini Tanısı			dummy
 3120	Prev	Föregående	Previa		Terug									Prev	Προηγ 		Prev	Anterior		Föregående	Önceki			dummy
@@ -3403,11 +3403,11 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3398	Relay Health ID		Relay Health ID		Relay Health ID									Kesehatan relay ID	Αναγνωριστικό πιστοποιήσεων υγείας 		Retransmita ID para Saúde	Relay Saúde ID			Yedek Sağık ID			dummy
 3399	Religion	Religion 	Religión		Religie									Agama	Θρησκεία 		Religião	Religião		Religion 	Din			dummy
 3400	Relogin	Relogin 	Re-Validar		Opnieuw inloggen									Relogin	Επανασύνδεση		Relogin	Relogin		Relogin 	Tekrar giriş			dummy
-3401	Remdr				Remdr																Remdr			dummy
-3402	Remember Selected Facility				Onthoud de geselecteerde Fasciliteit										Να θυμάσαι την επιλεχθείσα έδρα						Seçili Tesisi Anımsa			dummy
+3401	Remdr				Remdr												Lembrete				Remdr			dummy
+3402	Remember Selected Facility				Onthoud de geselecteerde Fasciliteit										Να θυμάσαι την επιλεχθείσα έδρα		Recordar Clínica Seleccionada				Seçili Tesisi Anımsa			dummy
 3403	REMIT TO		REMITIR A		Opnieuw toezenden aan										ΑΠΟΣΤΟΛΗ ΠΡΟΣ						HAVALE EDİLECEK ALICI:			dummy
-3404	Remove		Quitar		Verwijderen										Αφαίρεση		Remova	Remover			Kaldır			dummy
-3405	Remove Group	Ta bort grupp 	Eliminar Grupo		Groep verwijderen									Hapus Grup	Κατάργηση ομάδας 		Remova Grupo	Remover Grupo		Ta bort grupp 	Grubu Kaldır			dummy
+3404	Remove		Quitar		Verwijderen										Αφαίρεση		Remover	Remover			Kaldır			dummy
+3405	Remove Group	Ta bort grupp 	Eliminar Grupo		Groep verwijderen									Hapus Grup	Κατάργηση ομάδας 		Remover Grupo	Remover Grupo		Ta bort grupp 	Grubu Kaldır			dummy
 3406	Remove Group Form		Eliminar el formulario del grupo		Groepsformulier verwijderen										Κατάργηση εντύπου ομάδας 		Remova Forma de Grupo	Remover Grupo Forma			Grubu Kaldır			dummy
 3407	Removes support for immunizations				Verwijder ondersteuning voor vaccinaties										Αφαιρεί υποστήριξη για ανοσοποιήσεις						Aşılamalar için desteği kaldırır.			dummy
 3408	Removes support for phpMyAdmin				Verwijder ondersteuning voor phpMyAdmin										Αφαιρεί υποστήριξη για την phpMyAdmin						phpMyAdmin desteğini kaldırır			dummy
@@ -3418,7 +3418,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3413	Rendering		Representación 		Weergavestijl									Rendering	Απόδοση		Fazendo	Rendering			İş			dummy
 3414	Rendering Provider		Representación del Proveedor		Weergavestijl behandelaar									Rendering Provider	Πάροχος απόδοσης		Provedor fazendo	Rendering Provider			İş Sağlayıcı			dummy
 3415	Rendering Provider Number		Numero Representación del Proveedor		Weergavestijl behandelaar nummer									Rendering Provider Pajak	Αριθμός παρόχου απόδοσης		Provedor Number fazendo	Rendering Provider Number			İş Sağlayıcı Numarası			dummy
-3416	Reorder				Bijbestellen										Επαναταξινόμηση						Tekrar Sipariş			dummy
+3416	Reorder				Bijbestellen										Επαναταξινόμηση		Reordenar				Tekrar Sipariş			dummy
 3417	Reorder At		Al reordenar 		Nabestelling bij									Pada menyusun ulang	Επαναταξινόμηση σε		Reordene A	Ao reordenar			De Tekrar Sipariş			dummy
 3418	Reorder point has been reached				Voorraad is laag, bijbestellen																Tekrar sipariş noktasına erişildi			dummy
 3419	Rep				Rep																Tekr			dummy
@@ -3438,8 +3438,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3433	Requested Service		Servicio Solicitado 		Aangevraagde Service									Diminta Layanan	Αιτηθείσα υπηρεσία 		Serviço pedido	Serviço solicitado			İstenen Hizmet			dummy
 3434	Require Strong Passwords				Sterk Paswoord noodzakelijk										Απαιτούνται ισχυροί κωδικοί πρόσβασης						Kuvvetli Şifreler Gerekiyor			dummy
 3435	Require Unique Passwords				Uniek paswoord noodzakelijk										Απαιτούνται Μοναδικοί Κωδικοί πρόσβασης						Eşsiz Şifreler Gerekiyor			dummy
-3436	Required	Nödvändig 	Requerido 		Verplicht									Diperlukan	Απαιτείται 		Requerido	Necessário		Nödvändig 	Gerekli			dummy
-3437	Required Field Missing: Please choose the EDI-271 file to upload				Noodzakelijk Veld afwezig; AUB kies de EDI file voor uploaden																Gerekli Alan Eksik. Lütfen yüklenecek EDI-271 dosyasını seçiniz.			dummy
+3436	Required	Nödvändig 	Requerido 		Verplicht									Diperlukan	Απαιτείται 		Obrigatório	Necessário		Nödvändig 	Gerekli			dummy
+3437	Required Field Missing: Please choose the EDI-271 file to upload				Noodzakelijk Veld afwezig; AUB kies de EDI file voor uploaden												Campo Obrigatório em falta: Escolha o ficheiro EDI-271 para carregar				Gerekli Alan Eksik. Lütfen yüklenecek EDI-271 dosyasını seçiniz.			dummy
 3438	RESERVED	RESERVERAD	RESERVADO		GERESERVEERD										ΚΡΑΤΗΜΕΝΟ		RESERVADO	RESERVADO		RESERVERAD	REZERVE EDİLMİŞ			dummy
 3439	Reserved	reserverad	Reservados 		Gereserveerd										Απόρρητη		Reservado	Reservado		reserverad	Rezerve edilmiş			dummy
 3440	Reserved for use to define Scheduled Vacation Time		Reservados para su uso para definir el Tiempo Programado de Vacaciones		Gereserveerd voor vakantie										Χρησιμοποιείται προς καθορισμό της Ώρας Προγραμματισμένων Διακοπών 		Reservado para uso para definir Tempo de Férias Marcado	Reservado para uso para definir o tempo de férias agendadas			Programlanmış Tatil Zamanını belirlemek için ayrılmıştır			dummy
@@ -3452,19 +3452,19 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3447	Respirator effort unlabored		Esfuerzo al Respirar		Gasmasker inspanning unlabored									Pernafasan upaya unlabored	Αναπνευστ. κινήσεις χωρίς προσπάθεια		Unlabored de esforço de respirador	Esforço Respirador unlabored			Solunum çabası artmamış			dummy
 3448	Respiratory		Respiratorias 		Gerelateerd aan ademhaling										Αναπνευστικό		Respiratório	Respiratory			Solunum			dummy
 3449	Restrict non-authorized users to the Schedule Facilities set in User admin.				Beperk niet geauthoriseerde gebrukers tot Schema Fascilities zoals vastgelegd in Gebruikers Administratie										Περιορίστε τους μη εξουσιοδοτ. χρήστες στις Schedule facilities που έχουν ορισθεί στη Διαχείριση Χρηστών	Restrict non-authorised users to the Schedule Facilities set in User admin.					Yetkili olmayan kullanıcıları programdan kısıtla			dummy
-3450	Restrict Users to Facilities				Beperk Gebruikers tot Fasciliteiten										Περιορίστε τους χρήστες στα Facilities						Kullanıcıları tesislere kısıtla			dummy
-3451	Restricted Training	Begränsat Utbildning 	Entrenamiento Restringido		Beperkte training									Pelatihan Dibatasi	Περιορισμένη κατάρτιση 		Treinamento restringido	Restrita Formação		Begränsat Utbildning 	Kısıtlı Egzersiz			dummy
+3450	Restrict Users to Facilities				Beperk Gebruikers tot Fasciliteiten										Περιορίστε τους χρήστες στα Facilities		Restringir Utilizadores a Clínicas				Kullanıcıları tesislere kısıtla			dummy
+3451	Restricted Training	Begränsat Utbildning 	Entrenamiento Restringido		Beperkte training									Pelatihan Dibatasi	Περιορισμένη κατάρτιση 		Formação Restricta	Restrita Formação		Begränsat Utbildning 	Kısıtlı Egzersiz			dummy
 3452	Result	Resultat 	Resultado		Resultaten									Hasil	Αποτέλεσμα 		Resultado	Resultado		Resultat 	Sonuç			dummy
-3453	Result Status		Estado del resultado		Resultaat van status										Κατάσταση αποτελεσμάτων						Sonuç Durumu			dummy
+3453	Result Status		Estado del resultado		Resultaat van status										Κατάσταση αποτελεσμάτων		Estado do Resultado				Sonuç Durumu			dummy
 3454	Result status or abnormality is missing		Estado del resultado o anormalidad ausente		Resultaat van status of abnormaliteit mist										Κατάσταση αποτελεσμάτων ή ανωμαλία λείπει						Sonuç durumu veya anormallik eksik			dummy
 3455	Result, use % as a wildcard				Resultaat, gebruik % als wildcard																Joker olarak % kullanınız.			dummy
-3456	Results and		Resultados y		Resultaat en										Αποτελέσματα και						Sonuçlar ve			dummy
+3456	Results and		Resultados y		Resultaat en										Αποτελέσματα και		Resultados e				Sonuçlar ve			dummy
 3457	Results Found For Search		Los resultados encontraron para la búsqueda		Resultaten gevonden voor zoeken									Hasil Pencarian Untuk Ditemukan	Βρέθηκαν αποτελέσματα για την αναζήτηση 		Resultados encontrados Para a Pesquisa	Resultados encontrados para pesquisa			Arama İçin Sonuçlar Bulundu			dummy
 3458	Retinal Exam		Examen de Retina		Onderzoek van de Retina									Retinal Ujian	Εξέταση αμφιβληστροειδούς		Exame de Retinal	Exame da retina			Retina Muayenesi			dummy
 3459	Retracted Right:	Infällda Höger: 	Se retractó de la derecha:		Teruggetrokken rechts:									Retracted Kanan:	Συρρικνωμένο δεξιά:		Direito retratado:	Retraído Direita:		Infällda Höger: 	Sağa Çekilmiş:			dummy
 3460	Return	Avkastning 	Volver		Geef waarde weer									Kembali	Επιστροφή 		Retorno	Retorno		Avkastning 	İade			dummy
 3461	Return above part with your payment		Retorne la parte superior con su pago		Suur bovenste gedeelte terug met uw betaling										Επιστρέψτε το ως άνω μέρος με την πληρωμή σας						Üstteki kısmı ödemenizle birlikte iade ediniz.			dummy
-3462	Return to calendar		Retornar al calendario		Terug naar kalender										Επιστροφή στο ημερολόγιο		Volte a calendário	Voltar à agenda			Takvime geri			dummy
+3462	Return to calendar		Retornar al calendario		Terug naar kalender										Επιστροφή στο ημερολόγιο		Voltar ao calendário	Voltar à agenda			Takvime geri			dummy
 3463	Return Value	Returvärde 	Valor Devuelto 		Resultaat									Kembali Nilai	Τιμή επιστροφής		Valor de retorno	Valor de retorno		Returvärde 	Geri Dönüş Değeri			dummy
 3464	Return Visit	Återresa	Visita de Vuelta 		Tegenbezoek									Kembali Kunjungi	Επίσκεψη παρακολούθησης		Visita de retorno	Visite Retorno		Återresa	İade -i ziyaret			dummy
 3465	Returned to Play		Volvió a jugar		Terug om te spelen									Kembali ke Putar	Επέστρεψε στο Play		Devolvido para Jogar	Voltou a jogar			Oynamak için Döndürüldü			dummy
@@ -3667,20 +3667,20 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3662	Show Authorized Only	Visa endast behöriga	Mostrar Sólo Autorizado 		Alleen geautorizeerden									Hanya menunjukkan Authorized	Προβολή μόνο των εξουσιοδοτημένων	Show Authorised Only	Mostrar só as Autorizadas	Mostrar apenas autorizado		Visa endast behöriga	Sadece Yetkilileri Göster			dummy
 3663	Show Available Times				Laat beschikbare tijd zien												Ver Períodos Disponíveis				Uygun Zamanları Göster			dummy
 3664	Show both US and metric (main unit is metric)				Toon zowel US al metriek (Metriek is voorkeurs stand)										Προβολή και του Αμερικαν. και του Μετρικού συστήματος (η κύρια μονάδα θα είναι το μετρικό)		Mostrar medidas US e métricas (defeito: métricas)				Hem Amerikan hem de metrik göster (ana birim metrik)			dummy
-3665	Show both US and metric (main unit is US)				Toond zowel US als Metriek (US heeft voorkeur)										Προβολή και του Αμερικαν. και του Μετρικού συστήμ. (η κύρια μονάδα θα είναι το Αμερικαν.)						Hem Amerikan hem de metrik göster (ana birim Amerikan)			dummy
+3665	Show both US and metric (main unit is US)				Toond zowel US als Metriek (US heeft voorkeur)										Προβολή και του Αμερικαν. και του Μετρικού συστήμ. (η κύρια μονάδα θα είναι το Αμερικαν.)		Mostrar medidas US e métricas (defeito: US)				Hem Amerikan hem de metrik göster (ana birim Amerikan)			dummy
 3666	Show Details	Visa detaljer 	Mostrar Detalles		Toon details									Tampilkan Rincian	Προβολή Λεπτομερειών		Ver Detalhes	Mostrar Detalhes		Visa detaljer 	Ayrıntıları Göster			dummy
 3667	Show Graph				Laat Grafiek zien												Ver Gráfico				Grafiği Göster			dummy
 3668	Show hovering event text on mouseover?		¿Demuestre el texto de cernido del acontecimiento en mouseover? 		Laat gebeurtenis tekst zien bij muis over									Tampilkan teks pada acara hovering Gunaka mouse di atas?	Να προβάλλεται βοηθητικό κείμενο κατά την κατάδειξη με το ποντίκι;		Espetáculo que paira texto de evento mouseover aceso?	Mostrar texto de eventos que paira sobre mouseover?			Üzerine fare geldiğinde düz metin olayı gösterilsin mi?			dummy
 3669	Show how many events on admin pages?		Mostrar el número de eventos en las páginas de administrador? 		Hoeveelheid gebeurtenissen tonen op Admin Pagina?									Menunjukkan bagaimana berbagai aktivitas di halaman admin?	Πόσα γεγονότα θέλετε να προβάλλονται στις σελίδες διαχείρισης;		Espetáculo quantos eventos páginas de admin acesas?	Mostrar eventos como muitas páginas de administração?			Yönetici sayfalarında kaç olay görülsün?			dummy
-3670	Show metric only				Alleen Metrieke resultaten tonen										Προβολή μόνο του Μετρικού συστήματος						Sadece Metrik Göster			dummy
-3671	Show Notes		Cuantos eventos mostrar en paginas de admin 		Toon notities										Προβολή Σημειώσεων						Notları Göster			dummy
-3672	Show Patient Notes		Mostrar notas de pacientes		Laat notities van patient zien										Προβολή σημειώσεων ασθενούς						Hasta Notlarını Göster			dummy
+3670	Show metric only				Alleen Metrieke resultaten tonen										Προβολή μόνο του Μετρικού συστήματος		Só mostrar métricas				Sadece Metrik Göster			dummy
+3671	Show Notes		Cuantos eventos mostrar en paginas de admin 		Toon notities										Προβολή Σημειώσεων		Mostrar Notas				Notları Göster			dummy
+3672	Show Patient Notes		Mostrar notas de pacientes		Laat notities van patient zien										Προβολή σημειώσεων ασθενούς		Mostrar Notas do Utetnes				Hasta Notlarını Göster			dummy
 3673	Show Primary Complete				Laat gehele Primary zien																Tam Birinciyi Göster			dummy
 3674	Show Report	Visa rapport 	Mostrar Informe		Rapport tonen									Perlihatkan Lapor	Προβολή Αναφοράς		Relatório de espetáculo	Mostrar Relatório		Visa rapport 	Raporu Göster			dummy
 3675	Show search/submit links in block?		Mostrar búsqueda y presentar los enlaces en el bloque? 		Toon rapport									Cari Tampilkan / mengirimkan link di blok?	Προβολή δεσμών αναζήτησης/αποστολή σε μπλοκ;		Ligações de search/submit de espetáculo em bloco?	Mostrar / Buscar - apresentar links em bloco?			Bloktaki ara/gönder bağlantıları gösterilsin mi?			dummy
 3676	Show the custom state form for the add list widget (will ask for title and abbreviation).				Laat de gebruiker status zien om de lijsten widget toe te voegen (vraagt naar titel en afkorting)																Ekleme listesi için özel şehir tablosunu göster.			dummy
 3677	Show Unbilled Only	Visa endast icke fakturerad 	Mostrar sólo no facturados 		Toon alleen niet in REK gebracht									Hanya menunjukkan Unbilled	Προβολή μόνο μη χρεωμένων		Mostre Unbilled Only	Mostrar só não faturada		Visa endast icke fakturerad 	Sadece Fatura Edilmemişi Göster			dummy
-3678	Show US only				Alleen US tonen										Προβολή μόνο του Αμερικαν. συστήματος						Sadece Amerikan göster			dummy
+3678	Show US only				Alleen US tonen										Προβολή μόνο του Αμερικαν. συστήματος		Só mostrar US				Sadece Amerikan göster			dummy
 3679	Siblings	Syskon 	Hermanos		Broers/Zussen									Saudara kandung	Αδέλφια 		Irmãos	Irmãos		Syskon 	Kardeşler			dummy
 3680	Sickle Cell		Célula de hoz		Sikkelcel									Sel sabit	Δρεπανοκύτταρο		Sickle Cell	Sickle Cell			Orak Hücreli			dummy
 3681	Sig		Sig		Sig										Δόση		Sig	Sig			Sig			dummy
@@ -3695,10 +3695,10 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3690	Simplified Demographics				Vervoudigde Demografische gegevens										Απλοποιημένα Δημογραφικά						Basitleştirilmiş Demografik Bilgiler			dummy
 3691	Simplified Prescriptions				Vereenvoudigde manier om Recept voor te schrijven										Απλοποιημένες Συνταγογραφήσεις						Basitleştirilmiş Reçeteler			dummy
 3692	Since		Desde		Sinds										Εδώ και		Desde então	Desde			Den beri:			dummy
-3693	Sincerely,		Sinceramente,		Met vriendelijke groeten,										Ειλικρινά,						Saygılarımızla,			dummy
+3693	Sincerely,		Sinceramente,		Met vriendelijke groeten,										Ειλικρινά,		Cordialmente,				Saygılarımızla,			dummy
 3694	Single	Singel	Individual		Ongehuwd									Tunggal	Ανύπανδρος		Solteiro(a)	Solteiro		Singel	Bekar			dummy
-3695	Single-selection list				Enkelvoudige selectie lijst										Λίστα μονής επιλογής						Tek-seçim listesi			dummy
-3696	Single-selection list with ability to add to the list				Enkelvoudige selectie lijst met de mogelijkheid om toe te voegen										Λίστα μονής επιλογής με δυνατότητα προσθήκης στη λίστα						Listeye ekleme olanağı olan tek-seçimlik liste			dummy
+3695	Single-selection list				Enkelvoudige selectie lijst										Λίστα μονής επιλογής		Lista de selecção única				Tek-seçim listesi			dummy
+3696	Single-selection list with ability to add to the list				Enkelvoudige selectie lijst met de mogelijkheid om toe te voegen										Λίστα μονής επιλογής με δυνατότητα προσθήκης στη λίστα		Lista de selecção única com possibilidade de adicionar				Listeye ekleme olanağı olan tek-seçimlik liste			dummy
 3697	Sinus Problems		Problemas del Seno 		Sinusproblemen										Προβλήμ. ηγμορίων		sinusite	Problemas do seio			Sinüs Problemleri			dummy
 3698	Sinus Surgery		Cirugía de Seno		Chirurgie van de sinus									Bedah Sinus	Εγχείρηση ηγμορίων		Cirurgia de seio	Sinus Cirurgia			Sinüs Cerrahisi			dummy
 3699	SINUS TENDERNESS:		TERNURA DE SENO: 		SINUS GEVOELIGHEID:									Sinus kelembutan:	Ευαισθησία ηγμορίων:		bombeamento do SEIO:	SINUS ternura:			SİNÜS HASSASİYETİ:			dummy
@@ -3714,14 +3714,14 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3709	Skip Authorization of Patient Notes				Authorisatie van Patient notities verslaan										Παραλείψτε εξουσιοδ. του φακέλου ασθενούς	Skip Authorisation of Patient Notes					Hasta Notlarının Yetkilendirilmesini Atla			dummy
 3710	Skipping section				Sectie overslaan																Bölüm atlanıyor			dummy
 3711	Skipping SQL-Ledger dump - not implemented for Windows server		Saltarse SQL-Ledger dump - no se han aplicado para el servidor de Windows		SQL-Ledger dump wordt overgeslagen- nog niet geimplementeerd voor Windows-server										Παράκαμψη του SQL-Ledger dump - δεν είναι υλοποιημένο σε Windows server						Defter-i Kebir SQL dökümü atlanıyor-Windows sunucusuna uygulanmamıştır			dummy
-3712	Sleep patterns		Patrones de Sueño 		Slaappatroon										Τύπος ύπνου		Durma padrões	Os padrões de sono			Uyku paternleri			dummy
-3713	Sleep Patterns	sömn mönster	Patrones de Sueño 		Slaappatroon				睡眠模式					Pola tidur	Τύπος ύπνου		Durma Padrões	Os padrões de sono		sömn mönster	Uyku Paternleri			dummy
+3712	Sleep patterns		Patrones de Sueño 		Slaappatroon										Τύπος ύπνου		Padrões de sono	Os padrões de sono			Uyku paternleri			dummy
+3713	Sleep Patterns	sömn mönster	Patrones de Sueño 		Slaappatroon				睡眠模式					Pola tidur	Τύπος ύπνου		Padrões de Sono	Os padrões de sono		sömn mönster	Uyku Paternleri			dummy
 3714	Sleeping	sover	Durmiendo		Slapen				睡美人					Tidur	Κοιμώμενο		Dormindo	Sono		sover	Uyuyor			dummy
 3715	Slovak		Eslovaco 		Slovaaks				斯洛伐克文					Slovak	Σλοβακικά 		Eslovaco	Eslovaco			Slovakça			dummy
 3716	Sm debt w/o		La deuda de SM sin		Sm schuld w / o				钐债务W / O型					Sm hutang w / o			Sm dívida w/o	Sm dívida w / o			Toplam Borç suz			dummy
 3717	Smarty Cache has been cleared		Smarty caché ha sido borrada		Smarty cache is gewist				Smarty缓存已被清除					Smarty Cache telah dikosongkan	Η Smarty κρυφή μνήμη έχει καθαριστεί		Esconderijo de Smarty foi clareado	Smarty Cache foi limpo			Smarty Cache boşaltıldı			dummy
-3718	Smoker, current status unknown				Roker, huidig gebruik onbekend																Sigara içer, son durumu bilinmiyor.			dummy
-3719	Smoking Status				Mate van roken																Sigara içme durumu			dummy
+3718	Smoker, current status unknown				Roker, huidig gebruik onbekend												Fumador, estado actual desconhecido				Sigara içer, son durumu bilinmiyor.			dummy
+3719	Smoking Status				Mate van roken												Fumador				Sigara içme durumu			dummy
 3720	SMS Gateway		Entrada de SMS 		SMS Gateway				短信网关					SMS Gateway	SMS Gateway		Portal de SMS	SMS Gateway			SMS Geçidi			dummy
 3721	SMS Gateway API key		API clave de Entrada de SMS		SMS Gateway API-sleutel				短信网关API密钥					SMS Gateway API kunci	SMS Gateway API key		Portal de SMS chave de API	SMS Gateway API chave			SMS Geçidi API anahtarı			dummy
 3722	SMS Gateway API Key				SMS Gateway API sleutel										SMS Gateway API key						SMS Geçidi API Anahtarı			dummy
@@ -3736,7 +3736,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3731	SMTP Server Hostname				SMTP Server Hostnaam																SMTP Sunucu Adı			dummy
 3732	SMTP Server Port Number				SMTP Server Poortnummer										Αριθμός θύρας SMTP server						SMTP Sunucu Port Numarası			dummy
 3733	SMTP User for Authentication				SMTP User voor Autentificatie										Χρήστης SMTP για Πιστοποίηση						Kimlik Doğrulama için SMTP Kullanıcı Adı			dummy
-3734	Snoring		Ronquidos 		Snurken										Ροχαλητό		Roncando	Ronco			Horlama			dummy
+3734	Snoring		Ronquidos 		Snurken										Ροχαλητό		Ronco	Ronco			Horlama			dummy
 3735	SOAP		JABÓN 		SOEP										ΕΚΤΙΜΗΣΗ ασθενούς		SOAP	Anamnese			SODP			dummy
 3736	Social Difficulties		Dificultades Sociales 		Sociale problemen										Κοινωνικές δυσκολίες		Dificuldades sociais	Dificuldades Social			Toplumsal Güçlükler			dummy
 3737	Social History:	Social History:	Historia Social:		Sociale voorgesch.				社会史：					Sejarah sosial:	Κοινωνικό Ιστορικό:		História social:	Histórico Social:		Social History:	Toplumsal Öykü			dummy
@@ -3750,7 +3750,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3745	Some notes were not displayed.	Vissa anteckningar visades inte	Algunas notas no fueron mostradas. 		Enkele notities werden niet getoond										Ορισμένες σημειώσεις δεν εμφανίστηκαν		Algumas notas não foram exibidas.	Algumas notas não eram exibidas.		Vissa anteckningar visades inte	Bazı notlar gösterilmedi			dummy
 3746	some words	några ord 	algunas palabras 		enkele woorden				一些话					beberapa kata	ορισμένες λέξεις		algumas palavras	algumas palavras		några ord 	bazı sözcükler			dummy
 3747	Sore Throat		Dolor de Garganta 		Zere keel										Φαρυγγαλγια		Dor de garganta	Sore Throat			Boğaz Ağrısı			dummy
-3748	Sorry, there was a problem uploading your file				Sorry, er was een probleem met oploaden van de file																Üzgünüm, dosyanız yüklenir iken bir problem oluştu.			dummy
+3748	Sorry, there was a problem uploading your file				Sorry, er was een probleem met oploaden van de file												Erro ao carregar o ficheiro				Üzgünüm, dosyanız yüklenir iken bir problem oluştu.			dummy
 3749	Sort by	Sortera efter 	Organizado por		Sorteren op				排序方式					Urutkan berdasar	Ταξινόμηση ανα		Ordenar por	Ordenar por		Sortera efter 	Sırala:			dummy
 3750	Sort By				Gesorteerd op												Ordenar Por				Sırala:			dummy
 3751	Sort by Checksum		Organizar por checksum		Soteer op Checksom												Ordenar por Checksum				Toplama göre sırala			dummy
@@ -3903,17 +3903,17 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3898	success		éxito 		succes										επιτυχία		sucesso	sucesso			başarı			dummy
 3899	Success confirming receipt of lab result				Met succes afgeronde ontvangst van Lab verslag										Επιτυχής επικύρωση λήψης εργαστηρ. αποτελεσμάτων						Lab sonucu alındısı doğrulaması başarılı			dummy
 3900	Success getting lab results				Met succes Lab resultaat ontvangen										Επιτυχής λήψη εργαστηρ. αποτελεσμάτων						Lab sonuçlarının alınması başarılı			dummy
-3901	Success retrieving results from Lab Exchange Network																				Sonuçlar Lab Değişim Ağından başarıyla alındı.			dummy
+3901	Success retrieving results from Lab Exchange Network				Informatie opgehaald bij Lab Exchange network was suddesvol																Sonuçlar Lab Değişim Ağından başarıyla alındı.			dummy
 3902	successfully added to category,		agregado con éxito a la categoría, 	Kategorie erfolgreich hinzugefügt	Toegevoegd aan categorie gelukt										προσετέθη επιτυχώς στην κατηγορία,		prosperamente acrescentado a categoria,	adicionado com êxito para a categoria,			başarıyla kategoriye eklendi.			dummy
-3903	Successfully Deleted																				Başarıyla Silindi.			dummy
-3904	Successfully Modified																				Başarıyla Değiştirildi.			dummy
-3905	Successfully Saved.Would you like to Allocate?																				Başarıyla Kaydedildi. Paylaştırmak ister misiniz?			dummy
-3906	Successfully Saved.Would you like to Distribute?																				Başarıyla Kaydedildi Dağıtmak ister misiniz?			dummy
+3903	Successfully Deleted				Met succes verwijderd																Başarıyla Silindi.			dummy
+3904	Successfully Modified				Met succes aangepast																Başarıyla Değiştirildi.			dummy
+3905	Successfully Saved.Would you like to Allocate?				Met succes opgeslagen. Toewijzen?																Başarıyla Kaydedildi. Paylaştırmak ister misiniz?			dummy
+3906	Successfully Saved.Would you like to Distribute?				Met succes opgeslagen. Wilt u het uitsturen?																Başarıyla Kaydedildi Dağıtmak ister misiniz?			dummy
 3907	successfully stored.		almacenado con éxito.	Erfolgreich gespeichert	Opslaan gelukt										αποθηκεύτηκε επιτυχώς		prosperamente armazenado.	armazenados com êxito.			başarıyla saklandı			dummy
 3908	successfully.		con éxito. 	Erfolgreich	Succesvol										επιτυχώς.		prosperamente.	com êxito.			başarılı olarak			dummy
 3909	Suicide	Självmord 	suicidio	Selbstmord	Zelfmoord				自杀					Bunuh diri	Αυτοκτονία 		Suicídio	Suicídio		Självmord 	İntihar			dummy
 3910	Summary	Sammanfattning 	Resumen	Zusammenfassung	Samenvatting				摘要					Aktivitas	Περίληψη 		Resumo	Resumo		Sammanfattning 	Özet			dummy
-3911	Summary of																Resumo de				Özeti Yapılan :			dummy
+3911	Summary of				Samenvatting van												Resumo de				Özeti Yapılan :			dummy
 3912	Sun	Sön	Domingo	So	Zon				太阳					Matahari	Ήλιος 		Dom	Dom		Sön	Paz			dummy
 3913	Sunday	Söndag 	Domingo	Sonntag	Zondag				星期日					Minggu	Κυριακή 		Domingo	Domingo		Söndag 	Pazar			dummy
 3914	Superbill		Superbill		Superbill				Superbill					Superbill	Υπερχρέωση		Superbill	Superbill			Süperfatura			dummy
@@ -3959,13 +3959,13 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3954	Table creation failed	Tabell skapas inte 	La creación de la tabla falló 		Aanmaken tabel mislukt				表创建失败					Tabel penciptaan gagal	Απέτυχε η δημιουργία πίνακα		Erro ao criar a tabela	Criação da tabela falhou		Tabell skapas inte 	Tablo oluşturulamadı			dummy
 3955	Table update failed	Tabell uppdateringen misslyckades 	La actualización de la tabla falló 		Vernieuwen van tabel mislukt				表更新失败					Tabel update gagal	Απέτυχε η ενημέρωση πίνακα		Erro ao actualizar a tabela	Tabela de atualização falhou		Tabell uppdateringen misslyckades 	Tablo güncellenemedi			dummy
 3956	tablet	tablett 	tableta		tablet				片剂					tablet	δισκίο (tab) 		comprimido	comprimido		tablett 	tablet			dummy
-3957	Tagalog																				Takalotça			dummy
+3957	Tagalog				Tagalog																Takalotça			dummy
 3958	Take	Ta 	Tomar		Neem				拿					Mengambil	Δόση		Levar	Pegar		Ta 	Alınız			dummy
-3959	Take Insurance, from Drop Down																				Açılır menüden Sigortayı seçin			dummy
-3960	Take Payment From, from Drop Down																				Açılır menüden Ödemeyi seçin			dummy
-3961	Takeback																				Geri alın			dummy
+3959	Take Insurance, from Drop Down				Kies Insurance van Dropdown menu																Açılır menüden Sigortayı seçin			dummy
+3960	Take Payment From, from Drop Down				Kies Betalings formulier, van drop down menu																Açılır menüden Ödemeyi seçin			dummy
+3961	Takeback				Terug nemen																Geri alın			dummy
 3962	Takes long	Tar lång tid	Toma tiempo 		Duurt lang				持续时间较长					Berlangsung lama	Απαιτεί χρόνο		Objetos pegados muito tempo	Leva tempo		Tar lång tid	Uzun süre alır			dummy
-3963	Tax ID																				Vergi No			dummy
+3963	Tax ID				Tax ID																Vergi No			dummy
 3964	Tax Rate		Tarifa de Impuestos		Belastingtarief										Φορολογικός συντελεστής 		Taxa de imposição	Taxa de imposto			Vergi Oranı			dummy
 3965	Taxes	Skatter 	Impuestos		Belasting				税					Pajak	Φόροι 		Impostos	Impostos		Skatter 	Vergiler			dummy
 3966	Taxonomy		Taxonomía 		Taxonomie				分类					Taxonomy	Ταξινόμηση		Taxonomia	Taxonomia			Taksonomi			dummy
@@ -3973,7 +3973,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3968	Team Injury Overview		Descripción de lesión del equipo 		Overzicht van teamletsels				小组损伤概况					Sekilas tim Cedera	Περίληψη ομάδας κακώσεων 		Emparelhe Avaliação de Dano	Team Injury Visão			Takım Yaralanma Genel Bakış			dummy
 3969	Team Roster		Lista del Equipo 		Teamrooster				小组名册					Tim Roster	Μητρώο Ομάδας		Emparelhe Lista	Team Ordem de Serviço			Takım Kadrosu			dummy
 3970	Team Roster View		Ver Lista de Equipo 		Overzicht van teamrooster				小组名册查看					Lihat tim Roster	Προβολή Μητρώου Ομάδας		Emparelhe Visão de Lista	Team Ordem de Serviço Ver			Takım Kadrosu Görünümü			dummy
-3971	Team/Squad																				Ekip/Takım			dummy
+3971	Team/Squad				Team/Squad																Ekip/Takım			dummy
 3972	Tel		Tel		Tel										Τηλ		Tel	Tel			Tel			dummy
 3973	Telephone Country Code				Telefoon Landen Code										Υπεραστ. Κωδικός Χώρας		Código do País				Telefon Ülke Kodu			dummy
 3974	Temp		Temp	Temp	Temp										Θερμομέτρηση		Temp				Temp			dummy
@@ -3996,15 +3996,15 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3991	Test Scheduling	Testa schema	Programación de Prueba		Test Inplanning										Έλεγχος χρονοδιαγράμματος		Programação de teste	Programação de Teste		Testa schema	Test planlama			dummy
 3992	Test System	Testa system 	Sistema de Prueba 		Test het systeem				测试系统					Sistem test	Πειραματικό σύστημα 		Sistema de teste	Test System		Testa system 	Sistem Testi			dummy
 3993	Text Diagnosis				Tekst Diagnose																Tekst Tanı			dummy
-3994	Text field			Text Feld	Tekst veld										Πεδίο κειμένου						Text field			dummy
-3995	Text-date		Fecha del texto	Text Datum	Datum van tekst										κείμενο-ημερομηνία 		Texto-data	Text-data			Text-date			dummy
-3996	text-date		texto actualizado 	text datum	Datum van tekst				文字日期					text-tanggal	κείμενο-ημερομηνία 		texto-data	text-data			text-date			dummy
-3997	Textarea		Area de texto	Textbereich	Invoerblok voor tekst										χώρος κειμένου		Textarea	Textarea			Textarea			dummy
-3998	textarea		erea de texto	textbereich	Plaats voor tekst				文本					textarea	χώρος κειμένου		textarea	textarea			textarea			dummy
-3999	Textbox		Cuadro de texto	Textbox	Tekstvak										πλαίσιο κειμένου		Textbox	Textbox			Textbox			dummy
-4000	textbox		caja de texto	textbox	Tekstvak				文本					textbox	πλαίσιο κειμένου		textbox	textbox			textbox			dummy
-4001	Textbox list		Lista del cuadro de texto	Textbox Liste	Tekstvak lijst										λίστα πλαισίων κειμένου		Textbox listam	Lista Textbox			Metin kutusu listesi			dummy
-4002	textbox list		lista de texto 	Textbox liste	tekstvak lijst				文本清单					textbox daftar	λίστα πλαισίων κειμένου		textbox listam	lista de texto			metin kutusu listesi 			dummy
+3994	Text field			Text Feld	Tekst veld										Πεδίο κειμένου		Campo de Texto				Text field			dummy
+3995	Text-date		Fecha del texto	Text Datum	Datum van tekst										κείμενο-ημερομηνία 		Data	Text-data			Text-date			dummy
+3996	text-date		texto actualizado 	text datum	Datum van tekst				文字日期					text-tanggal	κείμενο-ημερομηνία 		data	text-data			text-date			dummy
+3997	Textarea		Area de texto	Textbereich	Invoerblok voor tekst										χώρος κειμένου		Área de Texto	Textarea			Textarea			dummy
+3998	textarea		erea de texto	textbereich	Plaats voor tekst				文本					textarea	χώρος κειμένου		área de texto	textarea			textarea			dummy
+3999	Textbox		Cuadro de texto	Textbox	Tekstvak										πλαίσιο κειμένου		Caixa de Texto	Textbox			Textbox			dummy
+4000	textbox		caja de texto	textbox	Tekstvak				文本					textbox	πλαίσιο κειμένου		caixa de texto	textbox			textbox			dummy
+4001	Textbox list		Lista del cuadro de texto	Textbox Liste	Tekstvak lijst										λίστα πλαισίων κειμένου		Lista caixa de texto	Lista Textbox			Metin kutusu listesi			dummy
+4002	textbox list		lista de texto 	Textbox liste	tekstvak lijst				文本清单					textbox daftar	λίστα πλαισίων κειμένου		Lista caixa de texto	lista de texto			metin kutusu listesi 			dummy
 4003	Thai				Thaais												Tailandês				Taylandca			dummy
 4004	Thank You	Tack 	Gracias	Vielen Dank	Dank U				谢谢您					Terima Kasih	Σας ευχαριστούμε		Obrigado	Obrigado		Tack 	Teşekkürler			dummy
 4005	Thank you for choosing		Gracias por elegir		Bedankt u voor het kiezen										Σας ευχαριστούμε που επιλέξατε		Obrigado pela preferência				Seçtiğiniz için teşekkürler			dummy
@@ -4013,8 +4013,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4008	The Certificate Authority certificate		El certificado de Autoridad Certificada		Het certificaat van Certificaat Authority																Sertifika Yetkilisi sertifikası			dummy
 4009	The claim file: 	Påstående ärendet: 	El archivo de reclamación: 		Uw claimbestand:				索赔文件：					Dakwaan file:	Αρχείο απαιτήσεων:		O arquivo de reivindicação:	A alegação de arquivo:		Påstående ärendet: 	Alacak dosyası:			dummy
 4010	The corresponding private key		La llave privada correspondiente		De corresponderende private sleutel										Το αντίστοιχο ιδιωτικό κλειδί						İlgili özel anahtar			dummy
-4011	the Denial code is																o Código de Negação é				Red şifresi			dummy
-4012	the Denial Group code is																				Grup Red Şifresi			dummy
+4011	the Denial code is				De afwijzings code is												o Código de Negação é				Red şifresi			dummy
+4012	the Denial Group code is				De afwijzings Groeps code is																Grup Red Şifresi			dummy
 4013	The destination form was closed				Het bestemmings formulier is gesloten										Το έντυπο προωρισμού έκλεισε		O formulário de destino foi fechado				Hedef form kapatıldı			dummy
 4014	The destination form was closed; I cannot act on your selection.		La forma de la destinación era cerrada; No puedo actuar en su selección. 		Het bedoelde formulier is afgesloten; er kan geen actie volgen op uw keuze				目的地形式封闭;我不能采取行动，您的选择。					Tujuan formulir ditutup, saya tidak bisa bertindak atas pilihan Anda.	Το έντυπο προορισμού έκλεισε, δεν μπορώ να ενεργήσω στην επιλογή σας.		A forma de destino estava fechada; Eu não posso agir em sua seleção.	O formulário de destino foi fechado, não posso agir em sua seleção.			Hedef form kapatıldı; Seçiminiz üzerinde işlem yapamıyorum.			dummy
 4015	The event(s) have been approved.	Händelsen har godkänts. 	El evento(s) han sido aprobadas. 		Gebeurtenis(sen) is goegekeurd				事件（县）已被批准。					Event (s) yang telah disetujui.	Τα συμβάντα έχουν εγκριθεί.		O evento(s) foi aprovado.	O evento (s) foram aprovados.		Händelsen har godkänts. 	Olay(lar) onaylandı.			dummy
@@ -4022,16 +4022,16 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4017	The exported data appears in the text area below. You can copy and paste this into an email or to any other desired destination.		Los datos exportados aparece en el área de texto a continuación. Puedes copiarla y pegarla en un mensaje de correo electrónico o cualquier otro destino.		De geexporteerde data verschijnt in het tekstveld hieronder. U kunt het kopieren en plakken in een e-mail of iets anders.										Τα δεδομένα που εξάγονται εμφανίζονται στην περιοχή κείμενου που ακολουθεί. Μπορείτε να αντιγράψετε και να επικολλήσετε αυτά σε ένα email ή σε οποιοδήποτε άλλο επιθυμητό προορισμό.		O dados exportado se aparece na área de texto abaixo. Você pode copiar e pode colar isto em um e-mail ou para qualquer outro destino desejado.	Os dados exportados aparece na área de texto abaixo. Você pode copiar e colar as informações em um e-mail ou para qualquer outro destino desejado.			Dışarı aktarılan veriler aşağıdaki metin penceresinde görüntülenmektedir. Bunu kopyalayıp epostaya veya arzu ettiğiniz her hangi bir hedefe yapıştırabilirsiniz.			dummy
 4018	The following calendar event has been added:	Följande kalenderhändelse har lagts till: 	Los siguientes eventos del calendario, se ha añadido: 		De volgende agendagebeurenis is goedgekeurd				以下日历事件已新增：					Kalender acara berikut telah ditambahkan:	Το ακόλουθο σύμβαμα ημερολογίου έχει προστεθεί:		O evento de calendário seguinte foi somado:	O calendário de eventos a seguir foi adicionado:		Följande kalenderhändelse har lagts till: 	Aşağıdaki takvim olayı eklendi:			dummy
 4019	The following calendar event has been modifed:	Följande kalenderhändelse har modifierats: 	Los siguientes eventos del calendario ha sido modificada: 		De volgende agendagebeurtenis is gewijzigd				以下日历事件已改性：					Berikut kalender acara telah modifed:	Το ακόλουθο σύμβαμα ημερολογίου έχει τροποποιηθεί:		O evento de calendário seguinte foi modifed:	O calendário de eventos que se segue foi modifed:		Följande kalenderhändelse har modifierats: 	Aşağıdaki takvim olayı değiştirildi:			dummy
-4020	The following EDI file has been uploaded																				Aşağıdaki EDI dosyası yüklendi			dummy
+4020	The following EDI file has been uploaded				De navolgende EDI file is ge-upload																Aşağıdaki EDI dosyası yüklendi			dummy
 4021	The following Emergency Login User is activated:		El usuario de emergencia siguiente esta activado		De volgende SPOED LOGIN Gebruiker is geactiveerd|:																Aşağıdaki Acil Giriş Kullanıcısı etkinleştirildi:			dummy
 4022	The following errors occurred		Los errores siguientes ocurrieron 		De volgende fouten zijn opgetreden										Συνέβησαν τα ακόλουθα σφάλματα		Os erros seguintes aconteceram	Os seguintes erros ocorreram			Aşağıdaki hatalar oluştu			dummy
 4023	The following fields are required		Los campos soguientes son requeridos		De volgende velden zijn verplicht										Τα ακόλουθα πεδία απαιτούνται						Aşağıdaki alanlar gereklidir			dummy
-4024	The hostname of the ATNA audit repository machine.																				ATNA yedek denetim makinası ana bilgisayar adı			dummy
+4024	The hostname of the ATNA audit repository machine.				De host naam van de ATNA audit repositorie machine																ATNA yedek denetim makinası ana bilgisayar adı			dummy
 4025	The initial window is the invoice search page. At the top you may enter a source (e.g. check number), pay date and check amount. The reason for the source and pay date is so that you don\'t have to enter them over and over again for each claim. The amount that you enter will be decreased for each invoice that is given part of the payment, and hopefully will end at zero when you are done.		La ventana inicial es la factura de la página de búsqueda. En la parte superior usted puede entrar en una fuente (por ejemplo, número de cheque), y comprobar la fecha de pago de cantidad. La razón de la fuente y la fecha de pago es para que usted no tiene que entrar una y otra vez para cada reclamación. La cantidad que usted introduzca será disminuido por cada factura que se da parte del pago, y es de esperar que terminará a las cero cuando haya terminado.		Het oorspronkelijke venster is het factuur zoekpagina. Aan de bovenzijde kunt u een bron (bijvoorbeeld controlenummer), betaaldatum en controlebedrag invoeren. De reden voor de bron en betaaldatum is, dat u ze niet steeds hoeft in te voeren voor elke vordering. Het bedrag dat u invoert zal worden verlaagd voor elke factuur die wordt gegeven met een deel van de betaling, en hopelijk zal eindigen op nul als u klaar bent met betalen.				最初的窗口发票搜索页。上方您可以输入来源（如支票号码） ，支付日期和支票的金额。的原因，来源和支付日期，让您不需要输入他们一遍一遍每一索赔。在您输入金额将减少对每张发票即给予部分付款，并希望将结束零当您完成。					Awal jendela adalah faktur halaman pencarian. Pada bagian atas Anda bisa memasukkan sumber (misalnya memeriksa angka), dan memeriksa tanggal membayar jumlah tersebut. Alasannya sumber dan membayar tanggal, sehingga Anda tidak perlu memasukkannya berulang lagi untuk setiap klaim. Jumlah yang akan Anda masukkan akan berkurang untuk setiap faktur yang diberikan adalah bagian dari pembayaran, dan diharapkan akan berakhir pada nol setelah selesai.	Το αρχικό παράθυρο είναι η σελίδα αναζήτησης του τιμολογίου. Στην κορυφή μπορείτε να δώσετε μια πηγή (π.χ. αριθμός ελέγχου), ημερομηνία πληρωμής και ποσό ελέγχου. Ο λόγος για την ημερομηνία πηγής και πληρωμής είναι αυτός, ώστε δεν χρειάζεται να τα εισάγετε ξανά και ξανά για κάθε αξίωση. Το ποσό που εισάγετε θα μειωθεί για κάθε τιμολόγιο που δίνεται μέρος της πληρωμής και ελπίζουμε ότι θα τελειώσει στο μηδέν όταν τελειώσετε.		A janela inicial é a página de procura de fatura. Ao topo você pode entrar em uma fonte (por exemplo confira número), pague data e confira quantia. A razão para a fonte e data de pagamento está de forma que você dom \'t têm que entrar neles inúmeras vezes para cada reivindicação. A quantia na que você entra será diminuída para cada fatura que é determinada parte do pagamento, e esperançosamente terminará a zero quando você for terminado.	A janela inicial é a página de pesquisa na factura. No topo você pode inserir um código (número do cheque, por exemplo), pagamento de data e quantidade de seleção. A razão para isto é não ter que inseri-las uma e outra vez de cada pedido. A quantidade que você inserir será reduzida para cada nota fiscal que é dado parte do pagamento, e esperamos que vai terminar em zero quando você está feito.			İlk pencere fatura arama penceresidir. En üste bir kaynak (örneğin çek numarası) ödeme tarihi ve çek miktarı girebilirsiniz. Kaynak ve ödeme tarihinin öyle olmasının sebebi her alacaktan sonra tekrar tekrar girmek zorunda kalmamanız içindir. Girdiğiniz miktar ödenen kısım için verdiğiniz her faturada düşülecek ve bittiğinde 0 ile sonlanacaktır.			dummy
 4026	The label that appears to the user on the form		La etiqueta que aparece al usuario en la forma 		Het label dat aan de gebruiker wordt getoond op het Formulier				标签显示给用户的形式					Label yang muncul bagi pengguna di formulir	Η ετικέτα που φαίνεται στο χρήστη πάνω στο έντυπο		O rótulo que se aparece ao usuário na forma	O rótulo que aparece para o usuário sobre a forma			Form üzerinde kullanıcıya görünen etiket			dummy
 4027	The new category will be a sub-category of 		La nueva categoría será una subcategoría de 		De nieuwe categorie wordt een sub-categorie van				新的分类将是一个分类别					Kategori yang baru akan menjadi sub-kategori	Ο νέος κατάλογος θα είναι μια υπο-κατηγορία του/της		A nova categoria será uma subcategoria de	A nova categoria será uma sub-categoria de			Yeni kategorinin üst kategorisi:			dummy
 4028	The password must be at least eight characters, and should		La palabra clave ha de ser por lo menos de ocho caracteres		Het wachtwoord moet minimaal acht tekens lang zijn en dient										Ο κωδικός πρόσβασης πρέπει να είναι τουλάχ. με 8 χαρακτήρες και θα πρέπει						Şifre en az sekiz karakter içermeli ve			dummy
-4029	The payments posted cannot go below this date.This ensures that after taking the final report nobody post for previous dates.																				Yapılan ödemeler bu tarihten öncesine gidemez. Bunun sebebi son rapor çıktıktan sonra kimsenin önceki tarihler için kayıt yapmamasını garanti etmektir.			dummy
+4029	The payments posted cannot go below this date.This ensures that after taking the final report nobody post for previous dates.				De opgemaakte betalingen kunnen niet toegevoegd worden onder deze datum. Dit geeft garantie dat na het opmaken van eind rapportage niemand nog kan toevoegen voor de voorafgaande data.																Yapılan ödemeler bu tarihten öncesine gidemez. Bunun sebebi son rapor çıktıktan sonra kimsenin önceki tarihler için kayıt yapmamasını garanti etmektir.			dummy
 4030	The remaining information below applies only if you are posting manually, or if you are doing manual corrections.		La información restante abajo se aplica solamente si usted está fijando manualmente, o si usted está haciendo correcciones manuales. 		De overige informatie hieronder is alleen van toepassing als u handmatig invoert, of als u handmatige correcties toepast.				其余的以下信息只适用于如果您张贴手动，或者如果您正在做手工更正。					Sisa informasi di bawah ini hanya berlaku jika Anda posting secara manual, atau jika Anda melakukan koreksi secara manual.	Οι υπόλοιπες πληροφορίες παρακάτω ισχύουν μόνο αν αποστέλλετε χειρωνακτικά, ή αν κάνετε διορθώσεις με το χέρι. 		A informação restante debaixo de só aplica se você está postando manualmente, ou se você está fazendo correções manuais.	As demais informações a seguir só se aplica se você está postando manualmente, ou se você está fazendo correções manuais.			Aşağıdaki bilgi sadece el ile gönderiyorsanız ve el ile düzeltmeler yapıyorsanız geçerlidir.			dummy
 4031	The requested document is not present at the expected location on the filesystem or there are not sufficient permissions to access it.		El documento solicitado no está presente en el lugar previsto en el sistema de ficheros o no hay suficientes permisos para acceder a ella. 		Dit gevraagde document is niet aanwezig op de verwachte locatie van het bestandssysteem of u heeft te weinig rechten voor dit document.										Το ζητούμενο έγγραφο δεν είναι παρών στην αναμενόμενη θέση στο σύστημα αρχείων ή δεν υπάρχουν επαρκή δικαιώματα για πρόσβαση σε αυτό.		O documento pedido não está presente no local esperado no filesystem ou não há permissões suficientes para acessar isto.	O documento solicitado não está presente no local previsto no sistema de arquivos ou não existem permissões suficientes para acessá-lo.			İstenen belge dosya sisteminde bulunmamaktadır veya ona erişmek için yeterli izin yoktur			dummy
 4032	The Source and Date columns are copied from the first page, so normally you will not need to touch those. You can put a payment amount in the Pay column, an adjustment amount in the Adjust column, or both. You can also click the "W" on the right to automatically compute an adjustment value that writes off the remainder of the charge for that line item.		Las columnas de la fuente y de fecha se copian de la primera página, por lo que normalmente no será necesario que los toque. Usted puede poner una cantidad del pago en la columna de pagos, una cantidad de ajuste en la columna de ajuste, o ambas. Puedes también hacer clic en \" W\" a la derecha de computar automáticamente un ajuste valorar que escriba del resto de la carga para esa línea artículo.		De Bron en Datum kolommen zijn gekopieerd van de eerste pagina, dus normaliter hoeft u dit niet aan te passen. U kunt een bedrag in de kolom Betalen invoeren, een aanpassingsbedrag in de kolom Aanpassen invoeren of beide. U kunt ook klikken op \"W\" aan de rechterkant om automatisch een correctie te berekenen, die het restant van de kosten afschrijft.				的来源和日期栏将被复制从第一页，所以通常你不需要接触这些。您可以将付款金额在收费栏，调整数额的调整栏，或两者兼而有之。您也可以按一下“宽”的权利自动计算调整值写入了剩余的费用该项目。					Sumber dan Tanggal di kolom yang disalin dari halaman pertama, maka biasanya Anda tidak perlu menyentuh mereka. Anda dapat memasukkan jumlah pembayaran di kolom Bayar, sebuah penyesuaian Menyesuaikan jumlah dalam kolom, atau keduanya. Anda juga dapat klik tombol \"W\" di sebelah kanan secara otomatis ke sebuah compute penyesuaian nilai yang menulis di bagian sisa dari biaya untuk item baris.	Οι στήλες Πηγής και Ημερομηνίας αντιγράφονται από την πρώτη σελίδα, έτσι κανονικά δεν θα χρειαστεί να τις αγγίξετε. Μπορείτε να τοποθετήσετε ένα ποσό πληρωμής στη στήλη Πληρωμή, ένα ποσό προσαρμογής στην στήλη Ρύθμιση, ή και τα δύο. Μπορείτε επίσης να κάνετε κλικ στο \"W\" στα δεξιά για να υπολογιστεί αυτόματα μια τιμή προσαρμογής που γράφει το υπόλοιπο του τέλους για το στοιχείο γραμμής.		São copiadas a Fonte e colunas de Data da primeira página, tão normalmente você não precisará tocar esses. Você pode pôr uma quantia de pagamento na coluna de Pagamento, uma quantia de ajuste no Ajuste coluna, ou ambos. Você também pode clicar à direita o \"W\" para computar um valor de ajuste que escreve fora o resto do custo para aquele artigo de linha automaticamente.	As colunas de origem e data são copiados da primeira página, assim que normalmente você não vai precisar tocar essas. Você pode colocar um valor de pagamento na coluna Pay, um ajuste no montante de Ajuste de coluna, ou ambos. Você também pode clicar no \"\"W \"\" sobre o direito de computar automaticamente um valor de ajuste que escreve fora do restante da carga para esse item.			Kaynak ve Tarih sütunları ilk sayfadan kopyalanır, bu nedenle normal olarak onlara dokunmanız gerekmeyecektir. Ödeme sütununa bir ödeme miktarını, Düzeltme sütununa bir düzeltme miktarını veya her ikisini girebilirsiniz. Aynı zamanda sağdaki \"Y\" yi tıklayıp düzeltme değerini otomatik hesaplattırıp aynı satır için alacağın kalanını yazdırabilirsiniz.			dummy
@@ -4081,9 +4081,9 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4076	This action CANNOT be undone.		Esta acción NO SE PUEDE deshacer. 		Deze actie kan NIET ongedaan worden gemaakt.										Αυτή η ενέργεια ΔΕΝ ΜΠΟΡΕΙ να αναιρεθεί. 		Esta ação não pode ser desfeita.	Essa ação não pode ser desfeita.			Bu işlem geri ALINAMAZ.			dummy
 4077	This action cannot be undone.		Esta acción no se puede deshacer. 		Deze actie kan niet ongedaan worden gamaakt.										Αυτή η ενέργεια δεν μπορεί να αναιρεθεί. 		Esta ação não pode ser desfeita.	Essa ação não pode ser desfeita.			Bu işlem geri alınamaz.			dummy
 4078	This action will be logged				Deze actie wordt vastgelged												A acção vai ser registada				Bu işlem günlüğe kaydedilecek			dummy
-4079	This Calendar Year																				Takvim Yılı			dummy
-4080	This claim has been denied.Reason:-																				Bu alacak reddedildi. Sebep:			dummy
-4081	This claim has been forwarded to next level.																				Bu alacak üst düzeye iletildi.			dummy
+4079	This Calendar Year				DIt kalender jaar																Takvim Yılı			dummy
+4080	This claim has been denied.Reason:-				Deze claim is geweigerd. Reden: 																Bu alacak reddedildi. Sebep:			dummy
+4081	This claim has been forwarded to next level.				Deze claim is doorgestuurd naar het volgende niveau.																Bu alacak üst düzeye iletildi.			dummy
 4082	This code type does not accept relations.		Este tipo de código no acepta las relaciones. 		Dit type code gaat niet samen met relaties.				此代码类型不接受关系。					Kode jenis ini tidak menerima hubungan.	Αυτό ο τύπος κωδικού δεν αποδέχεται σχέσεις.		Este tipo de código não aceita relações.	Este tipo de código não aceita as relações.			Bu kod tipi ilişkileri kabul etmiyor			dummy
 4083	This determines how appointments display on the calendar.				Dit maakt de keuze hoe de afspraken in kalender worden getoond										Αυτό καθορίζει το πως εμφανίζονται τα ραντεβού στο ημερολόγιο.						Bu randevuların takvimde nasıl görüntüleneceğini belirler.			dummy
 4084	This Encounter	Pågående besök	Esta Visita		Dit bezoek				这相遇					Ini Encounter	Αυτή η Επίσκεψη		Esta Consulta	Este Encontro		Pågående besök	Bu Görüşme			dummy
@@ -4091,7 +4091,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4086	This invoice number has been changed to 	Detta fakturanumret har ändrats till 	Este número de factura se ha cambiado a 		Invoice nummer verandert in				这发票号码已变更为					Nomor faktur ini telah diubah menjadi	Αυτός ο αριθμός τιμολογίου έχει αλλάξει σε		Este número de fatura foi mudado	Este número da fatura foi alterado para		Detta fakturanumret har ändrats till 	Fatura numarası değiştirildi. Yenisi:			dummy
 4087	This module is in test mode. The database will not be changed.		Este módulo está en modo de prueba. La base de datos no será cambiada. 		Deze module is in test-modus. De database zal niet worden gewijzigd.				该模块在测试模式。该数据库将不会改变。					Modul ini dalam mode uji. Basis data tidak akan berubah.	Η ενότητα αυτή είναι σε φάση δοκιμής. Η βάση δεδομένων δεν θα αλλάξει. 		Este módulo está em modo de teste. O banco de dados não será mudado.	Este módulo está em modo de teste. O banco de dados não serão alterados.			Modül test modundadır. Veritabanı değiştirilmeyecek.			dummy
 4088	This module promotes efficient entry of EOB data.		Este módulo promueve la entrada eficiente de los datos de EOB. 		Deze module bevordert efficiënte toegang van EOB gegevens.				此模块促进有效入境EOB数据。					Modul ini mempromosikan efisien masuknya data EOB.	Η ενότητα αυτή προωθεί την αποτελεσματική είσοδο των δεδομένων Εξήγησης του Κέρδους		Este módulo promove entrada eficiente de dados de EOB.	Este módulo promove a entrada eficiente de dados EOB.			Bu modül Müstahaklık verisinin verimli olarak girilmesini sağlar.			dummy
-4089	This Month to Date																Este mês até à data				Bu aybaşından bu güne kadar			dummy
+4089	This Month to Date				Deze maand tot heden												Este mês até à data				Bu aybaşından bu güne kadar			dummy
 4090	This page will inline include the login page, so that we do not have to click relogin every time.		Esta página en línea incluirá la página de la conexión, de modo que no tengamos que hacer clic en relogin cada vez.		Deze pagina zal de login pagina inline toevoegen, zodat we niet ieder keer opnieuw hoeven in te loggen.				此页将内置包括登录页面，这样我们不必每次点击relogin 。					Halaman ini akan menyertakan inline halaman login, sehingga kita tidak perlu klik relogin setiap waktu.	Αυτή η σελίδα θα περιλαμβάνει ενσωματωμένη τη σελίδα σύνδεσης, έτσι ώστε να μην χρειάζεται να κάνετε κλικ στην επανασύνδεση κάθε φορά.		Esta página vai inline incluem a página de login, de forma que nós não têm clicar relogin toda vez.	Esta página irá incluir inline na página de login, de modo que não temos a relogin clique de cada vez.			Bu sayfa satır içinde giriş sayfasını içerecek, böylece her seferinde tekrar gir tıklamak zorunda kalmayacağız.			dummy
 4091	This patient has no activity.	Denna patient har ingen aktivitet 	Este paciente no tiene ninguna actividad. 		Deze patiënt is inacief.				这个病人没有活动。					Pasien ini tidak memiliki kegiatan.	Αυτός ο ασθενής δεν έχει δραστηριότητα.		Este doente não tem nenhuma atividade.	Este paciente não tem atividade.		Denna patient har ingen aktivitet 	Bu hastanın hiçbir etkinliği yok			dummy
 4092	This patient ID is already in use!	Denna patients ID används redan! 	Esta identificación del paciente ya esta funcionando! 		Deze patiënt-ID is al in gebruik!				这名患者已在使用中！					ID pasien ini sudah digunakan!	Αυτό το αναγνωριστικό ασθενούς χρησιμοποιείται ήδη!		Este ID de doente já está a ser usada!	Este paciente ID já está em uso!		Denna patients ID används redan! 	Bu Hasta ID önceden kullanımda!			dummy
@@ -4101,10 +4101,10 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4096	This visit begins new contraceptive use		Esta visita comienza nuevo uso anticonceptivo 		Het bezoek begint met nieuw contraceptie gebruik				这次访问，开始新的避孕药具的使用					Kunjungan ini baru mulai menggunakan kontrasepsi	Αυτή η Επίσκεψη ξεκινά νέα χρήση αντισυλληπτικών		Esta visita começa uso anticoncepcional novo	Esta visita começa o uso de anticoncepcionais novo			Bu vizit yeni kontraseptif kullanımına başlar			dummy
 4097	This visit will need a GCAC form, referral or procedure service.				Dit bezoek moet een GCAC formulier hebben of een procedure dienstverlening																Bu vizite bir GCAC formu, sevk veya işlem hizmeti gerekecek.			dummy
 4098	This was the older metric-only Vitals form, now deprecated.				Dit is het nu niet meer ondersteunden metriekeVitals Formulier.										Αυτό ήταν το παλαιό μετριοκό μόνο έντυπο Ζωτικών, που έχει τώρα αποσυρθεί.						Bu önceki sadece metrik Vitalis formu idi, şimdi kullanılmıyor.			dummy
-4099	This Week to Date																Esta semana até à data				Bu hafta başından bugüne kadar			dummy
-4100	This will activate the CCR(Continuity of Care Record) and CCD(Continuity of Care Document) reporting.																				Bu BDK (Bakım Devam Kaydı) ve BDB(Bakım Devam Belgesi) bildirilmesini etkinleştirir.			dummy
+4099	This Week to Date				Deze week tot heden												Esta semana até à data				Bu hafta başından bugüne kadar			dummy
+4100	This will activate the CCR(Continuity of Care Record) and CCD(Continuity of Care Document) reporting.				Dit activeert de CCR(Continuiteit van zorg rapport) en CCD (Continueiteit van zorg document) rapportage.																Bu BDK (Bakım Devam Kaydı) ve BDB(Bakım Devam Belgesi) bildirilmesini etkinleştirir.			dummy
 4101	This will create a backup in tar format and then send it to your web browser so you can save it		Esto creará una copia de seguridad en formato tar y luego enviar a su navegador web para que pueda guardar 		Dit zal een backup aanmaken in tar-formaat, die daarna naar uw webbrowser wordt gezonden zodat u het kunt bewaren										Αυτό θα δημιουργήσει ένα backup αρχείο σε tar format και θα το στείλι στον Web browser σας ώστε να μπορείτε να το αποθηκεύσετε.		Isto criará um auxílio em formato de piche e então envia isto a seu browser de teia assim você pode salvar isto	Isto irá criar um backup no formato tar e depois enviá-lo para seu navegador para que você possa salvá-lo			Bu tar formatında bir yedek oluşturup sonra tarayıcınıza gönderecek böylece kaydedebilirsiniz			dummy
-4102	This will force the Billing Widget in the Patient Summary screen to always be open.																				Bu hasta özet ekranında Fatura Simgesini devamlı açık kalmaya zorlar.			dummy
+4102	This will force the Billing Widget in the Patient Summary screen to always be open.				Dit dwingt de Rekeningen widget in het patienten samenvattings scherm altijd open te blijven.																Bu hasta özet ekranında Fatura Simgesini devamlı açık kalmaya zorlar.			dummy
 4103	Thoracic spine		Espina dorsal torácica		Thoracale wervelkolom				胸椎					Yg berkenaan dgn dada tulang belakang	Θωρακικής μοίρα της ΣΣ		Espinha torácica	A coluna torácica			Torakal omurga			dummy
 4104	Thous/CU.MM		Miles/CU.MM		Thous/CU.MM																mm3 te bin 			dummy
 4105	Throat		Garganta 		Keel				咽喉						Λάρυγγας		Garganta	Garganta			Boğaz			dummy
@@ -4118,7 +4118,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4113	Thyroid Problems		Problemas de la Tiroides 		Schildklierproblemen				甲状腺问题						Προβλήμ. θυροειδη		Problemas tiróides	Problemas do Tiróide			Tiroid sorunları			dummy
 4114	TIA		TIA		TIA										Παροδικό ισχαιμικό εγκεφαλικό επεισόδιο		TIA	TIA			Geçici İskemik Atak			dummy
 4115	Time	Tid 	Tiempo		Tijd				时间					Waktu	Χρόνος 		Hora	Horário		Tid 	Zaman			dummy
-4116	Time Display Format																Formato da Hora				Zaman görüntüleme formatı			dummy
+4116	Time Display Format				Tijd Display Formaat												Formato da Hora				Zaman görüntüleme formatı			dummy
 4117	Time Increment for Add (minutes 1-60)		Incremento de tiempo para agrega (minutos 1-60) 		Tijdstoename voor Toevoegen (minuten 1-60)				时间增量的添加（分钟1-60 ）					Tambahkan waktu untuk kenaikan (1-60 bulan)	Προσαύξηση ώρας για Προσθήκη (λεπτά 1-60) 		Incremento de tempo para Some (atas 1-60)	Incremento de tempo para Add (minutos 1-60)			Eklenecek zaman (1-60 dakika)			dummy
 4118	Time selection		Seleccion de tiempo		Tijdselectie										Επιλογή ώρας						Zaman seçimi			dummy
 4119	Timed event	beräkna tid på händelse 	El tiempo de evento 		Tijdgebonden gebeurtenis				时间事件					Jangka waktu kegiatan	Χρονικό σύμβαμα		Evento cronometrado	Evento Temporário		beräkna tid på händelse 	Zamanlanmış olay			dummy
@@ -4183,7 +4183,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4178	today		hoy		vandaag										σήμερα						bugün			dummy
 4179	Today\'s Date	Dagens datum	Fecha de Hoy 		Datum van vandaag										Σημερινή ήμερα		Hoje \'Data de s	Data de Hoje		Dagens datum	Bugünün tarihi			dummy
 4180	Today\'s Events	Dagens händelser	Eventos de Hoy 		Gebeurtenis(sen) vandaag				今天的活动					Kegiatan Hari Ini	Τα σημερινά συμβάντα 		Hoje \'Eventos de s	Eventos de Hoje		Dagens händelser	Bugünün Olayları			dummy
-4181	Token ID for the OpenEMR Support LLC Lab Exchange Service.																				LLC Lab. Değişim hizmeti OpenEMR desteği için Simge kimliği			dummy
+4181	Token ID for the OpenEMR Support LLC Lab Exchange Service.				Token ID voor de OpenEMR ondersteuning voor LLC Lab Exchange Service																LLC Lab. Değişim hizmeti OpenEMR desteği için Simge kimliği			dummy
 4182	Tonsillectomy	Tonsillektomi	Tonsilectomía 		Tonsilectomie				扁桃体					Amandel	Αμυγδαλεκτομή		Amigdalectomia	Amigdalectomia		Tonsillektomi	Tonsilektomi			dummy
 4183	Top	Topp	Superior		Hoog				顶端					Puncak	Πάνω		Topo	Sup.		Topp	Üst			dummy
 4184	Topic	Ämne 	Tema 		Onderdeel				专题					Topik	Θέμα 		Tópico	Tópico		Ämne 	Konu			dummy
@@ -4194,7 +4194,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4189	Total Charges	Totala kostnader 	Total de cargos 		Totale extra betalingen				总费用					Biaya total	Σύνολο Χρεώσεων		Total Custos	Total de despesas		Totala kostnader 	Masraflar Toplamı			dummy
 4190	Total Clients	Totalt antal Kunder 	Total de Clientes 		Totaal aantal clienten				共计客户					Total Klien	Σύνολο Πελατών		Total Clientes	Total de pacientes		Totalt antal Kunder 	Müşteriler Toplamı			dummy
 4191	Total Cost		Costo total		Totale kosten										Σύνολο Κόστους		Custo Total				Maliyet Toplamı			dummy
-4192	Total Distribution for following check number is not full																				Tam dağıtım için çek numarası dolu değil.			dummy
+4192	Total Distribution for following check number is not full				De totale toewijzing voor het volgende check nummer is niet vol																Tam dağıtım için çek numarası dolu değil.			dummy
 4193	Total for	Totalt för 	Total para		Totaal voor				共计					Total untuk	Σύνολο για 		Total para	Total de		Totalt för 	Toplam			dummy
 4194	Total for 	Totalt för 	Total para		Totaal voor 				共计					Total untuk	Σύνολο για 		Total para	Total de		Totalt för 	Toplamı:			dummy
 4195	Total for category	Totalt för kategori 	Total para la categoría 		Totaal voor categorie				总类					Total untuk kategori	Σύνολο για την κατηγορία 		Total para categoria	Total por categoria		Totalt för kategori 	Kategori toplamı			dummy
@@ -4229,7 +4229,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4224	Translation	översätta 	Traducción 	Übersetzung	Vertaling				翻译					Translation	Μετάφραση 		Tradução	Tradução		översätta 	Tercüme			dummy
 4225	Translations		Translacones	Übersetzungen	Vertalingen										Μεταφράσεις		Traduções	Traduções			Tercümeler			dummy
 4226	Trauma	Trauma 	Trauma	Trauma	Ongeval				外伤					Trauma	Τραύμα		Trauma	Trauma		Trauma 	Travma			dummy
-4227	Treatment																				Tedavi			dummy
+4227	Treatment				Behandeling																Tedavi			dummy
 4228	Treatment Goals	Behandlings mål	Objetivos de Tratamiento 	Behandlungsziele	Behandelingsdoelen										Στόχοι θεραπείας		Tratamento: Objectivos	Tratamento Gols		Behandlings mål	Tedavi Hedefleri			dummy
 4229	Treatment Plan	Behandlings plan	Plan de Tratamiento 	Behandlungsplan	Behandelingsplan										Σχέδιο θεραπείας		Tratamento: Plano	Plano de Tratamento		Behandlings plan	Tedavi Planı			dummy
 4230	Treatment:	Behandling: 	Tratamiento: 	Behandlung:	Behandeling:				治疗：					Perawatan:	Θεραπεία: 		Tratamento:	Tratamento:		Behandling: 	Tedavi:			dummy
@@ -4249,8 +4249,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4244	Turkish				Turks												Turco				Türkçe			dummy
 4245	twice daily	två gånger dagligen	Dos veses al dia		2 x daags				每天两次					dua kali sehari	δύο φορές ημερησίως		duas vezes ao dia	duas vezes por dia		två gånger dagligen	Günde iki kez			dummy
 4246	Tympanic Membrane		Membrana Timpánica 		Trommelvlies										Τυμπανική μεμβράνη		Membrana timpânica	Via Auricular			Kulak zarı			dummy
-4247	Type	Typ	Tipo		Soort				类型					Tipe	Τύπος 		Tipo	Tipo		Typ	Tip			dummy
-4248	Type Id or Name.3 characters minimum (including spaces).																				Tip Kimliği veya ismi (boşluklar dahil) minimum 3 harf			dummy
+4247	Type	Typ	Tipo		Type Id of Naam met minimaal drie karakters (spaties meerekenen)				类型					Tipe	Τύπος 		Tipo	Tipo		Typ	Tip			dummy
+4248	Type Id or Name.3 characters minimum (including spaces).				Type vermelding																Tip Kimliği veya ismi (boşluklar dahil) minimum 3 harf			dummy
 4249	Type of columns displayed for patient search results				Keuze van kolommen die getoond moeten worden voor Patient zoek resultaat										Τύπος των εμφανισθέντων στηλών για τα αποτελέσματα της αναζήτησης ασθενών						Hasta arama sonuçları için görüntülenen sütunların tipleri			dummy
 4250	Type of Disclosure				Type vermelding																Açıklama Tipi			dummy
 4251	Type of Events		Tipo de Eventos		Soort gebeurtenissen										Τύπος συμβάντων						Olayların Tipleri			dummy
@@ -4261,17 +4261,17 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4256	Ulcerations	Ulcerations 	Ulceraciones 		Ulceraties				溃疡					Ulcerations	Εξελκώσεις 		Ulcerações	Ulcerações		Ulcerations 	Ülserasyonlar			dummy
 4257	Ulcerative Colitis	Ulcerös kolit 	Colitis ulcerosa 		Ulceratieve Colitis				溃疡性结肠炎					Ulcerative colitis	Ελκώδης κολίτιδα 		Colites ulcerativas	Colite ulcerosa		Ulcerös kolit 	Ülseratif kolit			dummy
 4258	Ulcers:	Sår: 	Úlceras: 		Ulcers:				溃疡：					Ulcers:	Έλκη		Úlceras:	Úlceras:		Sår: 	Ülserler:			dummy
-4259	Unable to create																				Oluşturulamıyor			dummy
-4260	Unapplied																				Uygulanamadı			dummy
+4259	Unable to create				Niet in staat aan te maken																Oluşturulamıyor			dummy
+4260	Unapplied				Unapplied																Uygulanamadı			dummy
 4261	Unassigned	Ej tilldelad 	Unassigned		Maak een keuze				未指定					Unassigned	Ανεκχώρητο 		Sem registo	Selecione		Ej tilldelad 	Atanmamış			dummy
 4262	Unauthorized access.	Obehörig åtkomst. 	Acceso no autorizado. 		Toegang niet geautoriseerd				未经授权的访问。					Akses yang tidak sah.	Αναρμόδια πρόσβαση. 	Unauthorised access.	Acesso sem autorização.	O acesso não autorizado.		Obehörig åtkomst. 	Yetkisiz erişim			dummy
 4263	Unbilled Only		no facturado solamente		Nog niet verstuurde rekeningen										Μόνο Αχρέωτα						Yalnız Fatura Edilmemişler			dummy
 4264	under tongue	under tungan 	debajo de la lengüeta 		onder de tong				根据舌					di bawah lidah	Κάτωθεν της γλώσσας 		debaixo de língua	debaixo da língua		under tungan 	dil altı			dummy
 4265	Underweight	Undervikt	De peso insuficiente 		Ondergewicht										Ελλιποβαρής		De peso inferior ao normal	Debaixo de		Undervikt	Zayıf			dummy
 4266	Undiagnosed	odiagnosticerad	Sin diagnosticar 		Niet gediagnostiseerd				确诊					Undiagnosed	Αδιάγνωστο		Undiagnosed	Undiagnosed		odiagnosticerad	Tanı konmamış			dummy
-4267	UNDISTRIBUTED																				DAĞITILMIYOR			dummy
-4268	Undistributed																				Dağıtılmıyor			dummy
-4269	Undistributed is																				Dağıtılmıyor:			dummy
+4267	UNDISTRIBUTED				NIET GEDITRIBUEERD																DAĞITILMIYOR			dummy
+4268	Undistributed				Niet gedistribueerd																Dağıtılmıyor			dummy
+4269	Undistributed is				Niet gedistribueerd is																Dağıtılmıyor:			dummy
 4270	Undo Checkout	Ångra Kassa 	Deshacer desprotección		Maak Checkout ongedaan				撤消结帐					Batalkan Checkout	Αναίρεση αποχώρησης		Desfaça Saída	Undo Checkout		Ångra Kassa 	Çıkışı geri al			dummy
 4271	Unique Clients	Unika Kunder 	Clientes Únicos		Unieke Klanten				独特的客户					Klien Unik	Μοναδικοί Πελάτες 		Clientes sem igual	Pacientes Únicos		Unika Kunder 	Eşsiz Müşteriler			dummy
 4272	Unique human-readable identifier for this type				Unieke identificatie, door mens te lezen, voor dit type 										Μοναδικός, αναγνώσιμος από άνθρωπο, ταυτοποιητής γι\' αυτό τον τύπο						Bu tip için insanın okuyabildiği eşsiz kimlik			dummy
@@ -4288,7 +4288,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4283	Units not defined		Unidades no definidas	Einheit nicht definiert	Units niet gedefinieerd										Οι μονάδες δεν είναι ορισμένες						Birimler tanımlanmadı			dummy
 4284	Units/L		Unidades/L	Einheiten/L	Units/L										Μονάδες/L						Unite/L			dummy
 4285	Unknown	Okänt 	Desconocido 	Unbekannt	Onbekend of N/A				未知					Unknown	Άγνωστο		Desconhecido	Desconhecido		Okänt 	Bilinmiyor			dummy
-4286	Unknown if ever smoked																				Hiç sigara içip içmediği bilinmiyor.			dummy
+4286	Unknown if ever smoked				Onbekend of er ooit gerookt is																Hiç sigara içip içmediği bilinmiyor.			dummy
 4287	Unknown or N/A	Okänd eller N / A 	Desconocidos o N/A	Unbekannt oder N/A	Onbekend of N/A				未知或N /阿					Tidak diketahui atau N / A	Άγνωστο ή μη διαθέσιμο		Desconhecido ou N/A	Desconhecido ou N / A		Okänd eller N / A 	Bilinmiyor veya YOK			dummy
 4288	Unnamed insurance company	Namnlöst försäkringsbolag 	Compañía de seguros sin nombre 		Niet met name genoemd verzekeringsmaatschappij				无名保险公司					Perusahaan asuransi tak dikenal	Ασφαλιστική εταιρεία χωρίς όνομα		Companhia de seguros não mencionada	Companhia de seguros Unnamed		Namnlöst försäkringsbolag 	İsimsiz sigorta şirketi			dummy
 4289	Unregistered	Oregistrerad 	No registrado 	Nicht registriert	Niet geregistreerd				未注册					Anonim	Μη καταχωρηθέν		Não registrado	Unregistered		Oregistrerad 	Kayıt edilmemiş			dummy
@@ -4298,7 +4298,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4293	unstructured			Nicht strukturiert	ongestructureerd										αδόμητο						yapılandırılmamış			dummy
 4294	until	tills 	Hasta	bis	tot				直到					sampai	μέχρι 		até	até		tills 	süre sonu:			dummy
 4295	Untimely filing		Presentación extemporánea 		Onverwachtte aanvulling				过早备案					Cepat filing	Άκαιρη πλήρωση		Intempestivamente arquivamento	Prematura de arquivamento			Zamansız dosyalama			dummy
-4296	Unused	Outnyttjad 	No utilizados 	Unbenutzt	Ongebruikt				未使用					Unused	Αχρησιμοποίητο		Novo	Não Usado		Outnyttjad 	Kullanılmayan			dummy
+4296	Unused	Outnyttjad 	No utilizados 	Unbenutzt	Ongebruikt				未使用					Unused	Αχρησιμοποίητο		Não Utilizado	Não Usado		Outnyttjad 	Kullanılmayan			dummy
 4297	UOR		UOR		UOR				UOR					UOR	Μονάδες ανάλυσης		UOR	UOR			Araştırma Birimi			dummy
 4298	Up to	Upp till 	Hasta	Bis zu	Lft tot				最多					Hingga	Μέχρι 		Até	Até		Upp till 	son :			dummy
 4299	Upcoming Appointments	Kommande möten	Próximas Citas 		Lopende afspraken				即将到来的约会					Mendatang Appointments	Προσεχή ραντεβού		Próximas Marcações	Próximos Eventos		Kommande möten	Gelecek Randevular			dummy
@@ -4322,7 +4322,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4317	Upload configuration data		Cargar configuracion de datos		Opladen configuratie data										Ανέβασμα δεδομένων ρύθμισης		Transfera dados de configuração	Upload de dados de configuração			Konfigürasyon verisini Yükle			dummy
 4318	Upload Document	Ladda upp dokument	Subir Documento 		Document uploaden				上传文件					Upload Dokumen	Ανέβασμα εγγράφου 		Transfera Documento	Carregar Documento		Ladda upp dokument	Belgeyi Yükle			dummy
 4319	Upload failed!		Carga del documento fallo		Uploaden mislukt!										Το ανέβασμα απέτυχε!		Carga falhou!	Upload falhou!			Yükleme Başarısız!			dummy
-4320	Upload Image to																				Resmin yükleneceği yer			dummy
+4320	Upload Image to				Plaatje werd geladen naar																Resmin yükleneceği yer			dummy
 4321	Upload import file:	Ladda upp fil att importera: 	Subrir archivo de importación: 		Importbestand uploaden:				上传导入文件：					Impor upload file:	Ανέβασμα αρχείου εισαγωγής: 		Transfera arquivo de importação:	Arquivo de importação de Upload:		Ladda upp fil att importera: 	İçe aktarma dosyasını yükle			dummy
 4322	Upload Report	Ladda upp rapport 	Upload Report		Rapport uploaden				上传报告					Upload Lapor	Ανέβασμα αναφοράς		Transfera Relatório	Upload Relatório		Ladda upp rapport 	Raporu yükle			dummy
 4323	Upload this file:	Ladda upp den här filen: 	Subir este archivo: 		Dit bestand uploaden				上传此文件：					Berkas ini:	Ανέβασμα αυτού του αρχείου: 		Transfera este arquivo:	Carregar arquivo isto:		Ladda upp den här filen: 	Bu dosyayı yükle			dummy
@@ -4342,9 +4342,9 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4337	Use 24 hour time format?	Använd 24-timmars format? 	Utilice el formato de 24 horas? 		24-uurs tijdnotatie?				使用24小时时间格式？					Gunakan format waktu 24 jam?	Χρήση μορφή ώρας 24 ωρών; 		Use 24 formato de tempo de hora?	Use 24 formato de hora a hora?		Använd 24-timmars format? 	24 saat formatı mı kullanılsın?			dummy
 4338	Use Charges Panel				Gebruik scherm om inrekening te brengen										Χρήση του πάνελ χρεώσεων						Masraflar Panelini Kullan			dummy
 4339	Use Defaults	Använd Standardinställningar 	Utilice los defectos 		Gebruik standaard				使用默认值					Gunakan Default	Χρήση προεπιλογών 		Faltas de uso	Usar Padrões		Använd Standardinställningar 	Ön Tanımlıları Kullan			dummy
-4340	Use Delete Option to Remove.																				Silmek İçin Delete Opsiyonunu Kullanın.			dummy
+4340	Use Delete Option to Remove.				Gebruik DELETE mogelijkheid om te verwijderen																Silmek İçin Delete Opsiyonunu Kullanın.			dummy
 4341	Use international date style?	Använd internationellt utseende på datum?	¿Utilice el estilo internacional de la fecha? 		Gebruik internationale datumstijl?				利用国际最新的风格？					Gunakan internasional tanggal gaya?	Χρήση ημερομηνίας διεθνούς στυλ; 		Use estilo de data internacional?	Use estilo de data internacional?		Använd internationellt utseende på datum?	Uluslararası veri stili mi kullanılsın?			dummy
-4342	Use source filename																							dummy
+4342	Use source filename				Gebruik SOURCE file naam																			dummy
 4343	Use the fields below for a purchase or transfer.		Use los cambpos abajo para una adquisicion o transferencia		Gebruik onderstaand veld voor aankoop of overplaatsing										Χρησιμοποιήστε τα κάτωθι πεδία για μια αγορά ή μεταφορά.						Aşağıdaki alanları bir satın alma veya transfer için kullanınız			dummy
 4344	Use this feature only with newly installed sites, 		Utilice esta función sólo con los sitios nuevos instalados,		Gebruik deze mogelijkheid allen bij NIEUW geinstalleerde site,										Χρησιμοποιήστε αυτή τη δυνατότητα μόνο με νέα εγκατεστημένες σελίδες,		Só use esta característica com locais recentemente instalados,	Use este recurso apenas com sites recém-instalado,			Bu özelliği sadece yeni kurulmuş yerlerde kullanınız.			dummy
 4345	Use topics?	Använd ämnen? 	Usar temas? 		Gebruik onderwerpen?				使用主题？					Gunakan topik?	Χρήση θεμάτων; 		Use tópicos?	Use tópicos?		Använd ämnen? 	Konular kullanılsın mı?			dummy
@@ -4377,8 +4377,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4372	User Memberships	Användare Medlemskap 	Asociaciones de usuarios 	Benutzername	Gebruiker groepsindeling				用户会员资格					Pengguna Keanggotaan	Συμμετοχές μελών		Grupos do Utilizador	Associações de		Användare Medlemskap 	Kullanıcı Üyelikleri			dummy
 4373	User name or Host name cannot be empty		Nombre del Usuario o Huesped no pueden estar vacios		Gebruiker- of Host-naam mogen niet leeg zijn										Το όνομα χρήστη ή το Hostname δεν μπορεί να είναι κενό						Kullanıcı ismi veya Host adı boş olamaz			dummy
 4374	User or Host name		Nombre del Usuario o Huesped		Gebruiker- of Host-computernaam																Kullanıcı veya Host Adı			dummy
-4375	User Settings																				Kullanıcı Ayarları			dummy
-4376	User Specific Setting																				Kullanıcıya Özel Ayarlar			dummy
+4375	User Settings				Gebruiker Settings																Kullanıcı Ayarları			dummy
+4376	User Specific Setting				GEbruiker specifieke Settings																Kullanıcıya Özel Ayarlar			dummy
 4377	Username	Användarnamn 	Nombre de usuario 		Gebruiker				用户名					Username	Όνομα Χρήστη		Utilizador	Nome de Usuário		Användarnamn 	Kullanıcı Adı			dummy
 4378	Username for SMS Gateway	Användarnamn för SMS Gateway 	Nombre de usuario para la entrada de SMS 		Gebruikersnaam voor SMS Gateway				用户的短信网关					Username untuk SMS Gateway	Όνομα χρήστη για το SMS Gateway		Utilizador para a Gateway de SMS	Nome de usuário para o SMS Gateway		Användarnamn för SMS Gateway 	SMS Yolu için Kullanıcı Adı			dummy
 4379	Username for SMS Gateway.				gebruikersnaamr:										Όνομα χρήστη για το SMS Gateway		Utilizador para a Gateway de SMS.				SMS Yolu için Kullanıcı Adı			dummy
@@ -4395,7 +4395,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4390	Value		Valor		Waarde										Τιμή		Valor	Valor			Değer			dummy
 4391	Value 1		Valor 1		Waarde 1										Τιμή 1 		Valor 1	Valor 1			Değer 1			dummy
 4392	Value 2		Valor 2 		Waarde 2										Τιμή 2 		Valor 2	Valor 2			Değer 2			dummy
-4393	Value Should be Numeric																Valor deve ser numérico				Değer Sayısal Olmalı			dummy
+4393	Value Should be Numeric				Waarde moet numeriek zijn												Valor deve ser numérico				Değer Sayısal Olmalı			dummy
 4394	Var1		Var1		Var1				Var1					Var1	Μεταβλ 1		Var1	Var1			Var1			dummy
 4395	Var2		Var2		Var2				Var2					Var2	Μεταβλ 2		Var2	Var2			Var2			dummy
 4396	variable to one to run de-identification upgrade script				variabele waarmee het de-indentificatie upgrade script moet lopen										μεταβλητή στη μία για απο-ταυτοποίηση του script αναβάθμισης						kimliksizleştirme yükseltmesi komutu çalıştırma değişkeni			dummy
@@ -4447,14 +4447,14 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4442	Warehouse		Tienda de deposito		Warenhuis										Αποθήκη		Armazén				Depo			dummy
 4443	Warehouses		Tiendas de deposito		Warenhuizen										Αποθήκες		Armazéns				Depolar			dummy
 4444	Warm	Varm	Cálido 		Warm										Θερμό		Quente	Quente		Varm	Ilık			dummy
-4445	Warning																				Uyarı			dummy
+4445	Warning				Waarschuwing																Uyarı			dummy
 4446	WARNING	VARNING	ADVERTENCIA 		Waarschuwing										ΠΡΟΕΙΔΟΠΟΙΗΣΗ 		AVISO	AVISO		VARNING	UYARI			dummy
-4447	Warning, Check Number already exist in the database																				Uyarı. Çek numarası veri tabanında daha önceden kayıtlı.			dummy
+4447	Warning, Check Number already exist in the database				Waarschuwing, Controleer nummer is reeds in database opgenomen																Uyarı. Çek numarası veri tabanında daha önceden kayıtlı.			dummy
 4448	Warning: A visit was already created for this patient today!	Varning: Ett besök var redan skapat för denna patient idag!	Advertencia: La visita se ha creado para este paciente de hoy! 		Waarschuwing: Er is vandaag voor deze patiënt al een bezoek aangemaakt!				警告：访问已创建的这个病人今天！					Peringatan: Kunjungan telah dibuat untuk pasien today!	Προειδοποίηση: Μια επίσκεψη έχει ήδη δημιουργηθεί για αυτόν τον ασθενή σήμερα! 		Atenção: hoje foi já criada uma visita para este paciente!	Atenção: A visita foi já criado para este paciente hoje!		Varning: Ett besök var redan skapat för denna patient idag!	Uyarı: Bugün bu hasta için bir vizit oluşturulmuş!			dummy
 4449	Warning: Patient ID is not unique!	Varning: patient-ID är inte unikt!	Advertencia: Identificación del paciente no es único! 		Waarschuwing: patiënt-ID is niet uniek!				警告：病人的ID是不是唯一的！					Peringatan: Pasien ID tidak unik!	Προειδοποίηση: το αναγνωριστικό του ασθενούς δεν είναι μοναδικό! 		Advertindo: identificação paciente não é única!	Atenção: identificação do paciente não é único!		Varning: patient-ID är inte unikt!	Uyarı:Hasta ID si eşsiz değil			dummy
 4450	WARNING: This will overwrite configuration information with data from the uploaded file!		AVISO: El archivo adquirido ha de borrar la informacion de configuracion con sus nuevos datos		WAARSCHUWING: Data worden overschreven met ge-upload-de file										ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Αυτό θα αντικαταστήσει πληροφορίες ρύθμισης με δεδομένα από το αρχείο!		AVISO: Isto irá substituir as informações de configuração com os dados do arquivo enviado!	AVISO: Isto irá substituir as informações de configuração com os dados do arquivo enviado!			UYARI: Bu, yüklenen dosyadan alınan veri ile konfigürasyon bilgisinin üzerine yazacak!			dummy
 4451	Warnings				Waarschuwingen										Προειδοποιήσεις						Uyarılar			dummy
-4452	was already uploaded																							dummy
+4452	was already uploaded				Werd al eerder ge-upload																			dummy
 4453	We appreciate prompt payment of balances due		Agradecemos su pago a tiempo del balance debido		We waarderen prompte betaling van verschuldigde bedragen										Σας ευχαριστούμε για την άμεση καταβολή των οφειλόμενων υπολοίπων		Agradecemos o pagamento imediato do valor devido				Vadesi gelmiş borçlarınızı zamanında ödediğinizi takdir ediyoruz			dummy
 4454	we have seen your above patient for evaluation and treatment at our outpatient psychiatry clinic. Thank you for this referral.		hemos visto por encima de su paciente para la evaluación y tratamiento en nuestra clínica de consulta externa de psiquiatría. Gracias por esta referencia. 		We hebben de bovenstaande patient voor evaluatie en behandeling gezien op onze psychiatrische polikliniek. Bedankt voor deze verwijzing.										είδαμε τον παραπάνω ασθενή σας για εκτίμηση και θεραπεία στο τμήμα εξωτερικών ιατρείων της ψυχιατρικής κλινικής μας. Ευχαριστούμε για αυτήν την παραπομπή		observámos o paciente acima identificado, na nossa clínica psiquiátrica ambulatoria. Gratos pela preferência.	vimos acima do seu paciente para avaliação e tratamento em nossa clínica psiquiátrica ambulatorial. Obrigado por esta referência.			yukarıdaki hastanızı psikiyatri kliniğimizde değerlendirme ve tedavi için ayaktan hasta olarak gördük. Bu sevk nedeniyle teşekkür ederiz.			dummy
 4455	Weakness	Svaghet	Debilidad 		Zwakheid										Αδυναμία		Fraqueza	Fraqueza		Svaghet	Zayıflık			dummy
@@ -4507,17 +4507,17 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4502	workday	arbetsdag	día de trabajo 		werkdag										εργάσιμη μέρα		dia útil	jornada de trabalho		arbetsdag	iş günü			dummy
 4503	Workers Compensation Health Plan		Indemnización de los trabajadores del Plan de Salud 		Arbeidsongeschiktheidsvoorziening				工人赔偿健康计划					Kompensasi pekerja Kesehatan Rencana	Σχέδιο Αποζημίωσης Υγείας εργαζομένων		SubSistema de Saúde do trabalhador	Trabalhadores Compensação Plano de Saúde			İşçi Tazminat Sağlık Planı			dummy
 4504	Worse	förvärrad	Peor		Verslechterd										Χειρότερο		Pior	Pior		förvärrad	Daha kötü			dummy
-4505	Would you like the balance amount to apply to Global Account?																				Bakiye miktarın toplam hesaba uygulanmasını ister misiniz?			dummy
-4506	Would You Like them to be Marked as Cleared.																				Ödendi olarak işaretlenmelerini ister misiniz?			dummy
-4507	Would you like to Allocate?																				Paylaştırmak istermisiniz?			dummy
-4508	Would you like to Cancel Distribution for this Patient?																				Bu hastanın dağılımını iptal etmek ister misiniz?			dummy
-4509	Would you like to Delete Payment Distribution?																				Ödeme dağılımını silmek ister misiniz?			dummy
-4510	Would you like to Delete Payments?																				Ödemeleri silmek ister misiniz?			dummy
-4511	Would you like to Modify and Finish Payments?																				Ödemeleri değiştirmek ve bitirmek ister misiniz?			dummy
-4512	Would you like to Modify Payments?																				Ödemeleri değiştirmek ister misiniz?			dummy
-4513	Would you like to Post and Finish Payments?																				Ödemeleri göndermek ve bitirmek ister misiniz?			dummy
-4514	Would you like to Post Payments?																				Ödemeleri göndermek ister misiniz?			dummy
-4515	Would you like to save?																				Kaydetmek ister misiniz?			dummy
+4505	Would you like the balance amount to apply to Global Account?				Zou U het Balans bedrag willen gebruiken voor de Global rekening?																Bakiye miktarın toplam hesaba uygulanmasını ister misiniz?			dummy
+4506	Would You Like them to be Marked as Cleared.				Wilt u deze markeren als opgenomen?																Ödendi olarak işaretlenmelerini ister misiniz?			dummy
+4507	Would you like to Allocate?				Wilt u toewijzen?																Paylaştırmak istermisiniz?			dummy
+4508	Would you like to Cancel Distribution for this Patient?				Wilt u Distributie cancelen voor deze patient?																Bu hastanın dağılımını iptal etmek ister misiniz?			dummy
+4509	Would you like to Delete Payment Distribution?				Zou u de betalings distributie willenverwijderen? 																Ödeme dağılımını silmek ister misiniz?			dummy
+4510	Would you like to Delete Payments?				Wilt u betalingen verwijderen?																Ödemeleri silmek ister misiniz?			dummy
+4511	Would you like to Modify and Finish Payments?				Wilt u betalingen aanpassen en beeindigen																Ödemeleri değiştirmek ve bitirmek ister misiniz?			dummy
+4512	Would you like to Modify Payments?				Wilt u betalingen aanpassen?																Ödemeleri değiştirmek ister misiniz?			dummy
+4513	Would you like to Post and Finish Payments?				Wilt u betalingen toewijzen enbetalingen stoppen?																Ödemeleri göndermek ve bitirmek ister misiniz?			dummy
+4514	Would you like to Post Payments?				Wilt u betalingen toewijzen?																Ödemeleri göndermek ister misiniz?			dummy
+4515	Would you like to save?				Wilt u bewaren?																Kaydetmek ister misiniz?			dummy
 4516	Wrist	Handled	Muñeca 		Pols			Håndledd	手腕					Pergelangan tangan	Καρπός		Punho	Punho		Handled	Bilek			dummy
 4517	Wrist and hand	Handled och hand 	Muñeca y mano		Pols en hand			Håndledd og hånd	手腕和手					Pergelangan tangan dan tangan	Καρπός και χέρι		Punho e mão	Punho e mão		Handled och hand 	Bilek ve el			dummy
 4518	Wrist Problems	Handleds Problem 	Problemas de Mano		Polsproblemen			Håndledds problemer	手腕问题					Pergelangan tangan Masalah	Προβλήμ. καρπού 		Problemas no punho	Problemas no punho		Handleds Problem 	Bilek Sorunları			dummy
@@ -4562,11 +4562,11 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4557	You did not choose any actions.	Du har inte valt några åtgärder. 	Usted no escogió ninguna acción. 		U heeft geen keuze gemaakt			Du valgte ingen hendelser	你没有选择任何行动。					Anda tidak memilih tindakan.	Δεν έχετε επιλέξει καμία ενέργεια. 		Não escolheu nenhuma ação.	Você não escolheu nenhuma ação.		Du har inte valt några åtgärder. 	Hiçbir işlem seçmediniz			dummy
 4558	You do not have access to view/edit this note	Du har inte behörighet att se / redigera denna anmärkning 	Usted no tiene acceso para ver o editar esta nota 		U heeft geen toegang om deze notitie te bekijken/aan te passen										Δεν έχετε πρόσβαση να δείτε/επεξεργαστείτε αυτό το σημείωμα		Não tem permissão para ver/editar esta nota	Você não tem permissão para acessar / editar esta nota		Du har inte behörighet att se / redigera denna anmärkning 	Bu notu görme/düzenleme yetkiniz yok			dummy
 4559	You have attempted to alter content which is locked. Remove the lock if you want to do this. To unlock, remove the line, '/*lock::*/'		Ud. ha tratado de alterar contenido que esta cerrado. Remueva el cierre si desea hacer esta accion. Para abrir, remueva la linea, ·/*lock::*/		U hebt geprobeerd de inhoud te wijzigen die vergrendeld is. Verwijder het slot als u dit wilt doen. Om te ontgrendelen, verwijdert u de regel \'/ * lock ::*/\'										Επιχειρήσατε να τροποποιήσετε περιεχόμενο το οποίο είναι κλειδωμένο. Αφαιρέστε το κλείδωμα αν θέλετε να το κάνετε. Για να το ξεκλειδώσετε, αφαιρέστε την γραμμή, \'/*lock::*/\'		Tentou alterar conteudos trancados. Para destrancar remova linha \'/*lock::*/\'				Kilitlenmiş bir içeriği değiştirmeye çalıştınız. Bunu yapmak istiyorsanız kilidi kaldırın. Kilidi açmak için, \'/*lock::*/\', yazılı satırı silin			dummy
-4560	You may only upload .txt files																				Sadece metin .txt dosyalarını yükleyebilirsiniz.			dummy
+4560	You may only upload .txt files				U kunt alleen *.txt file uploaden																Sadece metin .txt dosyalarını yükleyebilirsiniz.			dummy
 4561	You may put text here as the default complaint in the New Patient Encounter form.				Patient Encounter formulier										Μπορείτε να βάλετε κείμενο εδώ ως το προεπιλεγμένο ενόχλημα στο έντυπο Νέα Επίσκεψη ασθενούς.						Yeni Hasta Görüşme formunda ön tanımlı yakınma olarak buraya metin koyabilirsiniz.			dummy
 4562	You must first select or add a patient.	Du måste först välja eller lägga till en patient. 	Primero debe seleccionar o agregar un paciente. 		Uw moet eerst een patient selecteren of toevoegen.			Velg eller lag en pasient først	您必须先选择或添加一个病人。					Anda harus terlebih dahulu memilih atau menambahkan pasien.	Πρέπει πρώτα να επιλέξετε ασθενή ή να προσθέσετε νέο		Deve primeiro selecionar ou adicionar um paciente.	Você deve primeiro selecionar ou adicionar um paciente.		Du måste först välja eller lägga till en patient. 	Önce bir hasta seçmeli veya eklemelisiniz			dummy
 4563	You must first select or create an encounter.	Du måste först välja eller skapa ett möte. 	Primero debe seleccionar o crear un encuentro. 		U moet eerst een bezoek selecteren of aanmaken. 			Velg eller lag et møte	您必须先选择或创建一个遇到。					Anda harus terlebih dahulu memilih atau membuat ditemui.	Πρέπει πρώτα να επιλέξετε επίσκεψη ή να δημιουργήσετε νέα		Deve primeiro selecionar ou criar um encontro.	Você deve primeiro selecionar ou criar um encontro.		Du måste först välja eller skapa ett möte. 	Önce bir görüşme seçmeli veya eklemelisiniz			dummy
-4564	You must select a visit category																							dummy
+4564	You must select a visit category				U moet een bezoek categgorie kiezen																			dummy
 4565	You must select a visit category.		Ud. debe seleccionar una categoria para la visita		U moet een visite categorie kiezen										Πρέπει να επιλέξετε μια κατηγορίας επίσκεψης.		Deve selecionar uma categoria de visita				Bir vizit kategorisi seçmelisiniz			dummy
 4566	You must select some fields to continue.	Du måste välja några områden för att fortsätta. 	Debe seleccionar algunos campos para continuar. 		U moet enige velden selecteren om door te gaan.										Πρέπει να επιλέξετε μερικά πεδία για να συνεχίσετε		Deve selecionar alguns campos para continuar.	Você deve selecionar alguns campos para continuar.		Du måste välja några områden för att fortsätta. 	Devam etmek için bazı alanları seçmelisiniz			dummy
 4567	You should be running this test if this claim appeared to generate successfully but the actual claim file does not contain any data or only an unfinished portion of the amount of data it is supposed to contain. It is obvious with HCFA claims because they are human readable, with X12 claims it is a more difficult process to determine if the claim is properly complete.		Usted debe estar ejecutando esta prueba si esta afirmación parece generar con éxito, pero la reclamación no contiene el archivo de los datos o sólo una parte inconclusa de la cantidad de datos que se supone que contienen. Es evidente con HCFA reclamaciones porque son legibles, con X12 afirma que es más difícil un proceso para determinar si la demanda está bien completa.		U moet deze test uitvoeren indien deze claim met succes gegenereerd is, maar de daadwerkelijke claim-file geen gegevens bevat of slechts een onvoltooid gedeelte van de hoeveelheid gegevens die zij geacht wordt te bevatten. Het is duidelijk met HCFA vorderingen, omdat ze de menselijke leesbare tekst aanmaken. Met X12 claims is proces matig moeilijker om te bepalen of de claim juist is aangemaakt.				您应该运行此测试，如果这种说法似乎是成功的，但产生的实际索赔的文件中不包含任何数据或只有一个未完成部分的数据量，这是为了遏制。很显然与HCFA声称，因为它们是人类可读的，与X12声称这是一个更加艰难的过程，以决定是否要求妥善完成。					Anda harus menjalankan tes ini jika tuntutan ini muncul untuk berhasil tetapi sebenarnya klaim file tidak berisi data apapun yang belum selesai atau hanya bagian dari jumlah data yang sudah seharusnya berisi. Hal ini jelas dengan klaim HCFA karena manusia dibaca, dengan X12 klaim itu proses yang lebih sulit untuk menentukan apakah klaim adalah benar selesai.	Θα πρέπει να εκτελείτε αυτή τη δοκιμή, εάν ο ισχυρισμός αυτός φαίνεται να παράγεται με επιτυχία αλλά το πραγματικό αρχείο αξίωσης δεν περιέχει δεδομένα ή μόνο ένα ημιτελές τμήμα του όγκου των δεδομένων που θα έπρεπε να περιέχει. Αυτό είναι προφανές με τις αξιώσεις HCFA επειδή είναι αναγνώσιμες από τον άνθρωπο, όμως με τις αξιώσεις X12 είναι πιο δύσκολη διαδικασία να προσδιοριστεί αν η αξίωση έχει ολοκληρωθεί δεόντως.		Você deveria estar fazendo este teste se esta reivindicação parecesse gerar prosperamente mas o arquivo de reivindicação atual não contém qualquer dados ou só uma porção inacabada da quantia de dados é suposto que contém. É óbvio com reivindicações de HCFA porque eles são humanos legível, com reivindicações de X12 é um processo mais difícil para determinar se a reivindicação for corretamente complete.	Você deve estar executando esse teste, se essa reivindicação surgiu para gerar com êxito, mas o pedido real arquivo não contém quaisquer dados ou apenas uma parte inacabada da quantidade de dados que é suposto que contêm. É óbvio com reivindicações HCFA porque são legível, com X12 afirma que é um processo mais difícil de determinar se o pedido está devidamente completo.			Bu testi çalıştırmanızın sebebi bu alacak başarıyla oluşturulmuş görünse de gerçek alacak dosyasının hiçbir beri içermemesi veya içermesi gereken bilgileri kısmen içermesidir. HCFA dosyalarında bu aşikardır çünkü insan okuyabilir, X12 alacaklarında bir alacağın uygun şekilde doldurulup doldurulmadığını kontrol etmek ise daha güç bir işlemdir.			dummy
@@ -4574,7 +4574,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4569	Your event has been deleted.	Din händelse har strukits. 	Su evento a sido suprimido	Termin gelöscht	Uw gebeurtenis is verwijderd.			Din sak har blitt slettet	您的活动已被删除。					Acara Anda telah dihapus.	Η συνεδρία διαγράφηκε		Evento eliminado.	Seu evento foi eliminada.		Din händelse har strukits. 	Olayınız silindi			dummy
 4570	Your event has been modified.	Din händelse har ändrats. 	Su evento a sido modificados	Termin geändert	Gebeurtenis is aangepast.			Din sak har blitt forandret	您的活动已被修改。					Acara Anda telah dimodifikasi.	Η συνεδρία τροποποιήθηκε		Evento modificado.	Seu evento foi modificada.		Din händelse har ändrats. 	Olayınız değiştirildi			dummy
 4571	Your event has been submitted.	Din händelse har lämnats in. 	Su evento a sido presentado	Termin übertragen	Gebeurtenis is toegevoegd.			Din sak har blitt sendtDin 	您的活动已提交。					Acara Anda telah dikirimkan.	Έγινε καταχώρηση της συνεδρίας		Evento submetido.	Seu caso foi apresentado.		Din händelse har lämnats in. 	Olayınız gönderildi			dummy
-4572	Your file is too large																O ficheiro é muito grande							dummy
+4572	Your file is too large				U file is te groot												O ficheiro é muito grande							dummy
 4573	Your list name has been changed to meet naming requirements.	Din namnlista har ändrats för att uppfylla namngivnings krav. 	Su nombre de la lista se ha cambiado para resolver el nombramiento de requisitos. 		U lijstnaam is veranderd om aan de naamvereisten tegemoet te komen.										Το όνομα της λίστας έχει αλλάξει για να ανταποκρίνεται στις απαιτήσεις της ονοματοδοσίας. 		O nome da sua lista foi alterado em conformidade com as regras.	Seu nome da lista foi alterado para atender aos requisitos de nomeação.		Din namnlista har ändrats för att uppfylla namngivnings krav. 	Liste isminiz isimlendirme gereksinimlerine göre değiştirildi			dummy
 4574	Your name for this category, procedure or result		Su nombre para esta categoria, procedmiento o resultado		Uw naam voor deze categarie, procedure of resultaat										Το όνομά σας για αυτήν την κατηγορίας, διαδικασία ή αποτέλεσμα		Nome para esta categoria, procedimento ou resultado				Bu kategori, işlem veya sonuç için isminiz			dummy
 4575	Your Password Expired. Please change your password.		Su Palabra Clave ha expirado. Favor de cambiar su palabra clave.	Passwort läuft ab. Bitte Passwort ändern.	Uw wachtwoord is verlopen. Wijzig a.u.b. uw wachtwoord.										Ο κωδικός σας έληξε. Παρακαλώ αλλάξτε τον κωδικό σας.		Password desactualizada. Mude a password.				Şifrenizin süresi doldu. Lütfen şifrenizi değiştiriniz.			dummy
@@ -4661,18 +4661,18 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4656	.	.	.	.	.										.		.	.		.	- 			dummy
 4657	0			0	0										0		0				0			dummy
 4658	0-10	0-10	0-10	0-10	0-10			0-10						0-10	0-10		0-10	0-10		0-10	0-10			dummy
-4659	0-24																0-24				0-24			dummy
+4659	0-24				0-24												0-24				0-24			dummy
 4660	1			1	1										1		1				1			dummy
 4661	1 = North America. See http://www.wtng.info/ for a list of other country codes.				1 - Noord Amerika. See http://www.wtng.info/ voor een lijst met ander Landen Codes 										30 = Ελλάς. Αναφερθείτε στο http://www.wtng.info/ για λίστα κωδικών άλλων κρατών.						1 = Kuzey Amerika. Diğer ülke kodları için http://www.wtng.info/ 			dummy
 4662	1.Rest 2. Ice for two days 3. Compression, leave the dressing in place unless the foot develops numbness or pale color 4. Elevate the foot and leg	1.Vila 2. Lägg på is i två dagar 3. Komprimering lämna förbandet på plats om inte foten utvecklar domningar eller blek färg 4. Ha foten och ben i Upphöjt läge.	1. Descanso 2. Hielo por dos días 3. Compresión, dejar el vendaje en su lugar a menos que el pie presente hormigueo o color pálido 4. Elevar la pierna y el pie		1. Rust houden 2. IJscompressen gedurende twee dagen 3. Druk uitoefenen, laat verband zitten tenzij de voet gevoelloos wordt of bleek 4. Voet en been hoogleggen				1. 休息 2. 敷冰两天 3. 压紧, 脚不麻木或不显苍白色,将绑带保持好位置					1.Rest 2. Es selama dua hari 3. Kompresi, meninggalkan dressing kecuali di tempat kaki mengembangkan rasa atau warna pucat 4. Meninggikan kaki dan kaki	1.Ανάπαυση 2. Πάγος για δύο ημέρες 3. Συμπίεση, αφήστε την πίεση στη θέση της, εκτός αν το πόδι αναπτύξει μούδιασμα ή ωχρό χρώμα 4. Ανυψώστε το πόδι και το κάτω άκρο	1.Rest 2. Ice for two days 3. Compression, leave the dressing in place unless the foot develops numbness or pale colour 4. Elevate the foot and leg	1.Descanso 2. Gelo durante dois dias 3. Compressão, mantém ligadura a menos que o pé fique hipostésico ou pálido. 4. Elevar pé e perna	1.Rest 2. Gelo durante dois dias 3. Compressão, deixar o curativo no local a menos que o pé se desenvolve dormência ou cor pálida 4. Elevar o pé e perna		1.Vila 2. Lägg på is i två dagar 3. Komprimering lämna förbandet på plats om inte foten utvecklar domningar eller blek färg 4. Ha foten och ben i Upphöjt läge.	1.İstirahat 2.İki gün buz 3. Kompresyon ayakta solukluk veya uyuşma oluncaya kadar sargıyı yerinde bırak 4. Ayak ve bacağı yükselt			dummy
 4663	11/14/11	11/14/09	11/14/09	11/14/10	11/14/09									11/14/09	11/14/10		11/14/09	11/14/09		11/14/09	11/14/10			dummy
-4664	12 hr																12 hr				12 saat			dummy
+4664	12 hr				12 uur												12 hr				12 saat			dummy
 4665	15-19	15-19	15-19	15-19	15-19									15-19	15-19		15-19	15-19		15-19	15-19			dummy
 4666	2			2	2										2		2				2			dummy
 4667	20-24	20-24	20-24	20-24	20-24									20-24	20-24		20-24	20-24		20-24	20-24			dummy
 4668	2111-13	2111-13	2111-13	2111-13	2111-13									2111-13	2111-13		2111-13	2111-13		2111-13	2111-13			dummy
-4669	24 hr																24 hr				24 saat			dummy
-4670	25																25				25			dummy
+4669	24 hr				24 uur												24 hr				24 saat			dummy
+4670	25				25												25				25			dummy
 4671	25-29	25-29	25-29	25-29	25-29									25-29	25-29		25-29	25-29		25-29	25-29			dummy
 4672	2nd	2:a	2da	2te	2e										2ο		2º	2		2:a	2inci			dummy
 4673	3 months	3 månader 	3 meses	3 Monate	3 maanden			3 måneder	三个月					3 bulan	3 μήνες		3 meses	3 meses		3 månader 	3 ay			dummy
