@@ -5,7 +5,7 @@ Success:
 ---
 > Total number of languages with translations: 17
 > Total number of constants: 4724
-> Total number of real definitions: 37529
+> Total number of real definitions: 37528
 596c597
 < Arabic: 17% (822 definitions)
 ---
@@ -25,7 +25,7 @@ Success:
 > Danish: 51.06% (2412 definitions)
 > dummy: 100% (4724 definitions)
 > Dutch: 99.98% (4723 definitions)
-> English (Indian): 2.14% (101 definitions)
+> English (Indian): 2.12% (100 definitions)
 606,608c607,609
 < French: 5% (229 definitions)
 < German: 31% (1453 definitions)
