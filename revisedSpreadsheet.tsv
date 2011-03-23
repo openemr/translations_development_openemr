@@ -3603,34 +3603,34 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3598	Select the issue primarily responsible for any missed events on this day		Elija el asunto primario responsable por eventos fallidos este dia		Selecteer het probleem welke de oorzaak is voor het gemiste evenement van deze dag										Επιλέξτε τον κυρίως υπεύθυνο παράγοντα για όποια συμβάντα δεν έλαβαν χώρα σε αυτή την ημέρα						Bu günün atlanmış herhangi bir olayından esas olarak sorumlu konuyu seçiniz			dummy
 3599	Select which languages, if any, may be chosen at login. (only pertinent if above All Languages Allowed is turned off)				Selecteer welke talen, indien nodig, gekozen moet voor andere keuzes bij inloggen (Alleen van belang als ALLE TALEN hierboven is uitgezet)										Εάν πρέπει, επιλέξτε ποιες γλώσσες μπορούν να επιλεγούν κατά την είσοδο στο πρόγραμμα (ισχύει μόνο αν η παραπάνω επιλογή Επιτρέπονται Όλες οι Γλώσσες είναι απενεργοποιημένη)						Girişte varsa hangi dillerin seçilebileceğini seçiniz( Tüm dillere izin ver seçeneğinin kapalı olması durumunda)			dummy
 3600	Select Yes to confirm group deletion		Seleccione Sí para confirmar la eliminación del grupo 		Kies JA voor groeps gewijs verwijderen										Επιλέξτε Ναι για να επιβεβαιώσετε τη Διαγραφή της ομάδας 		Selecione Sim para confirmar apagamento de grupo	Selecione Sim para confirmar a exclusão do grupo			Grup silmeyi onaylamak için Evet seçiniz			dummy
-3601	Selected				Geselecteerd												Seleccionado				Seçili			dummy
-3602	Self		Uno Mismo		Zelf										Εαυτός		Ego	Self			Kendi			dummy
+3601	Selected			Selektiert	Geselecteerd												Seleccionado				Seçili			dummy
+3602	Self		Uno Mismo	Selbst	Zelf										Εαυτός		Ego	Self			Kendi			dummy
 3603	Self Pay	Egen lön 	Paga del uno mismo		Betaald zelf									Cukup Bayar	Αυτο-πληρωμή		Pagamento de ego	Pagamento Self		Egen lön 	Ücretli			dummy
-3604	Send		Enviar		Sturen										Αποστολή		Enviar				Gönder			dummy
-3605	Send in progress	Överföring pågår 	Envíe en curso 		Bezig met verzenden									Kirim dalam proses	Αποστολή σε εξέλιξη		Envio em progresso	Enviar em andamento		Överföring pågår 	Gönderme devam ediyor			dummy
-3606	Send message				Bericht versturen										Αποστολή μηνύματος		Enviar mensagem				Mesaj gönder			dummy
-3607	Send this file		Enviar este file		Verstuur deze file										Αποστολή αυτού του αρχείου		Enviar este ficheiro				Bu dosyayı gönder			dummy
-3608	Sender	Avsändare 	Remitente		Afzender									Pengirim	Αποστολέας 		Remetente	Remetente		Avsändare 	Gönderici			dummy
-3609	Sender ID	Avsändar ID	Identificación del Remitente 		ID van afzender									ID	Αναγνωριστικό αποστολέα		Remetente ID	Remetente ID		Avsändar ID	Gönderici ID			dummy
-3610	Sender ID (ISA06)		Remitente ID (ISA06)		ID (ISA06) afzender										Αναγνωριστικό αποστολέα (ISA06)						Gönderici ID (ISA06)			dummy
-3611	Sender ID Qualifier (ISA05)		Calificador del remitente ID (ISA05)		ID Qualifier (ISA05) afzender										Αρμόδιο αναγνωριστικό αποστολέα (ISA05)						Gönderici ID Niteleyici (ISA05)			dummy
-3612	Sensitivities		Sensibilidades 		Gevoeligheden										Ευαισθησίες 		Sensibilidades	Sensibilidades			Duyarlılıklar			dummy
-3613	Sensitivity:	Känslighet: 	Sensibilidad: 		Gevoeligheid:									Sensitivity:	Ευαισθησία: 		Sensibilidade:	Sensibilidade:		Känslighet: 	Duyarlılık			dummy
+3604	Send		Enviar	Senden	Sturen										Αποστολή		Enviar				Gönder			dummy
+3605	Send in progress	Överföring pågår 	Envíe en curso 	Wird gesendet	Bezig met verzenden									Kirim dalam proses	Αποστολή σε εξέλιξη		Envio em progresso	Enviar em andamento		Överföring pågår 	Gönderme devam ediyor			dummy
+3606	Send message			Nachricht senden	Bericht versturen										Αποστολή μηνύματος		Enviar mensagem				Mesaj gönder			dummy
+3607	Send this file		Enviar este file	Datei senden	Verstuur deze file										Αποστολή αυτού του αρχείου		Enviar este ficheiro				Bu dosyayı gönder			dummy
+3608	Sender	Avsändare 	Remitente	Absender	Afzender									Pengirim	Αποστολέας 		Remetente	Remetente		Avsändare 	Gönderici			dummy
+3609	Sender ID	Avsändar ID	Identificación del Remitente 	Absender ID	ID van afzender									ID	Αναγνωριστικό αποστολέα		Remetente ID	Remetente ID		Avsändar ID	Gönderici ID			dummy
+3610	Sender ID (ISA06)		Remitente ID (ISA06)	Absender ID (ISA06)	ID (ISA06) afzender										Αναγνωριστικό αποστολέα (ISA06)						Gönderici ID (ISA06)			dummy
+3611	Sender ID Qualifier (ISA05)		Calificador del remitente ID (ISA05)	Absender ID (ISA05)	ID Qualifier (ISA05) afzender										Αρμόδιο αναγνωριστικό αποστολέα (ISA05)						Gönderici ID Niteleyici (ISA05)			dummy
+3612	Sensitivities		Sensibilidades 	Befindlichkeiten	Gevoeligheden										Ευαισθησίες 		Sensibilidades	Sensibilidades			Duyarlılıklar			dummy
+3613	Sensitivity:	Känslighet: 	Sensibilidad: 	Empfindlichkeit:	Gevoeligheid:									Sensitivity:	Ευαισθησία: 		Sensibilidade:	Sensibilidade:		Känslighet: 	Duyarlılık			dummy
 3614	Sensory exam normal		Examen sensorial normal		Sensorisch onderzoek normaal									Sensory ujian normal	Αισθητική εξέταση φυσιολογική		Normal de exame sensório	Sensorial exame normal			Duyusal muayene normal			dummy
-3615	Sent successfully	Skickats 	Enviado con éxito 		Verzenden is gelukt									Berhasil dikirim	Απεστάλη επιτυχώς		Enviado prosperamente	Enviada com sucesso!		Skickats 	Başarıyla gönderildi			dummy
-3616	sent to printer.	skickas till skrivaren. 	Enviado a Impresora		Verstuur naar printer									dikirim ke printer.	απεστάλη στον εκτυπωτή		enviado para a impressora.	enviadas para a impressora.		skickas till skrivaren. 	yazıcıya gönderildi			dummy
+3615	Sent successfully	Skickats 	Enviado con éxito 	Erfolgreich gesendet	Verzenden is gelukt									Berhasil dikirim	Απεστάλη επιτυχώς		Enviado prosperamente	Enviada com sucesso!		Skickats 	Başarıyla gönderildi			dummy
+3616	sent to printer.	skickas till skrivaren. 	Enviado a Impresora	Drucken	Verstuur naar printer									dikirim ke printer.	απεστάλη στον εκτυπωτή		enviado para a impressora.	enviadas para a impressora.		skickas till skrivaren. 	yazıcıya gönderildi			dummy
 3617	Sep		Sep		Sep										Σεπ		Set				Eyl			dummy
-3618	Separated	Separerade	Separado 		Uit elkaar									Dipisahkan	Χωρισμένος/η		Separado(a)	Separado		Separerade	Ayrılmış			dummy
-3619	September	September 	Septiembre		September									September	Σεπτέμβριος		Setembro	Setembro		September 	Eylül			dummy
+3618	Separated	Separerade	Separado 	Getrennt	Uit elkaar									Dipisahkan	Χωρισμένος/η		Separado(a)	Separado		Separerade	Ayrılmış			dummy
+3619	September	September 	Septiembre	September	September									September	Σεπτέμβριος		Setembro	Setembro		September 	Eylül			dummy
 3620	Seq				Seq										Σειρά						Ard			dummy
 3621	Sequence		Sequencia		Reeks										Αλληλουχία		Sequência				Ardışıklık			dummy
-3622	Service		Servicio		Service										Υπηρεσία		Serviço				Hizmet			dummy
-3623	Service Category		Categoría de Servicio 		Categorie verleende Service										Κατηγορία υπηρεσιών 		Categoria Serviço	Categoria de Serviço			Hizmet Kategorisi			dummy
-3624	Service Code				Service code												Código Serviço				Hizmet Kodu			dummy
-3625	Service Codes				Service codes												Códigos Serviço				Hizmet Kodları			dummy
-3626	Service Date		Fecha de Servicio		Dienst datum										Ημερομ. παροχής Υπηρεσίας		Data de Serviço	Data Serviço			Hizmet Tarihi			dummy
-3627	Service Date:	Service Datum: 	Fecha de Servicio:		Service datum									Layanan Tanggal:	Ημερομ. παροχής υπηρεσίας:		Data de Serviço:	Data Serviço:		Service Datum: 	Hizmet Tarihi:			dummy
-3628	Service Location	Service Location 	Servicio de Localización 		Service locatie									Lokasi Layanan	Τοποθεσία παροχής υπηρεσίας		Localização do Serviço	Localização		Service Location 	Hizmet Yeri			dummy
+3622	Service		Servicio	Service	Service										Υπηρεσία		Serviço				Hizmet			dummy
+3623	Service Category		Categoría de Servicio 	Service Kategorie	Categorie verleende Service										Κατηγορία υπηρεσιών 		Categoria Serviço	Categoria de Serviço			Hizmet Kategorisi			dummy
+3624	Service Code			Service Code	Service code												Código Serviço				Hizmet Kodu			dummy
+3625	Service Codes			Service Codes	Service codes												Códigos Serviço				Hizmet Kodları			dummy
+3626	Service Date		Fecha de Servicio	Service Datum	Dienst datum										Ημερομ. παροχής Υπηρεσίας		Data de Serviço	Data Serviço			Hizmet Tarihi			dummy
+3627	Service Date:	Service Datum: 	Fecha de Servicio:	Service Datum:	Service datum									Layanan Tanggal:	Ημερομ. παροχής υπηρεσίας:		Data de Serviço:	Data Serviço:		Service Datum: 	Hizmet Tarihi:			dummy
+3628	Service Location	Service Location 	Servicio de Localización 	Service Ort	Service locatie									Lokasi Layanan	Τοποθεσία παροχής υπηρεσίας		Localização do Serviço	Localização		Service Location 	Hizmet Yeri			dummy
 3629	Service provided by specialist		Servicio prestado por el especialista 		Dienstverlening door specialist									Layanan yang disediakan oleh pakar	Η υπηρεσία παρεσχέθη από Ειδικό		Serviço efectuado pelo especialista	Serviço prestado pelo especialista			Hizmet uzman tarafından verildi			dummy
 3630	Services	Tjänster 	Servicios		Verleende diensten									Layanan	Υπηρεσίες		Serviços	Serviços		Tjänster 	Hizmetler			dummy
 3631	Services by Category	Tjänster efter kategori 	Servicios por Categoría 		Diensten per Categorie									Layanan oleh Kategori	Υπηρεσίες ανά Κατηγορία		Serviços por Categoria	Serviços por Categoria		Tjänster efter kategori 	Kategoriye göre Hizmetler			dummy
@@ -3647,7 +3647,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3642	Severe Migraine	Svår huvudvärk	Migraña Grave 		Zware migraine									Parah Migraine	Ημικρανία		Enxaqueca severa	Severe Migraine		Svår huvudvärk	şiddetli migren			dummy
 3643	Severity of Pain	Svårighetsgrad av smärta	Severidad del dolor		Ernst van de pijn									Kerasnya dari Rasa	Βαρύτητα πόνου		Intensidade da Dor	Severidade da dor		Svårighetsgrad av smärta	Ağrının Şiddeti			dummy
 3644	Severity of Pain:	Svårighetsgrad av smärta:	Severidad del dolor		Ernst van de pijn:									Kerasnya dari Rasa:	Βαρύτητα πόνου:		Intensidade da Dor:	Severidade da dor:		Svårighetsgrad av smärta:	Ağrının Şiddeti:			dummy
-3645	Sex	Kön	Sexo		Gesl									Sex	Φύλο 		Sexo	Sexo		Kön	Cinsiyet			dummy
+3645	Sex	Kön	Sexo	Geschl.	Gesl									Sex	Φύλο 		Sexo	Sexo		Kön	Cinsiyet			dummy
 3646	Sexually Transmitted Disease	Sexuellt överförbara sjukdomar 	Enfermedades de Transmisión Sexual 		SOA									Penyakit seksual	Σεξουαλικά μεταδιδ. νόσημα		Doença Sexualmente Transmitida	Doenças Sexualmente Transmissíveis		Sexuellt överförbara sjukdomar 	Cinsel Yolla Bulaşan Hastalık			dummy
 3647	Sharing	Dela 	Conpartir		Delen met									Berbagi	Διαμοιρασμός		A Partilhar	Compartilhamento		Dela 	Paylaşma			dummy
 3648	Shell command for printing from the server.				Shell commando om vanaf de Server te printen										Εντολή Κελύφους για εκτύπωση από τον server						Sunucudan yazdırmak için kabuk komutu			dummy
@@ -3658,25 +3658,25 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3653	Shot Record as of:		Fecha de Expediente de Tiro: 		Vaccinaties vanaf:										Καταγραφή Εμβολιασμών από τις:		Registro de tiro a partir de:	Shot Record a partir de:			Şu Tarih İtibarı İle Aşı Kaydı:			dummy
 3654	should be like nnnnn-nnnn-nn	bör vara som nnnnn-nnnn-nn 	debe ser como nnnnn-nnnn-nn 		Moet zijn conform nnnn-nnnn-nn				应该类似于nnnnn-nnnn-nn					harus seperti NNNNN-nnnn-nn	θα πρέπει να είναι ως nnnnn-nnnn-nn 		deveria estar como nnnnn-nnnn-nn	deve ser como nnnnn nnnn-nn		bör vara som nnnnn-nnnn-nn 	nnnnn-nnnn-nn gibi olmalıdır			dummy
 3655	Should be two letters		Deben ser dos letras		Moet twee letters zijn										θα πρέπει να είναι δύο γράμματα		Deve ter duas letras				iki harfli olmalıdır			dummy
-3656	Shoulder	Axel	Hombro		Schouder				肩膀					Bahu	Ώμος 		Ombro	Ombro		Axel	Omuz			dummy
+3656	Shoulder	Axel	Hombro	Schulter	Schouder				肩膀					Bahu	Ώμος 		Ombro	Ombro		Axel	Omuz			dummy
 3657	Shoulder + clavicle	Axel + nyckelben	Hombro + Clavicula		Schouder en Clavicula				肩膀加锁骨					Bahu + tulang selangka	Ώμος + κλείδα		Ombro + clavícula	Ombro + clavícula		Axel + nyckelben	Omuz + klaviküla			dummy
 3658	Shoulder Problems	Axelproblem	Prob. de Hombro		Schouderproblemen				肩膀问题					Masalah bahu	Προβλήμ. ώμου 		Problemas no ombro	Problemas de ombro		Axelproblem	Omuz Sorunları			dummy
-3659	Show	visa	Presente		Laat zien				显示					Pertunjukan	Προβολή		Ver	Mostrar		visa	Göster			dummy
-3660	Show All Transactions				Laat alle transacties zien												Mostrar Todas as Transacções				Tüm İşlemleri Göster			dummy
-3661	Show as Busy	Visa som upptagen 	Occupado		Bezig				显示为正忙					Menunjukkan sebagai Sibuk	Προβολή ως απασχολημένο		Ver como Ocupado	Mostrar como Ocupado		Visa som upptagen 	Meşgul Göster			dummy
+3659	Show	visa	Presente	Zeige	Laat zien				显示					Pertunjukan	Προβολή		Ver	Mostrar		visa	Göster			dummy
+3660	Show All Transactions			Zeige alle Transaktionen	Laat alle transacties zien												Mostrar Todas as Transacções				Tüm İşlemleri Göster			dummy
+3661	Show as Busy	Visa som upptagen 	Occupado	Belegt	Bezig				显示为正忙					Menunjukkan sebagai Sibuk	Προβολή ως απασχολημένο		Ver como Ocupado	Mostrar como Ocupado		Visa som upptagen 	Meşgul Göster			dummy
 3662	Show Authorized Only	Visa endast behöriga	Mostrar Sólo Autorizado 		Alleen geautorizeerden									Hanya menunjukkan Authorized	Προβολή μόνο των εξουσιοδοτημένων	Show Authorised Only	Mostrar só as Autorizadas	Mostrar apenas autorizado		Visa endast behöriga	Sadece Yetkilileri Göster			dummy
 3663	Show Available Times				Laat beschikbare tijd zien												Ver Períodos Disponíveis				Uygun Zamanları Göster			dummy
-3664	Show both US and metric (main unit is metric)				Toon zowel US al metriek (Metriek is voorkeurs stand)										Προβολή και του Αμερικαν. και του Μετρικού συστήματος (η κύρια μονάδα θα είναι το μετρικό)		Mostrar medidas US e métricas (defeito: métricas)				Hem Amerikan hem de metrik göster (ana birim metrik)			dummy
-3665	Show both US and metric (main unit is US)				Toond zowel US als Metriek (US heeft voorkeur)										Προβολή και του Αμερικαν. και του Μετρικού συστήμ. (η κύρια μονάδα θα είναι το Αμερικαν.)		Mostrar medidas US e métricas (defeito: US)				Hem Amerikan hem de metrik göster (ana birim Amerikan)			dummy
-3666	Show Details	Visa detaljer 	Mostrar Detalles		Toon details									Tampilkan Rincian	Προβολή Λεπτομερειών		Ver Detalhes	Mostrar Detalhes		Visa detaljer 	Ayrıntıları Göster			dummy
-3667	Show Graph				Laat Grafiek zien												Ver Gráfico				Grafiği Göster			dummy
+3664	Show both US and metric (main unit is metric)			Zeige sowohl US als auch metrische Einheiten (Standard ist metrisch)	Toon zowel US al metriek (Metriek is voorkeurs stand)										Προβολή και του Αμερικαν. και του Μετρικού συστήματος (η κύρια μονάδα θα είναι το μετρικό)		Mostrar medidas US e métricas (defeito: métricas)				Hem Amerikan hem de metrik göster (ana birim metrik)			dummy
+3665	Show both US and metric (main unit is US)			Zeige sowohl US als auch metrische Einheiten (Standard ist US)	Toond zowel US als Metriek (US heeft voorkeur)										Προβολή και του Αμερικαν. και του Μετρικού συστήμ. (η κύρια μονάδα θα είναι το Αμερικαν.)		Mostrar medidas US e métricas (defeito: US)				Hem Amerikan hem de metrik göster (ana birim Amerikan)			dummy
+3666	Show Details	Visa detaljer 	Mostrar Detalles	Details zeigen	Toon details									Tampilkan Rincian	Προβολή Λεπτομερειών		Ver Detalhes	Mostrar Detalhes		Visa detaljer 	Ayrıntıları Göster			dummy
+3667	Show Graph			Grafik zeigen	Laat Grafiek zien												Ver Gráfico				Grafiği Göster			dummy
 3668	Show hovering event text on mouseover?		¿Demuestre el texto de cernido del acontecimiento en mouseover? 		Laat gebeurtenis tekst zien bij muis over									Tampilkan teks pada acara hovering Gunaka mouse di atas?	Να προβάλλεται βοηθητικό κείμενο κατά την κατάδειξη με το ποντίκι;		Espetáculo que paira texto de evento mouseover aceso?	Mostrar texto de eventos que paira sobre mouseover?			Üzerine fare geldiğinde düz metin olayı gösterilsin mi?			dummy
 3669	Show how many events on admin pages?		Mostrar el número de eventos en las páginas de administrador? 		Hoeveelheid gebeurtenissen tonen op Admin Pagina?									Menunjukkan bagaimana berbagai aktivitas di halaman admin?	Πόσα γεγονότα θέλετε να προβάλλονται στις σελίδες διαχείρισης;		Espetáculo quantos eventos páginas de admin acesas?	Mostrar eventos como muitas páginas de administração?			Yönetici sayfalarında kaç olay görülsün?			dummy
-3670	Show metric only				Alleen Metrieke resultaten tonen										Προβολή μόνο του Μετρικού συστήματος		Só mostrar métricas				Sadece Metrik Göster			dummy
-3671	Show Notes		Cuantos eventos mostrar en paginas de admin 		Toon notities										Προβολή Σημειώσεων		Mostrar Notas				Notları Göster			dummy
-3672	Show Patient Notes		Mostrar notas de pacientes		Laat notities van patient zien										Προβολή σημειώσεων ασθενούς		Mostrar Notas do Utetnes				Hasta Notlarını Göster			dummy
+3670	Show metric only			Zeige nur metrische Einheiten	Alleen Metrieke resultaten tonen										Προβολή μόνο του Μετρικού συστήματος		Só mostrar métricas				Sadece Metrik Göster			dummy
+3671	Show Notes		Cuantos eventos mostrar en paginas de admin 	Notizen zeigen	Toon notities										Προβολή Σημειώσεων		Mostrar Notas				Notları Göster			dummy
+3672	Show Patient Notes		Mostrar notas de pacientes	Patienten Notizen zeigen	Laat notities van patient zien										Προβολή σημειώσεων ασθενούς		Mostrar Notas do Utetnes				Hasta Notlarını Göster			dummy
 3673	Show Primary Complete				Laat gehele Primary zien																Tam Birinciyi Göster			dummy
-3674	Show Report	Visa rapport 	Mostrar Informe		Rapport tonen									Perlihatkan Lapor	Προβολή Αναφοράς		Relatório de espetáculo	Mostrar Relatório		Visa rapport 	Raporu Göster			dummy
+3674	Show Report	Visa rapport 	Mostrar Informe	Bericht zeigen	Rapport tonen									Perlihatkan Lapor	Προβολή Αναφοράς		Relatório de espetáculo	Mostrar Relatório		Visa rapport 	Raporu Göster			dummy
 3675	Show search/submit links in block?		Mostrar búsqueda y presentar los enlaces en el bloque? 		Toon rapport									Cari Tampilkan / mengirimkan link di blok?	Προβολή δεσμών αναζήτησης/αποστολή σε μπλοκ;		Ligações de search/submit de espetáculo em bloco?	Mostrar / Buscar - apresentar links em bloco?			Bloktaki ara/gönder bağlantıları gösterilsin mi?			dummy
 3676	Show the custom state form for the add list widget (will ask for title and abbreviation).				Laat de gebruiker status zien om de lijsten widget toe te voegen (vraagt naar titel en afkorting)																Ekleme listesi için özel şehir tablosunu göster.			dummy
 3677	Show Unbilled Only	Visa endast icke fakturerad 	Mostrar sólo no facturados 		Toon alleen niet in REK gebracht									Hanya menunjukkan Unbilled	Προβολή μόνο μη χρεωμένων		Mostre Unbilled Only	Mostrar só não faturada		Visa endast icke fakturerad 	Sadece Fatura Edilmemişi Göster			dummy
@@ -3687,14 +3687,14 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3682	Sigmoid/Colonoscopy		Sigmoide / Colonoscopia 		Sigmoid/Coloscopie									Sigmoid / Colonoscopy	Σιγμοειδο-/Κολονοσκόπηση		Sigmoid/Colonoscopy	Sigmóide / Colonoscopia			Sigmoid/Kolonoskopi			dummy
 3683	Sign Lab Results (write,addonly optional)				Ondertekenen van Lab resultaten (schrijf, alleen toevoegen is optioneel)										Υπογραφή Εργαστηρ. αποτελεσμάτων (εγγραφή, προαιρετ. προσθήκη)						Laboratuvar Sonuçlarını İmzala (yaz, sadece ekle seçmeli)			dummy
 3684	Sign Results				Resultaten ondertekenen										Υπογραφή Εργαστηριακών						Sonuçları İmzala			dummy
-3685	Signature	Underskrift 	Firma		Handtekening									Tanda tangan	Υπογραφή 		Assinatura	Assinatura		Underskrift 	İmza			dummy
-3686	Signature:	Underskrift: 	Firma:		Handtekening:									Signature:	Υπογραφή: 		Assinatura:	Assinatura:		Underskrift: 	İmza:			dummy
+3685	Signature	Underskrift 	Firma	Unterschrift	Handtekening									Tanda tangan	Υπογραφή 		Assinatura	Assinatura		Underskrift 	İmza			dummy
+3686	Signature:	Underskrift: 	Firma:	Unterschrift:	Handtekening:									Signature:	Υπογραφή: 		Assinatura:	Assinatura:		Underskrift: 	İmza:			dummy
 3687	Signed Rx		Receta firmada		Getekend Rx										Υπογεγραμμένη συνταγή						İmzalanmış Rx			dummy
 3688	Significant Swelling:	Betydande Svullnad: 	Hinchazón Significativa: 		Aanzienlijke zwelling:									Signifikan pembengkakan:	Έντονη διόγκωση:		Inchação significante:	Inchaço significativo:		Betydande Svullnad: 	Belirgin Şişlik:			dummy
 3689	Simplified Co-Pay				Vereenvoudigd systeem voor bijbetaling										Απλοποιημένη Συμμετοχή στην πληρωμή						Basitleştirilmiş Eş-Ödeme			dummy
 3690	Simplified Demographics				Vervoudigde Demografische gegevens										Απλοποιημένα Δημογραφικά						Basitleştirilmiş Demografik Bilgiler			dummy
 3691	Simplified Prescriptions				Vereenvoudigde manier om Recept voor te schrijven										Απλοποιημένες Συνταγογραφήσεις						Basitleştirilmiş Reçeteler			dummy
-3692	Since		Desde		Sinds										Εδώ και		Desde então	Desde			Den beri:			dummy
+3692	Since		Desde	Seit	Sinds										Εδώ και		Desde então	Desde			Den beri:			dummy
 3693	Sincerely,		Sinceramente,		Met vriendelijke groeten,										Ειλικρινά,		Cordialmente,				Saygılarımızla,			dummy
 3694	Single	Singel	Individual		Ongehuwd									Tunggal	Ανύπανδρος		Solteiro(a)	Solteiro		Singel	Bekar			dummy
 3695	Single-selection list				Enkelvoudige selectie lijst										Λίστα μονής επιλογής		Lista de selecção única				Tek-seçim listesi			dummy
