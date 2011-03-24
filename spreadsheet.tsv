@@ -400,7 +400,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 395	Bal	Bal	Bal		Bal									Bal	Υπόλ.		Bal	Sal	الرصيد	Bal	Bky			dummy
 396	Balance	Saldo	Balance		Balans			Balanse	平衡					Keseimbangan	Υπόλοιπο		Saldo	Saldo	التوازن	Saldo	Bakiye			dummy
 397	balance	saldo	balance		Uitstaande schuld				平衡					keseimbangan	υπόλοιπο		equilíbrio	equilíbrio		saldo	bakiye			dummy
-398	Balance Due	Restskuld	Balance a pagar		Te betalen				应付余额					Utang Saldo	Οφειλόμενο υπόλοιπο		Saldo devedor	Saldo devedor	المبلغ المطلوب	Restskuld	Vadesi Gelmiş Borç			dummy
+398	Balance Due	Restskuld	Balance a pagar		Te betalen				应付余额					Utang Saldo	Οφειλόμενο υπόλοιπο		Saldo em Divida	Saldo devedor	المبلغ المطلوب	Restskuld	Vadesi Gelmiş Borç			dummy
 399	Base of fifth (5th) Metarsal	Basen av femte (5e) Metarsal	Base del quinto (5to) Metatarsiano		Basis van metatarsale 5				基地的第五（ 5 ） Metarsal					Dasar kelima (5.) Metarsal	Βάση του 5ου μεταταρσίου		Base de quinto (5º) Metarsico	Base de quinta (5) Metarsal	قاعدة السنع الخامس	Basen av femte (5e) Metarsal	Beşinci (5.) Metatars Kaidesi			dummy
 400	Base of fifth (5th) Metarsal:	Basen av femte (5e) Metarsal	Base del quinto (5to) Metatarsiano:		Basis van metatarsale 5:				基地的第五（ 5 ） Metarsal ：					Dasar kelima (5.) Metarsal:	Βάση του 5ου μεταταρσίου:		Base de quinto (5º) Metarsico:	Base de quinta (5) Metarsal:	قاعدة السنع الخامس	Basen av femte (5e) Metarsal	Beşinci (5.) Metatars Kaidesi:			dummy
 401	Batch Communication Tool	Batchkummunikationsverktyg	Herramienta de Comunicación del Batch		Gereedschap voor batch-communicatie				一批通讯工具					Batch Alat Komunikasi	Εργαλείο επικοινωνίας δέσμης ενεργειών		Ferramenta de Comunicação Diferida	Lote Ferramenta de Comunicação		Batchkummunikationsverktyg	Toplu İletişim Aracı			dummy
@@ -747,36 +747,36 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 742	Coffee	Kaffe	Café	Kaffee	Koffie			Kaffe	咖啡					Kopi	Καφές		Café	Café	القهوة	Kaffe	Kahve			dummy
 743	Coinsurance				Extra verzekering																Eş sigorta			dummy
 744	Coll w/o	Förf.saml w / o	Coll w/o		Coll w/o				科尔W / O型					Coll w / o			Coll w/o	Coll w / o		Förf.saml w / o	Coll w/o			dummy
-745	Collapse		Colapsar	Kolaps	Samenvouwen										Σύμπτυξη						Daralt			dummy
-746	collapse		Colapsar		Inklappen										σύμπτυξη						daralt			dummy
-747	Collapse All		Colapsar Todo		Alles inklappen										Σύμπτυξη Όλων 						Tümünü Daralt			dummy
-748	Collapse all		Colapsar Todos		Alles inklappen										Σύμπτυξη όλων 						Tümünü daralt			dummy
-749	collapse all	Komprimera alla	colapsar todos		Alles inklappen				全部折叠					runtuh semua	σύμπτυξη όλων 		cair tudo	Recolher todas		Komprimera alla	tümünü daralt			dummy
+745	Collapse		Colapsar	Kolaps	Samenvouwen										Σύμπτυξη		Esconder				Daralt			dummy
+746	collapse		Colapsar		Inklappen										σύμπτυξη		esconder				daralt			dummy
+747	Collapse All		Colapsar Todo		Alles inklappen										Σύμπτυξη Όλων 		Esconder Tudo				Tümünü Daralt			dummy
+748	Collapse all		Colapsar Todos		Alles inklappen										Σύμπτυξη όλων 		Esconder tudo				Tümünü daralt			dummy
+749	collapse all	Komprimera alla	colapsar todos		Alles inklappen				全部折叠					runtuh semua	σύμπτυξη όλων 		esconder tudo	Recolher todas		Komprimera alla	tümünü daralt			dummy
 750	Collections	Samlingar	Colecciones	Bestände	Verzamelingen				集合					Koleksi	Συλλογές 		Coleções	Recolher		Samlingar	Kolleksiyonlar			dummy
 751	Collections Report	Samlingsrapport	Informe de recogidas	Bestandsbericht	Ontvangen bedragen rapport				馆藏报告					Koleksi Lapor	Αναφορά συλλογών		Relatório de Coleções	Recolher Relatórios		Samlingsrapport	Kolleksiyonlar Raporu			dummy
-752	Colon Cancer	Koloncancer	Cáncer de colon	Kolon-Carcinom	Colonkanker				结肠癌					Kanker usus besar	Καρκίνος παχέος εντέρου		Câncer do Cólon	Cancro do cólon	سرطان الكولون	Koloncancer	Kolon Kanseri			dummy
-753	Colon Cancer Surgery	Koloncancer Kirurgi	Cirugía del cáncer de colon	Kolon-Caricinom-Chirurgie	Colonkanker chirurgie				结肠癌手术					Colon Cancer Surgery	Εγχείρηση καρκίνου παχέος εντέρου		Cirurgia do Câncer de Cólon	Cirurgia de Câncer do Cólon	جراحة سرطان الكولون	Koloncancer Kirurgi	Kolon Kanseri Cerrahisi			dummy
+752	Colon Cancer	Koloncancer	Cáncer de colon	Kolon-Carcinom	Colonkanker				结肠癌					Kanker usus besar	Καρκίνος παχέος εντέρου		Cancror do Cólon	Cancro do cólon	سرطان الكولون	Koloncancer	Kolon Kanseri			dummy
+753	Colon Cancer Surgery	Koloncancer Kirurgi	Cirugía del cáncer de colon	Kolon-Caricinom-Chirurgie	Colonkanker chirurgie				结肠癌手术					Colon Cancer Surgery	Εγχείρηση καρκίνου παχέος εντέρου		Cirurgia do Cancro do Cólon	Cirurgia de Câncer do Cólon	جراحة سرطان الكولون	Koloncancer Kirurgi	Kolon Kanseri Cerrahisi			dummy
 754	Colonoscopy	Kolonoskopi	Colonoscopia	Koloskopie	Coloscopie				结肠镜检查					Colonoscopy	Κολονοσκόπηση		Colonoscopia	Colonoscopia	تنظير الكولون	Kolonoskopi	Kolonoskopi			dummy
 755	colonoscopy	kolonoskopi	colonoscopía	Koloskopie	Coloscopie				结肠镜检查					colonoscopy	κολονοσκόπηση		Colonoscopia	colonoscopia	تنظير الكولون	kolonoskopi	kolonoskopi 			dummy
 756	Color	Färg	Color	Farbe	Kleur			Farge	彩色					Warna	Χρώμα 	Colour	Cor	Cor	اللون	Färg	Renk			dummy
 757	Color:Abbr		Abreviatura de color	Farbe:Abbr	Kleur:Abbr										Χρώμα:Συντμ						Renk:Kıslt			dummy
 758	Columns	Kolumner	Columnas	Spalten	Kolommen			Kolonner	专栏					Kolom	Στήλες 		Colunas	Colunas	الأعمدة	Kolumner	Sütunlar			dummy
 759	Combining Lots		Combinando Lotes		Voorraaden samenvoegen										Συνδυασμός μερίδων						Partileri Birleştirmek			dummy
-760	Comma		Coma	Komma	Komma										Κόμμα						Virgül			dummy
-761	Comment				Commentaar																Yorum			dummy
+760	Comma		Coma	Komma	Komma										Κόμμα		Vírgula				Virgül			dummy
+761	Comment				Commentaar												Comentário				Yorum			dummy
 762	Comments	Kommentarer	Comentarios	Kommentare	Commentaren			Kommentarer	评论					Komentar	Σχόλια 		Coméntarios	Comentários	التعليقات	Kommentarer	Yorumlar			dummy
 763	Comments for this result or recommendation		Comentarios para este resultado o recomendación		Kammentaar voor dit resultaat of aanbeveling										Σχόλια για αυτό το αποτέλεσμα ή τη σύσταση						Bu sonuç veya öneri için yorumlar			dummy
 764	Commercial Insurance Co.	Commercial Insurance Co	Compañía Aseguradora		Commercieel verzekeringsmaatschappij				商业保险有限公司					Asuransi komersial Co	Εταιρεία εμπορικών ασφαλίσεων		Cia. De Seguro comercial	Commercial Insurance Co.	شركة التأمين	Commercial Insurance Co	Ticari Sigorta Şir.			dummy
 765	Commit Changes	Godkänn Ändringar	Guardar Cambios	Änderungen eintragen	Wijzigingen doorvoeren			Fullfør Endringer	承诺更改					Komit Perubahan	Απόπειρα αλλαγών		Faça mudanças	Commit Changes		Godkänn Ändringar	Kaydet			dummy
 766	Communications	Förbindelser	Comunicaciones	Kommunikationen	Communicaties				通信					Komunikasi	Επικοινωνίες		Comunicações	Comunicações	الاتصالات	Förbindelser	İletişim			dummy
 767	Company				Bedrijf										Εταιρία						Şirket			dummy
-768	Complete		Completo	Fertig	Afronden										Ολοκληρωμένο						Tam			dummy
-769	Completed	Avslutat	Terminado	Fertiggestellt	Afgerond			Fullført	完成					Selesai	Ολοκληρώθηκε		Completado	Concluído	مكتمل	Avslutat	Tamamlanmış			dummy
+768	Complete		Completo	Fertig	Afronden										Ολοκληρωμένο		Concluir				Tam			dummy
+769	Completed	Avslutat	Terminado	Fertiggestellt	Afgerond			Fullført	完成					Selesai	Ολοκληρώθηκε		Concluído	Concluído	مكتمل	Avslutat	Tamamlanmış			dummy
 770	Complications by Service Provider	Komplikationer orsakade av vårdgivare	Conplicaciones por el proveedor de servicios		Complicaties bij Service gevende				并发症的服务提供商					Komplikasi oleh Service Provider	Επιπλοκές ανά Πάροχο Υπηρεσιών		Complicações através do provedor de serviços	Complicações pelo Provedor de Serviço		Komplikationer orsakade av vårdgivare	Servis Sağlayıcının Komplikasyonları			dummy
 771	Complications of Abortion	Komplikationer av Abort	Complicaciones de aborto		Complicaties van abortus			Komplikasjoner ved abort	堕胎并发症					Komplikasi dari Abortion	Επιπλοκές άμβλωσης		Complicações do Aborto	Complicações do Aborto	اختلاطات الإجهاض	Komplikationer av Abort	Düşük Komplikasyonları			dummy
 772	Computer Aided Medical Ordering System	Datorstödd Medical Ordering System	Sistema Computarizado de Pedidos Médicos		Computergestuurd ordersysteem				医学计算机辅助订货系统					Dibantu komputer Kedokteran Diurutkan Sistem	Σύστημα Ιατρικής Ταξινόμησης Υποβοηθούμενο από Υπολογιστή (CAMOS)		Computador Ajudou Sistema de Ordenamento de Exame médico	Computer Aided Médica Sistema de Pedidos	نظام الأوامر الطبية بمساعدة الكومبيوتر	Datorstödd Medical Ordering System	Bilgisayar Destekli Tıbbi Order Sistemi			dummy
 773	Conclusions	Slutsatser	Conclusiones 	Schlußfolgerungen	Conclusies										Συμπερασματα		Conclusões	Conclusões	الاستنتاجات	Slutsatser	Sonuçlar			dummy
-774	Configuration		configuracion	Konfiguration	Configuratie										Ρύθμιση						Konfigürasyon			dummy
+774	Configuration		configuracion	Konfiguration	Configuratie										Ρύθμιση		Configuração				Konfigürasyon			dummy
 775	Configuration Export/Import		Configuración Exportar / Importar	Export/Import konfigurieren	Configuratie im-/ex-port										Εξαγωγή/ Εισαγωγή Ρυθμίσεων						Konfigürasyonu İçe/Dışa aktar			dummy
 776	Configure Apache and OpenEMR to use Client side SSL certificates.		Configure Apache y OpenEMR para usar certificados SSL del Cliente		Apache en OpenEMR instellen om SSL-clientcertificaten te gebruiken										Ρύθμιση του Apache και του OpenEMR για χρήση πιστοποιητικών SLL από τη μεριά του Πελάτη						Müşteri SSL sertifikalarını kullanmak üzere Apache ve OpenEMR ı yapılandır			dummy
 777	Configure Apache to use Client side SSL certificates		Configure Apache para usar certificados SSL del Cliente		Apache instellen om SSL-clientcertificaten te gebruiken										Ρύθμιση του Apache για χρήση πιστοποιητικών SLL από τη μεριά του Πελάτη						Müşteri tarafı SSL sertifikalarını kullanmak üzere Apache\'yi yapılandır.			dummy
@@ -790,7 +790,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 785	constant name	konstantnamn	Nombre constante	Konstantenname	naam van constante				常量名					konstan nama	σταθερό όνομα 		Nome Constante	nome constante		konstantnamn	sabit isim			dummy
 786	Constant name is blank		Nombre constante está en blanco		Naam van Constatne in leeg										Το σταθερό όνομα είναι κενό						Sabit isim boş			dummy
 787	constants	Konstanter	constantes	Konstanten	Constanten				常数					konstan	σταθερές 		Constantes	Constantes		Konstanter	sabitler			dummy
-788	Constipation	Förstoppning	Estreñimiento 	Obstipation	Obstipatie										Δυσκοιλιότητα		Constipação	Constipação	الإمساك	Förstoppning	Kabızlık			dummy
+788	Constipation	Förstoppning	Estreñimiento 	Obstipation	Obstipatie										Δυσκοιλιότητα		Obstipação	Constipação	الإمساك	Förstoppning	Kabızlık			dummy
 789	Constitutional	Konstitutionella	Constitucional 	Konstitutionell	Constitutie										Γενική κατάσταση		Constitucional	Constitucional	أعراض جهازية عامة	Konstitutionella	Yapısal			dummy
 790	Consultation Brief Description	Konsultation, kortfattad beskrivning	Breve Descripción de Consulta	Kurzbeschreibung der Konsultation	Korte omschrijving consult				咨询简介					Konsultasi Brief Description	Σύντομη αναφορά εκτίμησης		Descrição Breve da Consulta	Consulta Breve Descrição	وصف مختصر لسبب زيارة المريض	Konsultation, kortfattad beskrivning	Konsültasyon Kısa Özeti			dummy
 791	Contact	Kontakt	Contacto	Kontakt	Contact			Kontakt	联系方式					Kontak	Επαφή		Contacto	Contato	المعلومات حول شخص قريب أو مرافق	Kontakt	Bağlantı			dummy
@@ -829,7 +829,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 824	Corrected		Corregido		Coronair Arterie Bypass										Διορθώθηκε						Düzeltildi			dummy
 825	Cough	Hosta	Tos	Husten	Hoest										Βήχας		Tosse	Tosse	السعال	Hosta	Öksürük			dummy
 826	Cough:	Hosta:	Tos:	Husten:	Hoest:			Hoste:	咳嗽：					Batuk:	Βήχας: 		Tosse:	Tosse:	السعال	Hosta:	Öksürük:			dummy
-827	Could not read file		No se pudo leer el archivo		Kon bestand niet lezen										Το αρχείο δεν μπορεί να διαβαστεί						Dosya okunamadı			dummy
+827	Could not read file		No se pudo leer el archivo		Kon bestand niet lezen										Το αρχείο δεν μπορεί να διαβαστεί		Não foi possível ler o ficheiro				Dosya okunamadı			dummy
 828	Could not send email due to a server problem, 	Kunde inte skicka e-post på grund av en server problem	Correo no salió por problema con servidor,	Konnte Email wegen Server-Problemen nicht senden,	E-mail werd niet verzonden door serverprobleem			Kunne ikke sende epost grunnet et problem med serveren	不能发送电子邮件由于服务器问题，					Tidak dapat mengirim email ke server karena masalah,	Το email δεν μπορεί να σταλεί λόγω προβλήματος του εξυπηρετητή,		Não pode enviar e-mail devido a problema do servidor,	Não foi possível enviar e-mail devido a um problema de servidor,	فشل إرسال رسللة إلكترونية لعطل في الشبكة	Kunde inte skicka e-post på grund av en server problem	Sunucu sorunu nedeniyle eposta gönderilemedi.			dummy
 829	Couldn't create backup dir:		No fue posible crear el dir de respaldo:		Kon geen backup Dir maken:										Δεν ήταν δυνατή δημιουργία φακέλου backup:				فشل إنشاء النسخة الاحتياطية		Yedek klasörü oluşturulamadı:			dummy
 830	Couldn't remove dir:		No fue posible eliminar dir:		Kon volgende Dir niet verwijderen:										Δεν ήταν δυνατή η διαγραφή φακέλου:						Klasör silinemedi:			dummy
@@ -861,21 +861,21 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 856	Create Client Certificate		Crear Certificado de Cliente		Maak een clientcertificaat aan										Δημιουργία Πιστοποιητικού Πελάτη						Müşteri Sertifikası Oluştur			dummy
 857	Create Client side SSL certificates		Crear Certificados SSL del Cliente		Maak een SSL-clientcertificaat aan										Δημιουργία Πιστοποιητικών από την πλευρά του Πελάτη						Müşteri tarafı sertifikaları oluştur			dummy
 858	Create Eventlog Backup		Crear copia de seguridad de registro de eventos		Backup van gebeurtenislog aanmaken										Δημιουργία Backup Eventlog						Olay kaydının yedeğini oluştur			dummy
-859	Create New Patient	Skapa ny patient	Crear paciente nuevo	Neuen Patienten anlegen	Nieuwe client registreren			Lag en Ny Pasient	创造新的病人					Buat Baru Pasien	Δημιουργία Νέου Ασθενούς		Criar novo doente	Criar novo paciente	إنشاء ملف جديد للمريض	Skapa ny patient	Yeni Hasta Oluştur			dummy
-860	Create Patient Note	Skapa Patientanteckning	Crear nota de paciente		Maak notitie voor patient			Lag et Pasient Notis	创建患者注意					Buat Pasien Catatan	Δημιουργία Σημείωσης Ασθενούς		Criar notas do doente	Criar Paciente Nota	إنشاء تقرير عن المريض	Skapa Patientanteckning	Hasta Notu Oluştur			dummy
+859	Create New Patient	Skapa ny patient	Crear paciente nuevo	Neuen Patienten anlegen	Nieuwe client registreren			Lag en Ny Pasient	创造新的病人					Buat Baru Pasien	Δημιουργία Νέου Ασθενούς		Novo Utente	Criar novo paciente	إنشاء ملف جديد للمريض	Skapa ny patient	Yeni Hasta Oluştur			dummy
+860	Create Patient Note	Skapa Patientanteckning	Crear nota de paciente		Maak notitie voor patient			Lag et Pasient Notis	创建患者注意					Buat Pasien Catatan	Δημιουργία Σημείωσης Ασθενούς		Nova Notas do Utente	Criar Paciente Nota	إنشاء تقرير عن المريض	Skapa Patientanteckning	Hasta Notu Oluştur			dummy
 861	Create the SSL Certificate Authority and Server certificates.		Crear Certificado de Autoridad SSL y Certificados del Servidor.		Maak autorisatie aan voor de SSL-clientcertificaat en servercertificaten										Δημιουργία Εξουσιοδότησης Πιστοποιητικού SSL και πιστοποιητικών Εξυπηρετητή.						SSL Sertifikası Yetkilisi ve Sunucu sertifikaları oluştur. 			dummy
 862	Create Visit				Maak visite aan										Δημιουργία Επίσκεψης						Vizit Oluştur.			dummy
 863	Created	Skapad	Creado	Angelegt	Aangemaakt			Laget	创建					Dibuat	Δημιουργήθηκε 		Criado	Criado	تم	Skapad	Oluşturuldu			dummy
 864	Creating export file		Creando archivo de exportación	Datei exportieren	Aanmaken exportbestand										Δημιουργία αρχείου εξαγωγής		Arquivo de exportação criado	Criando arquivo de exportação	جارِ إنشاء ملف للتصدير		Dışa aktarım dosyası oluşturuluyor			dummy
 865	credit	kredit	crédito	Kredit	krediet			Kreditt	信贷					kredit	πίστωση		crédito	crédito		kredit	alacak			dummy
 866	Credits	Kredit	Créditos	Kredite	Kredieten			Kreditter	学分					Kredit	Πιστώσεις		Créditos	Créditos		Kredit	Krediler			dummy
-867	Criteria				Criteria																Kriter			dummy
+867	Criteria				Criteria												Critérios				Kriter			dummy
 868	Crohn\'s Disease	Crohn\'s sjukdom	Enfermedad de Crohn	Morbus Crohn	Ziekte van Crohn				克罗恩病					Crohn\'s Disease	Νόσος του Crohn		Crohn\'Doença de	Doença de Crohn	داء كرون	Crohn\'s sjukdom	Chron Hastalığı			dummy
 869	Crohns Disease	Chrons sjukdom	Enfermedad de Crohns 	Morbus Crohn	Ziekte van Crohn										Νόσος του Crohn		Crohn Doença de	Doença de Crohn	داء كرون	Chrons sjukdom	Chrons Hastalığı			dummy
-870	CSV Export		CSV		CSV-export										Εξαγωγή CSV						CSV dışa aktarma			dummy
-871	CSV File	Csv-fil	Archivo de CSV 	CSV-Datei	CSV-bestand				CSV文件					File CSV	Αρχείο CSV		Arquivo CSV	Arquivo CSV		Csv-fil	CSV Dosyası			dummy
+870	CSV Export		CSV		CSV-export										Εξαγωγή CSV		Exportar em CSV				CSV dışa aktarma			dummy
+871	CSV File	Csv-fil	Archivo de CSV 	CSV-Datei	CSV-bestand				CSV文件					File CSV	Αρχείο CSV		Ficheiro CSV	Arquivo CSV		Csv-fil	CSV Dosyası			dummy
 872	CU.MM		MM.CU (Mililitros cubicos)		CU.MM										κυβ. χιλιοστό						mm3			dummy
-873	Cuban		Cubano		Cubaans																Kübalı			dummy
+873	Cuban		Cubano		Cubaans												Cubano				Kübalı			dummy
 874	Currency Decimal Places		Tipo de Cambio Número de decimales		Decimale punt voor valuta										Δεκαδικά ψηφία νομίσματος						Para Birimi Ondalık Yerleri			dummy
 875	Currency Decimal Point Symbol		Tipo de Cambio - Símbolo de Punto Decimal		Valuta decimaal punt symbool										Σύμβολο δεκαδικών ψηφίων νομίσματος						Para birimi Ondalık Sembolü			dummy
 876	Currency Designator		Indicador de Tipo de Cambio		Valuta Toewijzing																Para Birimi Kısaltması			dummy
@@ -905,15 +905,15 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 900	D&E	D & E	D&E		D&E				发展和é					D & E	Παρουσίαση και Αξιολόγηση		D&E	D & E	التوسيع و التفريغ	D & E	D&E			dummy
 901	D.O.B.	D.O.B.	F.D.N.	Geb	GEB				D.O.B.					D.O.B.	Ημ. Γενν.		D. Nascimento	Data Nascimento	تاريخ الولادة	D.O.B.	Doğum Tarihi			dummy
 902	daily	dagligen	diariamente	täglich	dagelijks			Daglig	每日					harian	ημερησίως		diariamente	diária	يومياَ	dagligen	günde			dummy
-903	Daily Record				Dagelijks vastleggen										Ημερήσια καταγραφή						Günlük Kayıt			dummy
-904	Danish				Deens										Δανέζικος						Danimarkaca			dummy
+903	Daily Record				Dagelijks vastleggen										Ημερήσια καταγραφή		Registo Diário				Günlük Kayıt			dummy
+904	Danish				Deens										Δανέζικος		Dinamarquês				Danimarkaca			dummy
 905	Data Alike is already in database, please change code and/or description	Liknande data finns redan i databasen, ändra koden och / eller beskrivning	Información parecida está ya en la base de datos, por favor cambie el código o la descripción		Soortgelijke data zit al in databank, wijzig de code en/of omschrijving				数据已经在相同的数据库，请更改代码和/或描述					Alike data sudah di database, silahkan ganti kode dan / atau keterangan	Tα δεδομένα είναι ήδη στη βάση δεδομένων, παρακαλώ αλλάξτε τον κωδικό και/ ή την περιγραφή		Dado semelhante já está no banco de dados, por código de alteração e / ou descrição	Dados Alike já está no banco de dados, por código de alteração e / ou descrição		Liknande data finns redan i databasen, ändra koden och / eller beskrivning	Veritabanında benzeri veri önceden var, lütfen kod ve/veya tanımı değiştiriniz			dummy
 906	Data Alike is already in database, please change constant name	Liknande data finns redan i databasen, ändra koden och / eller beskrivning	Información parecida está ya en la base de datos, por favor cambie el nombre de la constante		Soortgelijke data zit al in databank, verander de naam van de constante										Tα δεδομένα είναι ήδη στη βάση δεδομένων, παρακαλώ αλλάξτε το όνομα της σταθεράς		Dados Semelhantes já está em banco de dados, por favor mude npme	Dados Alike já está no banco de dados, por favor mude o nome constante		Liknande data finns redan i databasen, ändra koden och / eller beskrivning	Veritabanında benzeri veri önceden var, lütfen sabit ismini değiştiriniz			dummy
 907	Data Cols	Data Cols	Datos Cols	Daten-Spalten	Gegevens Cols				数据列					Data cols	Στήλες δεδομένων		Dados Cols	Dados Cols		Data Cols	Veri Sütunları			dummy
 908	Data Type	Datattyp	Tipo de datos	Daten-Typen	Gegevenstype			Data Type	数据类型					Jenis data	Τύπος δεδομένων		Tipos de Dados	Tipo de dados		Datattyp	Veri Tipi			dummy
 909	Database	Databas	base de datos	Datenbank	Databank			Database	数据库					Database	Βάση δεδομένων		Base de Dados	Banco de Dados	قاعدة البيانات	Databas	Veritabanı			dummy
 910	Database Reporting	Databasrapportering	Información de la base de datos 	Datenbankbericht	Databank rapportage										Αναφορά βάσης δεδομένων		Relatório da Base de Dados	Banco de dados Relação		Databasrapportering	Veritabanı Raporlama			dummy
-911	Database upgrade finished.			Datenbankaktualisierung beendet	DB upgrade is beeindigd										Η αναβάθμιση της βάσης δεδομένων ολοκληρώθηκε.						Veritabanı yükseltilmesi bitti.			dummy
+911	Database upgrade finished.			Datenbankaktualisierung beendet	DB upgrade is beeindigd										Η αναβάθμιση της βάσης δεδομένων ολοκληρώθηκε.		Finalizada a atualização da Base de Dados				Veritabanı yükseltilmesi bitti.			dummy
 912	DataCols must be a number between 1 and 999	Datacols måste ha ett nummer mellan 1 och 999	DataCols debe ser un número entre 1 y 999 	Datenspalten-Numerierung muß zwischen 1 und 999 liegen	Data kolommen moeten nummer hebben tussen 1 en 999										Τα Δεδομένα Στηλών πρέπει να είναι αριθμός μεταξύ 1 και 999		DataCols deve ser um número entre 1 e 999	DataCols deve ser um número entre 1 e 999		Datacols måste ha ett nummer mellan 1 och 999	VeriSütunları 1 ile 999 arasında bir sayı olmak zorunda			dummy
 913	Date	Datum	Fecha	Datum	Datum			Dato	日期					Tanggal	Ημερομηνία 		Data	Data	التاريخ	Datum	Tarih			dummy
 914	DATE	DATUM	FECHA	Datum	DATUM										ΗΜΕΡΟΜΗΝΙΑ		DATA	DATA	التاريخ	DATUM	TARİH			dummy
@@ -966,8 +966,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 961	Days Missed		Dias faltados	Tage versäumt	Gemiste dagen										Ημέρες που απωλέσθηκαν						Kaçırılan Günler			dummy
 962	Days per Column:	Dagar per Kolumn:	Días por columna	Tage pro Spalte	Dagen per kolom:			Dager per Kolonne:	天数列：					Kolom per hari:	Ημέρες ανά Στήλη: 		Dias por Colunas	Dias em cada coluna:		Dagar per Kolumn:	Sütun başı Günler			dummy
 963	Days/Col:		Dias/Col		Dagen/Col:										Ημέρες/Στήλη:						Günler/Süt			dummy
-964	DB installed	DB installerad	DB instalado	Datenbank installiert	DB geinstalleerd				数据库安装					DB diinstal	Η βάση δεδομένων έχει εγκατασταθεί 		DB Instalou	DB instalado	تنصيب قاعدة البيانات	DB installerad	VT kuruldu			dummy
-965	DD/MM/YYYY				DD/MM/JJJJ										ΗΗ/ΜΜ/ΕΕΕΕ						GG/AA/YYYY			dummy
+964	DB installed	DB installerad	DB instalado	Datenbank installiert	DB geinstalleerd				数据库安装					DB diinstal	Η βάση δεδομένων έχει εγκατασταθεί 		Instalado na BD	DB instalado	تنصيب قاعدة البيانات	DB installerad	VT kuruldu			dummy
+965	DD/MM/YYYY				DD/MM/JJJJ										ΗΗ/ΜΜ/ΕΕΕΕ		DD/MM/AAAA				GG/AA/YYYY			dummy
 966	De Identification				De Identificatie										Απο ταυτοποίηση						Hasta kimlik bilgilerinin gizlenmesi			dummy
 967	De Identification Process is completed				De Identificatie Proces beeindigd										Η διαδικασία απο ταυτοποίησης τελείωσε						Hasta kimlik bilgilerinin gizlenmesi işlemi tamamlandı 			dummy
 968	De Identification Process is ongoing				De Identificatie Proces is bezig.....										Η διαδικασία απο ταυτοποίησης ξεκίνησε						Hasta kimlik bilgilerinin gizlenmesi işlemi devam ediyor 			dummy
@@ -1084,7 +1084,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1079	Disclosure Info				Informatie over vermelding																Açıklama bilgisi			dummy
 1080	Disclosure Type				Vermelding type																Açıklama Tipi			dummy
 1081	Disclosure Types				Vermelding types																Açıklama Tipleri			dummy
-1082	Disclosures				Vermeldings																Açıklamalar			dummy
+1082	Disclosures				Vermeldings												Informações				Açıklamalar			dummy
 1083	Discount	Rabatt	Descuento		Korting			Rabatt	折扣					Diskon	Έκπτωση		Desconto	Desconto	الحسم	Rabatt	İndirim			dummy
 1084	Discount Amount	Rabatt Belopp	Suma de descuentos		Kortingsbedrag			Rabatt Mengde	折扣数额					Diskon Jumlah	Ποσό έκπτωσης		Quantia de desconto	Valor do desconto	مقدار الحسم	Rabatt Belopp	İndirim Miktarı			dummy
 1085	Discount Level	Rabatt nivå	Nivel del Descuento 		Kortingsniveau										Επίπεδο έκπτωσης		Alavanc do Desconto	Nível de desconto	مستوى الحسم	Rabatt nivå	İndirim Düzeyi			dummy
@@ -1107,8 +1107,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1102	Display topic in block?	Visa ämne i blocket?	¿Mostrar tema en tabla?		Onderwerp in blok tonen?				显示话题块？					Tampilkan topik di blok?	Εμφάνιση συμβάντος σε block;		Mostrar tópico em bloco?	Mostrar o tópico no bloco?		Visa ämne i blocket?	Konu blokta gösterilsin mi?			dummy
 1103	Display upcoming events in block?	Visa kommande händelser i blocket?	¿Mostrar los eventos próximos en tabla?		Komende gebeurtenissen in blok tonen?				即将举行的活动中显示块？					Menampilkan acara mendatang di blok?	Εμφάνιση επερχόμενων συμβάντων στο block;		Mostrar eventos futuros em bloco?	Mostrar eventos programados no bloco?		Visa kommande händelser i blocket?	Gelecek olaylar blokta gösterilsin mi?			dummy
 1104	Displayed Columns		Mostrar columnas		Weergegeven kolommen										Εμφανιζόμενες Στήλες						Gösterilen Sütunlar			dummy
-1105	Displaying the following number of most recent disclosures:				De meest recente disclosures worden getoond																En son aşağıdaki sayıda açıklama gösteriliyor			dummy
-1106	Displaying the following number of most recent notes:				Toon het vervolg nummer van recente notes										Εμφανίζει τον εξής αριθμό των πλέον πρόσφατων σημειώσεων:						En son notlardan izleyen sayıda olanlar gösteriliyor:			dummy
+1105	Displaying the following number of most recent disclosures:				De meest recente disclosures worden getoond												A mostrar o número de informação mais recentes:				En son aşağıdaki sayıda açıklama gösteriliyor			dummy
+1106	Displaying the following number of most recent notes:				Toon het vervolg nummer van recente notes										Εμφανίζει τον εξής αριθμό των πλέον πρόσφατων σημειώσεων:		A mostrar o número de notas mais recentes:				En son notlardan izleyen sayıda olanlar gösteriliyor:			dummy
 1107	Distribution	Distrubition	Distribución		Verdeling				分布					Distribusi	Διανομή 		Distribuição	Distribuição	التوزع	Distrubition	Dağılım			dummy
 1108	Distributions				Verdeling												Distribuições				Dağılımlar			dummy
 1109	Distributor				Verdelingen												Distribuidor				Dağıtıcı			dummy
@@ -1957,8 +1957,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1952	Indicates abnormality		Indica anormalidad		Geeft abnormaliteit aan										Υποδεικνύει ανωμαλία		Indica anormalidade	Indica anormalidade			Anormalliği gösterir			dummy
 1953	Indicates if this issue is currently active	Indikerar om detta problem/frågeställning är aktiv	Indica si este asunto está activo		Geef aan of dit probleem nu actief is				表明，如果这个问题目前正在积极					Menunjukkan jika masalah ini saat ini aktif	Δείχνει αν αυτό το θέμα είναι ενεργό		Indicando se este assunto ativo corretamente	Indica se este problema está atualmente ativo		Indikerar om detta problem/frågeställning är aktiv	Bu konunun halen aktif olup olmadığını gösterir			dummy
 1954	Indicator for specialized usage				Indicator voor gespecialiseert gebruik										Δείκτης για ειδική χρήση	Indicator for specialised usage					Özelleşmiş kullanım belirteci			dummy
-1955	Indigent Patients		Pacientes indigentes		Minvermogende patienten										Άποροι ασθενείς		Doentes Indigentes				Yoksul Hastalar			dummy
-1956	Indigent Patients Report	Hjälpbehövande Patienter Rapport	Informe de Pacientes Indigentes		Rapport minvermogende ptn				贫困患者报告					Pasien miskin Lapor	Αναφορά απόρου ασθενούς 		Relatório de Doentes Indigente	Indigentes pacientes relatam		Hjälpbehövande Patienter Rapport	Yoksul Hastalar Raporu			dummy
+1955	Indigent Patients		Pacientes indigentes		Minvermogende patienten										Άποροι ασθενείς		Utentes Indigentes				Yoksul Hastalar			dummy
+1956	Indigent Patients Report	Hjälpbehövande Patienter Rapport	Informe de Pacientes Indigentes		Rapport minvermogende ptn				贫困患者报告					Pasien miskin Lapor	Αναφορά απόρου ασθενούς 		Relatório de Utente Indigente	Indigentes pacientes relatam		Hjälpbehövande Patienter Rapport	Yoksul Hastalar Raporu			dummy
 1957	Indigents		Indigentes	Bestandteile	Minvermogend				贫困					Indigents	Άποροι		Indigentes	Indigentes			Yoksullar			dummy
 1958	Induced Abortion		Aborto Inducido	Abtreibung	Opgewekte abortus				人工流产					Abortion induced	Προκλητή άμβλωση		Aborto Provocado	Aborto induzido			Kürtaj			dummy
 1959	Ineligible				Komt er niet voor in aanmerking																Seçilemez			dummy
@@ -4050,10 +4050,10 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4045	There are currently no prescriptions		Actualmente no hay recetas		Er zijn momenteel geen recepten										Δεν υπάρχουν τρεχόντως καθόλου συνταγές		Não há prescrição				Halen hiç reçete yok			dummy
 4046	There are errors with your submission. These are outlined below.	Det är fel med din ansökan. Dessa beskrivs nedan. 	Hay errores con su sumisión. Éstos se contornean abajo. 		Er zijn fouten met uw toezending. Deze worden hieronder beschreven.				有错误的意见。这些概述如下。					Ada beberapa kesalahan dengan khidmat. Hal ini dijelaskan di bawah ini.	Υπάρχουν σφάλματα με την υποβολή σας. Αυτά σκιαγραφούνται παρακάτω. 		Há erros com sua submissão. Estes são esboçados abaixo.	Há erros com a sua apresentação. Estes são descritos abaixo.		Det är fel med din ansökan. Dessa beskrivs nedan. 	Gönderinizde hatalar var. Bunlar aşağıda özetlenmiştir.			dummy
 4047	There are no charts checked out.		No hay records sacados		Er zijn geen Statussen uitgechecked										Δεν υπάρχουν ελεγμένοι φάκελοι.						İşaretlenmiş hiç çizelge yok			dummy
-4048	There are no disclosures recorded for this patient.				Er zijn geen vermeldingen voor deze patient																			dummy
+4048	There are no disclosures recorded for this patient.				Er zijn geen vermeldingen voor deze patient												Não há informações para este utente.							dummy
 4049	There are no New Submissions	Det finns inga nya synpunkter 	No hay nuevas sumisiones		Er is niets nieuws toegevoegd				没有新的划界案					Tidak ada Baru Submissions	Δεν υπάρχουν νέες Υποβολές		Não há nenhuma Submissão Nova	Não existem argumentos Novos		Det finns inga nya synpunkter 	Hiç Yeni Teslimat yok			dummy
-4050	There are no notes on file for this patient.		No hay notas en el file para este paciente		Er zijn geen notities voor deze patient										Δεν υπάρχουν σημειώσεις στο φάκελο, γι\' αυτό τον ασθενή.						Bu hasta için dosyada hiç not yok			dummy
-4051	There are no transactions on file for this patient.				Er zijn geen transacties opgeslagen voor deze patient										Δεν υπάρχουν συναλλαγές στο αρχείο γι\' αυτό τον ασθενή.						Bu hasta için dosyada hiçbir işlem yok.			dummy
+4050	There are no notes on file for this patient.		No hay notas en el file para este paciente		Er zijn geen notities voor deze patient										Δεν υπάρχουν σημειώσεις στο φάκελο, γι\' αυτό τον ασθενή.		Não há notas para este utente.				Bu hasta için dosyada hiç not yok			dummy
+4051	There are no transactions on file for this patient.				Er zijn geen transacties opgeslagen voor deze patient										Δεν υπάρχουν συναλλαγές στο αρχείο γι\' αυτό τον ασθενή.		Não há transações para este utente.				Bu hasta için dosyada hiçbir işlem yok.			dummy
 4052	There has been a mail error sending to		Se ha producido un error al enviar correo a 		Foutje bij versturen van e-mail naar										Υπήρξε σφάλμα ταχυδρομείου που έστελνε σε		Houve um erro de correio que envia	Houve um erro de envio de email para			Bir eposta hatası oldu			dummy
 4053	There is already a category named		Ya existe una categoria nombrada		Er is al een categorie met de naam										Υπάρχει ήδη μια κατηγορία με το όνομα						isimli bir kategori zaten var			dummy
 4054	There is already a subcategory named		Ya existe una subcategoria nombrada		Er is al een subcategorie met de naam										Υπάρχει ήδη μια υποκατηγορία με το όνομα						isimli bir alt kategori zaten var			dummy
@@ -4158,7 +4158,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4153	To link this encounter/consult to an existing issue, click the 		Para ligar este encuentro/consulta a un asunto existente, pinche el		Om dit contact aan een reeds bestaand probleem/consult te koppelen, klikt u op het										Για να συνδέσετε αυτήν την επίσκεψη/συμβουλή σε ένα υπάρχον θέμα, κάντε κλικ στο						Bu görüşmeyi/konsültasyonu mevcut bir konu ile bağlantılandırmak için tıklayınız			dummy
 4154	To link this encounter/consult to an existing issue, click the desired issue above to highlight it and then click [Save]. Hold down [Ctrl] button to select multiple issues.	För att länka detta besök till objekt i ovanstående lista, markera önskade objekt och klicka sedan på [spara]. Håll ner [Ctrl] för att markera fler objekt. 	Para enlazar este encuentro / consultar a un problema, haga clic en el tema de arriba para destacar y, a continuación, haga clic en [Guardar]. Mantenga pulsada la tecla [Ctrl] para seleccionar múltiples cuestiones. 		Om dit contact aan een reeds bestaand probleem/consult te koppelen, klikt u op het gewenste probleem hierboven en daarna op [Bewaren]. Houd de [Ctrl] toets ingedrukt als u meerdere problemen tegelijkertijd wilt selecteren.										Για να συνδέσετε αυτήν την επίσκεψη/εκτίμηση με ένα υπάρχον πρόβλημα, κάντε κλικ στο θέμα που θέλετε παραπάνω για να το επιλέξετε και στη συνέχεια κάντε κλικ στο [Αποθήκευση]. Κρατήστε πατημένο το [Ctrl] για να επιλέξετε πολλά προβλήματα.		Unir este encounter/consult a um assunto existente, clique o assunto desejado acima realçar isto e então clicar [Economize]. Sujeite [Ctrl] botão para selecionar assuntos múltiplos.	Para vincular este encontro / consulta a um problema existente, clique na edição desejada acima para destacá-lo e, em seguida, clique em [Salvar]. Mantenha pressionada a tecla [Ctrl] para seleccionar várias questões.		För att länka detta besök till objekt i ovanstående lista, markera önskade objekt och klicka sedan på [spara]. Håll ner [Ctrl] för att markera fler objekt. 	Bu görüşmeyi/konsültasyonu mevcut bir konu ile bağlantılandırmak için yukarıdan istenen konuyu tıklayıp vurgulayınız sonra [Kaydet] i tıklayınız. Çoklu seçim için [Ctrl] düğmesini basılı tutunuz.			dummy
 4155	to login again	för att logga in igen	volver a iniciar sesión 		opnieuw naar inloggen										για να συνδεθείτε ξανά 		para login novamente	Para fazer o login novamente		för att logga in igen	tekrar giriş için			dummy
-4156	To record disclosures, please click				Om vermeldingen vast te leggen, klikken																Açıklamaları kaydetmek için lütfen tıklayınız			dummy
+4156	To record disclosures, please click				Om vermeldingen vast te leggen, klikken												Para registar informação, carregue				Açıklamaları kaydetmek için lütfen tıklayınız			dummy
 4157	to run				lopen										να τρέξει		para executar				çalıştırmak için			dummy
 4158	To setup https access with client certificate authentication, do the following		Para configurar el acceso https con autenticación de certificados de cliente, haga lo siguiente		Om https toegang van client certificatie authenticatie te geven doe het volgende										Για να ρυθμίσετε την πρόσβαση https με τον έλεγχο ταυτότητας πιστοποιητικού πελάτη, κάντε τα εξής						Müşteri sertifika doğrulaması ile https erişimini kurmak için şunları yapın			dummy
 4159	To Skin	Huden 	Para la piel 		Op de huid				皮肤					Untuk Kulit	Στο δέρμα		Esfolar	To Skin		Huden 	Deriye			dummy
