@@ -5,7 +5,7 @@ Success:
 ---
 > Total number of languages with translations: 19
 > Total number of constants: 4724
-> Total number of real definitions: 38205
+> Total number of real definitions: 38432
 596c597
 < Arabic: 17% (822 definitions)
 ---
@@ -33,7 +33,7 @@ Success:
 ---
 > French: 4.85% (229 definitions)
 > German: 31.58% (1492 definitions)
-> Greek: 91.98% (4345 definitions)
+> Greek: 93.54% (4419 definitions)
 610,614c611,616
 < Norwegian: 19% (901 definitions)
 < Polish: 0% (0 definitions)
@@ -41,7 +41,7 @@ Success:
 < Portuguese (European): 78% (3708 definitions)
 < Russian: 8% (375 definitions)
 ---
-> Italian: 3.77% (178 definitions)
+> Italian: 7.01% (331 definitions)
 > Norwegian: 19.07% (901 definitions)
 > Polish: 0.21% (10 definitions)
 > Portuguese (Brazilian): 71.82% (3393 definitions)
