@@ -2367,8 +2367,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 2362	Middle Name	Mellannamn	Segundo Nombre		Intialen/tussenvoegsel			Mellom Navn	名和姓之间的名字					Nama tengah	Μεσαίο όνομα		Nome do Meio	Nome do Meio		Mellannamn	Orta İsim					dummy
 2363	Middle name	Mellannamn	Segundo nombre		Initialen/tussenvoegsel										Μεσαίο όνομα		Nome do meio	Nome do meio		Mellannamn	Orta isim 					dummy
 2364	Mien				Mien																Mien					dummy
-2365	Migrant or seasonal worker?	Migrerande eller säsongsarbetare?	Migrante o trabajador de temporada?		Migrant of seizoensarbeider?									Migran musiman atau pekerja?	Μετανάστης ή εποχιακά εργαζόμενος; 		Migrante ou trabalhador sazonal?	Migrantes ou sazonal?		Migrerande eller säsongsarbetare?	Göçer veya mevsimlik işçi mi?					dummy
-2366	Migrant/Seasonal	Migrerande / Säsong	Migrantes / temporada		Migrerend/Seizoensgebonden									Migran / Musiman	Μετανάστης/ Εποχιακός		Migrante/Sazonal	Migrantes / Seasonal		Migrerande / Säsong	Göçer/Mevsimlik					dummy
+2365	Migrant or seasonal worker?	Migrerande eller säsongsarbetare?	Migrante o trabajador de temporada?		Tijdelijke werkkracht?									Migran musiman atau pekerja?	Μετανάστης ή εποχιακά εργαζόμενος; 		Migrante ou trabalhador sazonal?	Migrantes ou sazonal?		Migrerande eller säsongsarbetare?	Göçer veya mevsimlik işçi mi?					dummy
+2366	Migrant/Seasonal	Migrerande / Säsong	Migrantes / temporada		Tijdelijk verblijf									Migran / Musiman	Μετανάστης/ Εποχιακός		Migrante/Sazonal	Migrantes / Seasonal		Migrerande / Säsong	Göçer/Mevsimlik					dummy
 2367	Mil/CU.MM		Mil/CU.MM		Mil/CU.MM												Mil/CU.MM				Mil/mm3					dummy
 2368	MimeType		Mime Tipo		Mimetype									Mimetype	MimeType		Mimique Tipo	MimeType			Mime Tipi					dummy
 2369	min		min		min										λεπτά		min	min			dak					dummy
