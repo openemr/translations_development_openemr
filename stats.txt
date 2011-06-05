@@ -2,7 +2,7 @@
 Language Statistics:
 Total number of languages with translations: 20
 Total number of constants: 4724
-Total number of real definitions: 38717
+Total number of real definitions: 38797
 Arabic: 17.4% (822 definitions)
 Bahasa Indonesia: 55.06% (2601 definitions)
 Chinese (Simplified): 37.43% (1768 definitions)
@@ -10,7 +10,7 @@ Chinese (Traditional): 0.15% (7 definitions)
 Danish: 51.06% (2412 definitions)
 Dutch: 99.98% (4723 definitions)
 English (Indian): 2.12% (100 definitions)
-French: 6.22% (294 definitions)
+French: 7.92% (374 definitions)
 German: 31.58% (1492 definitions)
 Greek: 93.54% (4419 definitions)
 Hindi: 1.63% (77 definitions)
