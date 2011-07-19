@@ -2,8 +2,10 @@ Success:
 601c601
 < Total number of real definitions: 38829
 ---
-> Total number of real definitions: 38886
-610c610
+> Total number of real definitions: 38944
+610,611c610,611
 < Dutch: 91.09% (4723 definitions)
+< English (Indian): 1.93% (100 definitions)
 ---
-> Dutch: 92.19% (4780 definitions)
+> Dutch: 92.94% (4819 definitions)
+> English (Indian): 2.3% (119 definitions)
