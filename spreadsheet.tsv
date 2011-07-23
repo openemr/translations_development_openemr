@@ -838,7 +838,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 833	Comma		Coma	Komma	Komma										Κόμμα		Vírgula				Virgül					dummy
 834	Comment		Commentario		Commentaar										Σχόλιο		Comentário				Yorum					dummy
 835	Comments	Kommentarer	Comentarios	Kommentare	Commentaren			Kommentarer	评论					Komentar	Σχόλια 		Comentários	Comentários	التعليقات	Kommentarer	Yorumlar					dummy
-836	Comments for this result or recommendation		Comentarios para este resultado o recomendación		Kammentaar voor dit resultaat of aanbeveling										Σχόλια για αυτό το αποτέλεσμα ή τη σύσταση		Comentários ao resultado				Bu sonuç veya öneri için yorumlar					dummy
+836	Comments for this result or recommendation		Comentarios para este resultado o recomendación		Kommentaar op dit resultaat of aanbeveling										Σχόλια για αυτό το αποτέλεσμα ή τη σύσταση		Comentários ao resultado				Bu sonuç veya öneri için yorumlar					dummy
 837	Commercial Insurance Co.	Commercial Insurance Co	Compañía Aseguradora		Commercieel verzekeringsmaatschappij				商业保险有限公司					Asuransi komersial Co	Εταιρεία εμπορικών ασφαλίσεων		Cia. De Seguro comercial	Commercial Insurance Co.	شركة التأمين	Commercial Insurance Co	Ticari Sigorta Şir.					dummy
 838	Commit Changes	Godkänn Ändringar	Guardar Cambios	Änderungen eintragen	Wijzigingen doorvoeren			Fullfør Endringer	承诺更改					Komit Perubahan	Απόπειρα αλλαγών		Faça mudanças	Commit Changes		Godkänn Ändringar	Kaydet					dummy
 839	Communications	Förbindelser	Comunicaciones	Kommunikationen	Communicaties				通信					Komunikasi	Επικοινωνίες		Comunicações	Comunicações	الاتصالات	Förbindelser	İletişim					dummy
@@ -1117,10 +1117,10 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1112	Dementia	Demens	Demencia	Demenz	Dementie										Άνοια		Demência	Demência	العته	Demens	Demans					dummy
 1113	Demographics	Demografi	Datos demográficos	Demographische Daten	Persoonsgegevens				人口统计					Demografi	Δημογραφικά 		Informações demograficas	Informações	المعلومات الشخصية	Demografi	Demografi					dummy
 1114	Demographics (write,addonly optional)	Demografi	Demografía (escribir, sólo añadir opcional)	Demographische Daten (schreibbar, optional nur hinzufügen erlaubt)	Persoonsgegevens (schrijven,toevoegen optioneel)										Δημογραφικά (εγγραφή)		Demograficas (escrever opcionalmente)	Informações (escrever, adicionar opcional)	المعلومات الشخصية	Demografi	Demografik Bilgiler(yaz, sadece ekle seçmeli)					dummy
-1115	Demographics filter criteria																									dummy
+1115	Demographics filter criteria				Filter voor Demografische gegevens																					dummy
 1116	Demographics not authorized	Demografi ej auktoriserad	Datos demográficos no autorizados	Änderung der demographischen Daten nicht erlaubt	Persoonsgegevens niet geautoriseerd				人口未授权					Demografi tidak diizinkan	Δεν επιτρέπονται Δημογραφικά 	Demographics not authorised	Demograficas não autorizou	Informações não autorizadas	المعلومات الشخصية غير متاحة	Demografi ej auktoriserad	Demografik Bilgilere izin verilmiyor					dummy
 1117	Demographics not authorized.	Demografi ej auktoriserad	Datos demográficos no autorizados	Änderung der demographischen Daten nicht erlaubt.	Persoonsgegevens nog niet geautoriseerd										Δεν επιτρέπονται Δημογραφικά.	Demographics not authorised.	Demographics não autorizou.	Informações não autorizadas.	المعلومات الشخصية غير متاحة	Demografi ej auktoriserad	Demografik Bilgilere izin verilmiyor					dummy
-1118	Denominator																									dummy
+1118	Denominator				Denominator																					dummy
 1119	Dental	Dental	Dental	Zähne betreffend(e)	Gebit										Οδοντιατρικός		Dental	Dental	سني	Dental	Diş					dummy
 1120	Dental Issues	Dentala frågeställningar	Ediciones Dentales	Zahnbeschwerden	Gebitsproblemen										Οδοντιατρ. προβλήματα		Problemas Dentários	Problemas dentários	مشاكل الأسنان	Dentala frågeställningar	Diş Konuları					dummy
 1121	Depending on the type of bill you are testing you will see HCFA like output on a blank page for HCFA bills, you will see many lines of somewhat garbled text and information if you are testing an X12 claim. That garbled text is the X12 EDI 4010A format. Occasionally you will see odd characters that look like dominoes or squiglies, these are control characters such as page feeds and are normal.		Dependiendo del tipo de cuenta usted es prueba que usted verá HCFA como salida en una página en blanco para las cuentas de HCFA, usted verán muchas líneas de texto algo mutilado y la información si usted está probando una demanda X12. Ese texto mutilado es el formato del X12 IED 4010A. Usted verá de vez en cuando los caracteres impares que parecen dominós o squiglies, éstos es caracteres de control tales como alimentaciones de página y es normal.		Afhankelijk van het type rekening dat u test, ziet u HCFA gelijkende output op een lege pagina voor HCFA rekeningen, u zult vele regels van enigszins verdraaide tekst en informatie zien, als u een X12 claim test. Deze verdraaide tekst is in het X12 EDI 4010A format. Soms zult u eigenaardige tekens zien die op dominostenen of nonsens lijken, dan zijn dit controletekens zoals nieuwe pagina beginnen en zijn normaal. 				根据不同的类型的法案是要测试你会看到类似的输出HCFA一个空白页的HCFA账单，你会看到很多行有点乱码文字和信息如果您正在测试一种X12 索赔。这乱码文字X12电子数据交换4010A格式。有时你会看到奇怪的字符，像多米诺骨牌或squiglies ，这些控制字符，如饲料和网页是正常的。					Tergantung pada jenis menagih Anda uji HCFA anda akan melihat output seperti di halaman kosong untuk HCFA tagihan, Anda akan melihat banyak baris teks agak kacau dan informasi jika anda menguji sebuah X12 klaim. Teks yang kacau adalah X12 IPUS 4010A format. Kadang-kadang Anda akan melihat karakter yang aneh seperti domino atau squiglies, ini adalah karakter kontrol seperti halaman feed dan normal.	Ανάλογα με τον τύπο του λογαριασμού που δοκιμάζετε, θα δείτε ένα αποτέλεσμα τύπου HCFA, σε μια κενή σελίδα για HCFA λογαριασμούς, θα δείτε πολλές γραμμές κάπως δυσανάγνωστου κειμένου και πληροφορίες, αν τεστάρετε μια μια αίτηση X12. Αυτό το δυσανάγνωστο κείμενο είναι η μορφή X12 EDI 4010A. Περιστασιακά θα δείτε περίεργους χαρακτήρες που μοιάζουν με ντόμινο, αυτοί είναι οι χαρακτήρες ελέγχου, όπως οι τροφοδοσίες σελίδας και είναι φυσιολογικοί.		Dependendo do tipo de conta que você está testando você vai ver HCFA como a saída em uma página em branco para HCFA contas, você vai ver várias linhas de texto um tanto truncado e as informações se você está testando uma reivindicação X12. Esse texto ilegível é o X12 EDI 4010 formato. Ocasionalmente você vai ver caracteres estranhos que parecem dominós ou squiglies, estes são caracteres de controle como de alimentação de pagina e são normais.	Dependendo do tipo de conta que você está testando você vai ver HCFA como a saída em uma página em branco para HCFA contas, você vai ver várias linhas de texto um tanto truncado e as informações se você está testando uma reivindicação X12. Esse texto ilegível é o X12 EDI 4010 formato. Ocasionalmente você vai ver caracteres estranhos que parecem dominós ou squiglies, estes são caracteres de controle como de alimentos e são normais.			Test ettiğiniz fatura tipine bağlı olarak HCFA (Sağlık Hizmeti Finans Yönetimi) faturaları için boş bir sayfada HCFA benzeri çıktılar göreceksiniz, Eğer X12 ödeme emri inceliyor iseniz karışık şifrelendirilmiş harflerden oluşan pekçok satır. Bu karışık yazı X12 EDI (Elektronik Data Değişimi) 4010A formatındadır. Bazen domino veya spiral benzeri acayip karakterler görebilirsiniz, bunlar sayfa sonu vs gibi kontrol karakteridir ve normaldir.					dummy
@@ -1141,20 +1141,20 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1136	Destroyed	Förstörd	Destruido	Verworfen	Vernietigd				销毁					Hancur	Απεσύρθη		Destruido	Destroyed	أتلف	Förstörd	İmha Edildi					dummy
 1137	Destroyed Drugs	Förstörda läkemedel	Drogas destruidas	Medikamente verwerfen	Vernietigde medicijnen			Ødelegg Medisiner	销毁毒品					Hancur Narkoba	Απόσυρση φαρμάκων		Drogas Destruidas	Droga Destroyed	متلف	Förstörda läkemedel	İmha Edilmiş İlaçlar					dummy
 1138	Destroyed Drugs Report	Förstöras narkotika Rapport	Informe drogas destruido	Bericht über verworfene Medikamente	Vernietigde medicijnrapport			Ødelegg Medisin Rapport	摧毁毒品报告					Hancur Obat Lapor	Αναφορά απόσυρσης φαρμάκων		Relatório de Drogas Destruidas	Destruídos Drogas Relatório	الأدوية التالفة	Förstöras narkotika Rapport	İmha Edilmiş İlaçlar Raporu					dummy
-1139	Detail																									dummy
+1139	Detail				Detail																					dummy
 1140	Details	Detaljer	Detalles	Details	Details			Detaljer	详情					Detail	Λεπτομέρειες 		Detalhes	Detalhes	التفاصيل	Detaljer	Ayrıntılar					dummy
 1141	Developmental abnormality	Utvecklingstoxicitet abnormalitet	Anormalidad del desarrollo	Entwicklungsstörung	Ontwikkelings abnormaliteit				发育异常					Pembangunan keabnormalan	Αναπτυξιακή ανωμαλία		anormalidade Desenvolvente	Anormalidade Desenvolvida	خلل التكون	Utvecklingstoxicitet abnormalitet	Gelişimsel bozukluk					dummy
 1142	Diabetes	Diabetes	Diabetes	Diabetes	Diabetes			Diabetes	糖尿病					Diabetes	Διαβήτης 		Diabete	Diabetes	الداء السكري	Diabetes	Diyabet					dummy
-1143	Diabetes Mellitus																									dummy
-1144	Diabetes: Blood Pressure Management (CQM)																									dummy
-1145	Diabetes: Eye Exam																									dummy
-1146	Diabetes: Eye Exam (CQM)																									dummy
-1147	Diabetes: Foot Exam																									dummy
-1148	Diabetes: Foot Exam (CQM)																									dummy
-1149	Diabetes: HbA1c Poor Control (CQM)																									dummy
-1150	Diabetes: Hemoglobin A1C																									dummy
-1151	Diabetes: LDL Management & Control (CQM)																									dummy
-1152	Diabetes: Urine Microalbumin																									dummy
+1143	Diabetes Mellitus				Diabetes Mellitus																					dummy
+1144	Diabetes: Blood Pressure Management (CQM)				Diabetes: urine microalbuminurie																					dummy
+1145	Diabetes: Eye Exam				Diabetes: Oog fundus onderzoek																					dummy
+1146	Diabetes: Eye Exam (CQM)				Diabetes: Oog fundus onderzoek (CQM)																					dummy
+1147	Diabetes: Foot Exam				Diabetes: Voet onderzoek																					dummy
+1148	Diabetes: Foot Exam (CQM)				Diabetes: Voet onderzoek (CQM)																					dummy
+1149	Diabetes: HbA1c Poor Control (CQM)				Diabetes: HbA1c Controle )CQM)																					dummy
+1150	Diabetes: Hemoglobin A1C				Diabetes: Heamoglobin A1c																					dummy
+1151	Diabetes: LDL Management & Control (CQM)				Diabetes: LDL management en controle (CQM)																					dummy
+1152	Diabetes: Urine Microalbumin				Diabetes: urine microalbuminurie																					dummy
 1153	Diag	Diag	Diagnóstico	Diag	Diag				诊断					Diag	Διαγν		Diag	Diag	التشخيص	Diag	Tanı					dummy
 1154	Diagnosis	Diagnos	Diagnóstico	Diagnose	Diagnose			Diagnose	诊断					Diagnosis	Διάγνωση		Diagnóstico:	Diagnóstico	التشخيص	Diagnos	Tanı					dummy
 1155	Diagnosis Code		Código de diagnostico		Code voor diagnose										Κωδικός Διάγνωσης						Tanı Kodu					dummy
@@ -1317,9 +1317,9 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1312	Due Date:	Förfallodatum:	Fecha del parto:	Fälligkeitsdatum:	Datum bevalling:				截止日期：					Tanggal Jatuh Tempo:	Ημερομ. κατά την οποία προβλέπεται:		Data de vencimento	Data de Vencimento:		Förfallodatum:	Vade Tarihi: 					dummy
 1313	Due Ins		Deuda Seguro		Vanwege Ins				由于集					Karena Ins	Ημερομ. για την Ασφάλεια		Vencimento Ins	Ins Devido			Sigorta Borcu					dummy
 1314	Due Pt		Deuda Paciente		Vanwege Pt				由于铂					Karena Pt	Αναμενόμ. ασθενής		Vencimento Pt	Devido Pt			Hasta Borcu					dummy
-1315	Due Soon																									dummy
-1316	Due Status																									dummy
-1317	Due Status Update																									dummy
+1315	Due Soon				Binnenkort bevalling																					dummy
+1316	Due Status				Datum bevalling																					dummy
+1317	Due Status Update				Update voor bevallings datum																					dummy
 1318	Dumping OpenEMR database	Dumping OpenEMR database	Vaciar OpenEMR base de datos		Dumping OpenEMR database										Καταγραφή της βάσης δεδομένων OpenEMR		Base de dados OpenEMR esvaziado	Dumping banco OpenEMR		Dumping OpenEMR database	ÖzgürETK veritabanı dökümü yapılıyor					dummy
 1319	Dumping OpenEMR web directory tree	Dumping OpenEMR web directory tree	Vaciar OpenEMR web de árbol de directorios		Dumping OpenEMR web directory tree										Καταγραφή του φακέλου OpenEMR web με μορφή δένδρου		Rede da árvore OpenEMR do diretório esvaziando	Dumping OpenEMR árvore de diretórios web		Dumping OpenEMR web directory tree	ÖzgürETK web dizini ağacı dökümü yapılıyor					dummy
 1320	Dumping phpGACL database	Dumping phpGACL database	Vaciar phpGACL base de datos		Dumping phpGACL database										Καταγραφή της βάσης δεδομένων phpGACL		Base de dados de phpGACL esvaziando	Dumping banco phpgacl		Dumping phpGACL database	phpGACL veritabanı dökümü yapılıyor					dummy
@@ -1337,7 +1337,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1332	Dysphagia	Dysphagi	Disfagia	Dysphagie	Dysfagie										Δυσφαγία		Disfagia	Disfagia	صعوبة البلع	Dysphagi	Disfaji			DIsfagia		dummy
 1333	Dyspnea:	Dyspné:	Disnea	Dyspnoe:	Dyspnoe				呼吸困难：					Nafas yg sulit:	Δύσπνοια: 		Dysphagia	Dispnéia:	ضيق النفس	Dyspné:	Dispne:			Dispnea		dummy
 1334	Dysuria	Dysuria	Disuria	Dysurie	Dysurie										Δυσουρία		Dysuria	Disúria	عسرة التبول	Dysuria	Dizüri			Disuria		dummy
-1335	E-Prescription?																									dummy
+1335	E-Prescription?				e-Voorschrift?																					dummy
 1336	Early Recurrence (<2 Mo)	Tidig Återkommande (<2 Mo)	Repetición Temprana (<2 Mo)	Frühes Wiederauftreten (<2 Monate)	Vroeg recidief (<2mnd)				早期复发“ （ < 2沫）					Bentan awal (<2 Mo)	Πρώιμη υποτροπή (<2 μήνες)		Retorno Cedo (<2 Mo)	A recidiva precoce (<2 Mo)	النكس الباكر في أقل من شهرين	Tidig Återkommande (<2 Mo)	Erken Nüks (<2 Ay)			Prima occorrenza (< 2 mm.)		dummy
 1337	Ears	Öron	Orejas	Ohren	Oren										Ώτα		Orelhas	Orelhas	الأذن	Öron	Kulaklar			Orecchie		dummy
 1338	ECG	EKG	Electrocardiograma	EKG	ECG				心电图					ECG	ΗΚΓ		ECG	ECG	تخطيط كهربائية القلب	EKG	EKG			ECG		dummy
@@ -1345,7 +1345,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1340	EDI-271 File Upload		Subir archivo EDI-271		EDI-271 File upload																EDI-271 Dosya Yükleme					dummy
 1341	EDI-271 Response File Upload		Respuesta de carga de archivo EDI-271		EDI-271 Respons file upload																EDI-271 Cevap Dosyası Yükleme					dummy
 1342	Edit	Redigera	Editar	Bearbeiten	Aanpassen			Rediger	编辑					Edit	Επεξεργασία		Editar	Editar	التحرير	Redigera	Düzenle 					dummy
-1343	edit																									dummy
+1343	edit				aanpassen																					dummy
 1344	Edit Allergies	Redigera allergier	Editar alergias	Allergien bearbeiten	Allergien aanpassen				编辑过敏					Edit Alergi	Επεξεργ. Αλλεργιών		Edite Alergias	Editar Alergias	تحرير الحساسية	Redigera allergier	Alerjileri Düzenle					dummy
 1345	Edit Categories	Edit Kategorier	Editar categorías	Kategorien bearbeiten	Categorieen aanpassen			Rediger Kategorier	编辑类别					Edit Kategori	Επεξεργ. Κατηγοριών		Editar Categorias	Editar categorias	تحرير المجموعات	Edit Kategorier	Kategorileri Düzenle					dummy
 1346	Edit Definitions		Editar Definiciones	Definitionen bearbeiten	Definities aanpassen										Επεξεργ. Ορισμών		Editar Definições				Tanımları Düzenle					dummy
@@ -1357,7 +1357,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1352	Edit Facility Information	Redigera Klinikinformation	Editar información de instalaciones	Informationen über Einrichtung bearbeiten	Locatie-informatie aanpassen			Rediger Informasjon om Lokaler	编辑基金信息					Fasilitas mengedit Informasi	Επεξεργ. Πληροφορ. Έδρας		Editar Informações da Clínica	Editar Informações da Clínica	تحرير معلومات المركز الطبي	Redigera Klinikinformation	Tesis Bilgisini Düzenle					dummy
 1353	Edit File in		editar archivo en		Aanpassen van file in										Επεξεργ. αρχείου στο		Editar Ficheiro em				Dosya düzenlenecek:					dummy
 1354	Edit form	Redigera form	Editar forma	Formular bearbeiten	Pas formulier aan										Επεξεργ. εντύπου		Edite formulário	Formulário Editar	تحرير الاستمارة	Redigera form	Formu düzenle					dummy
-1355	Edit Global Settings		editar configuracion global	Globale Einstellungen bearbeiten	Globale settings aanpassen										Επεξεργ. Γενικών Ρυθμίσεων		Editar Definições Globais				Global Ayarları Düzenle					dummy
+1355	Edit Global Settings		editar configuracion global	Globale Einstellungen bearbeiten	Basis controles aanpassen										Επεξεργ. Γενικών Ρυθμίσεων		Editar Definições Globais				Global Ayarları Düzenle					dummy
 1356	Edit layout	Redigera layout	Editar el diseño	Layout bearbeiten	Pas weergave aan										Επεξεργ. εμφάνισης		Editar Plano	Editar layout	تحرير طريقة العرض	Redigera layout	Görünümü düzenle					dummy
 1357	Edit list	Redigera lista	Editar la lista	Liste bearbeiten	Pas lijst aan										Επεξεργ. λίστας		Edite Lista	Editar lista	تحرير القائمة	Redigera lista	Listeyi düzenle					dummy
 1358	Edit Payment		editar pago		Betaling aanpassen										Επεξεργ. Πληρωμής						Ödemeyi düzenle					dummy
@@ -1385,17 +1385,17 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1380	Email address of the sender for patient reminders. Replies to patient reminders will be directed to this address. It is important to use an address from your clinic\'s domain to avoid help prevent patient reminders from going to junk mail folders.																									dummy
 1381	Email address, if any, to receive administrative notifications.			Email Adresse, um administrative Berichte zu bekommen	E-mailadres, voor administratieve berichten.										Διεύθυνση Email, αν υπάρχει, για λήψη διοικητ. ειδοποιήσεων						Yönetimsel uyarıların, eğer var ise, alınacağı eposta adresi					dummy
 1382	Email address, if any, to receive emergency login user activation messages.				E-mailadres, indien bekend, om EMERGENCY gebruikers login berichten te activeren.										Διεύθυνση Email, αν υπάρχει, για λήψη μυνημ. επείγουσας ενεργοποίησης σύνδεσης χρήστη						Acil giriş kullanıcısının, eğer varsa, aktivasyon uyarılarını alacağı eposta adresi					dummy
-1383	Email Auth																									dummy
+1383	Email Auth				E-Mail auteur																					dummy
 1384	Email from Batchcom	E-post från Batchcom	Correo electrónico de Batchcom 		Berichtgeving per e-mail			Epost fra Batchcom	电子邮件Batchcom					Email dari Batchcom	Email από δέσμη ενεργειών		E-mail de Batchcom	E-mail de Batchcom		E-post från Batchcom	Batchcom dan Eposta					dummy
 1385	Email Notification	E-postmeddelande	Notificación correo electrónico	Email Verständigung	E-mail aanmelding			Epost Påmindelse	电子邮件通知					Notifikasi email	Ειδοποίηση Εmail		Notificação de E-mail	Email Notificação		E-postmeddelande	Eposta Duyurusu					dummy
 1386	Email Notification Hours				E-mail notificatie uren										Ωρες ειδοποίησης Εmail						Eposta Duyurusu Saatleri					dummy
 1387	Email send before	E-post skicka innan	Correo electrónico envía antes		E-mal eerder verzonden			Epost send før	寄给前					Sebelum mengirim email	Το email να σταλεί πριν από		E-mail enviado antes	Enviar e-mail antes		E-post skicka innan	Önce Eposta gönder					dummy
 1388	Email Sender	Email, skicka	Remitente de correo		E-mail afzender			Epost Sender	电子邮件发件人					Email Pengirim	Αποστολέας Email		E-mail Remetente	Email Enviar		Email, skicka	Eposta Gönderen					dummy
-1389	Email Sent																									dummy
+1389	Email Sent				E-mail verzonden																					dummy
 1390	Email Subject	Epost Ämnesord	Asunto del correo	Email Betreff	E-mail onderwerp			Epost Emne	电子邮件的主题					Subjek email	Θέμα Email		Assunto de e-mail	E-mail Assunto		Epost Ämnesord	Eposta Konusu					dummy
 1391	Email Text, Usable Tag: ***NAME*** , i.e. Dear ***NAME***	Email Text, användbara Tag: *** NAMN ***, dvs Bäste *** NAMN ***	Texto del email, etiqueta usable: *** NOMBRE ***, i.e. Estimado ***NOMBRE***		E-mailadres: Tekst, Bruikbare Tag: *** *** NAAM, dwz Geachte NAAM *** ***				电子邮件正文，可用标签： ***姓名*** ，即亲爱的***姓名***					Teks email, dapat digunakan Tag: *** NAMA ***, yakni Dear *** NAMA ***	Κείμενο Email, χρησιμοποιήσιμη Ετικέτα: ***ΟΝΟΜΑ*** , π.χ. Αγαπητέ ***ΟΝΟΜΑ*** 		***NOME***	E-mail de texto, Útil Tag: *** NOME ***, ou seja, Caro *** NOME ***		Email Text, användbara Tag: *** NAMN ***, dvs Bäste *** NAMN ***	Eposta metin, Kullanılabilir Etiket:***İsim***, örneğin Sayın ***İsim***					dummy
 1392	Email Transport Method				E-mail transport methode										Μέθοδος μεταφοράς Email						Eposta Gönderme Yöntemi					dummy
-1393	Email was sent to following address																									dummy
+1393	Email was sent to following address				E-mail werd verzonden naar dit adres																					dummy
 1394	Emergency Contact	ICE Kontakt	Contacto en caso de emergencia	Kontakt für Notfälle	Spoedconsult			Nød kontakt	紧急联络					Hubungi darurat	Επικοιν. έκτακτης ανάγκης		Contacto de Emergência	Contato de emergência	الاتصال عند حدوث أمر طارئ	ICE Kontakt	Acil Durumda Temas Kurulacak					dummy
 1395	Emergency Contact Person	ICE kontaktperson	Persona de Contacto de Emergencia	Notfall Kontaktperson	Contactpersoon igv SPOED										Άτομο επικοινωνίας σε έκτακτη ανάγκη		Contacto da Pessoa de Emergêrcia	Contato de Emergência	اسم الشخص في حالة حدوث أمر طارئ	ICE kontaktperson	Acil Durumda Temas Kurulacak Kişi					dummy
 1396	Emergency Contact Phone Number	ICE kontakt telefonnummer	Teléfono de Contacto de Emergencia 	Notfall Telefonnummer	Bij SPOED bel:										Τηλέφωνο επικοινωνίας ανάγκης		Numero do Telefone de Emergência da Pessoa	Número de telefone de emergência	رقم الهاتف في حال حدوث أمر طارئ	ICE kontakt telefonnummer	Acil Durumda Temas Kurulacak Telefon Numarası					dummy
@@ -1423,19 +1423,19 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1418	Empty value in "SMS Hours"	Ta bort \"SMS tider\"	Vaciar el valor en \"Horas de SMS\"	Kein Wert in \"SMS Hour\"	Lege waarde \"SMS uren\"			Tom verdi i \"SMS Timer\"	空值在“短信时间”					Nilai kosong pada \"SMS Jam\"	Κενή τιμή στο \"Ώρες SMS\" 		Valor vazio em \"Horas do SMS\"	Valor vazio em \"\"Horas SMS \"\"		Ta bort \"SMS tider\"	\"SMS saatleri\"nde boş değer					dummy
 1419	Empty value in "SMS Text"	Ta bort \"SMS text\"	Vaciar en el valor \"Texto SMS\"	Kein Wert in \"SMS Text\"	Lege waarde \"SMS tekst			Tom verdi i \"SMS Tekst\"	空值在“短信”					Nilai kosong pada \"Teks SMS\"	Κενή τιμή στο \"Κείμενο SMS\" 		Valor vazio em \"Testo do SMS\"	Valor vazio em \"\"de texto SMS \"\"		Ta bort \"SMS text\"	\"SMS Metni\"nde boş değer					dummy
 1420	Empty value in "Username"	Ta bort värdet i \"Användarnamn\"	Vaciar en el valor \"Usuario\"	Kein Wert in \"Username\"	Lege waarde \"Gebruikersnaam\"			Tom verdi i \"Brukernavn\"	空值在“用户名”					Nilai kosong pada \"pengguna\"	Κενή τιμή στο \"Όνομα Χρήστη\" 		Valor vazio em \"Nome do Ùsuario\"	Valor vazio em \"\"Nome \"\"		Ta bort värdet i \"Användarnamn\"	\"Kullanıcı İsmi\"nde boş değer					dummy
-1421	Enable AMC Prompting																									dummy
-1422	Enable AMC Reporting																									dummy
-1423	Enable AMC Tracking																									dummy
+1421	Enable AMC Prompting				Toestaan van AMC prompting																					dummy
+1422	Enable AMC Reporting				Toestaan van AMC Reporting																					dummy
+1423	Enable AMC Tracking				Toestaan AMC tracking																					dummy
 1424	Enable ATNA Auditing				ATNA Auditing toestaan																Güvenli iletişim denetimini etkinleştir.					dummy
 1425	Enable Audit Logging				ATNA Auditing log aanmaken																Denetim Kaydını Etkinleştir.					dummy
 1426	Enable Audit Trail and Node Authentication (ATNA).				Sta Audit trail en Node Audentificatie toe (ATNA)																Katar ve Düğüm Doğrulama Denetimini Etkinleştir.					dummy
-1427	Enable Automated Measure Calculations (AMC) Reporting																									dummy
+1427	Enable Automated Measure Calculations (AMC) Reporting				Sta automatische meeting berekening verslaglegging toe ()AMC)																					dummy
 1428	Enable Client SSL			Aktiviere Client SSL	Activeren client SSL										Ενεργοποίησης SSL Πελάτη						Müşteri SSL etkinleştir					dummy
 1429	Enable client SSL certificate authentication.				Activeren cient SSL Certificaat Authentificatie										Ενεργοποίηση Επιβεβαίωσης του πιστοποιητικού SSL Πελάτη						Müşteri SSL doğrulamasını etkinleştir					dummy
-1430	Enable Clinical Decisions Rules (CDR)																									dummy
-1431	Enable Clinical Quality Measure (CQM) Reporting																									dummy
-1432	Enable Clinical Reminder Widget																									dummy
-1433	Enable CQM Reporting																									dummy
+1430	Enable Clinical Decisions Rules (CDR)				Toestaan van Klinische Besluit regels (CDR)																					dummy
+1431	Enable Clinical Quality Measure (CQM) Reporting				Toestaan Klinische kwaliteits metingen (CRD)																					dummy
+1432	Enable Clinical Reminder Widget				Toestaan Klinische reminder widget																					dummy
+1433	Enable CQM Reporting				Toestaan CQM verslaglegging																					dummy
 1434	Enable Hylafax Support				Hylafax ondersteuning toestaan																Hylafax Desteğini Etkinleştir					dummy
 1435	Enable Lab Exchange				Lab uitwisseling toestaan										Ενεργοποίηση Ανταλλαγής Εργαστηριακών						Lab Değişimini Etkinleştir					dummy
 1436	Enable logging of all SQL SELECT queries.				Vastleggen in log van al SQL SELECT queries toestaan										Ενεργοποίηση καταγραφής όλων των SQL SELECT ερωτημάτων.						Tüm SQL SEÇ sorgularının kaydını etkinleştir.					dummy
@@ -1445,9 +1445,9 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1440	Enable logging of patient record modifications.				Toestaan van vastleggen patient status veranderingen										Ενεργοποίηση καταγραφής των τροποποίσεων εγγραφών ασθενών.						Hasta kaydı değişikliklerinin kaydını etkinleştir.					dummy
 1441	Enable logging of scheduling activities.				Toestaan van vastleggen van scheduling activiteiten										Ενεργοποίηση καταγραφής των δραστηριοτήτων προγραμματισμού.						Zamanlama etkinliklerinin kaydını etkinleştir					dummy
 1442	Enable logging of security and administration activities.				Toestaan van veiligheid en administratie activiteiten										Ενεργοποίηση καταγραφής δραστηριοτήτων ασφαλείας και διεύθυνσης.						Güvenlik ve yönetim etkinliklerinin kaydını etkinleştir.					dummy
-1443	Enable Onsite Patient Portal																									dummy
-1444	Enable Onsite Patient Portal.																									dummy
-1445	Enable Patient Reminder Widget																									dummy
+1443	Enable Onsite Patient Portal				Toestaan onsite Patienten toegang																					dummy
+1444	Enable Onsite Patient Portal.				Toestaan Onsite Patienten toegang.																					dummy
+1445	Enable Patient Reminder Widget				Toestaan Patienten Reminder widget																					dummy
 1446	Enable Prompting For Automated Measure Calculations (AMC) Required Data																									dummy
 1447	Enable Reporting of Tracking Date For Automated Measure Calculations (AMC)																									dummy
 1448	Enable Scanner Support				Toestaan van ondersteuning met Scanner										Ενεργοποίηση Υπστήριξης Scanner						Tarayıcı desteğini etkinleştir					dummy
