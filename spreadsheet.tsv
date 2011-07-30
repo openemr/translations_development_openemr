@@ -789,7 +789,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 784	Clinical Rules Reminder Inactivation Options				Klinische regels voor inactivatie mogelijkheden																					dummy
 785	Clinical Rules Reminder Intervals				Klinische regels voor oproep intervallen																					dummy
 786	Clinical Rules Reminder Methods				Klinische regels voor oproep methoden																					dummy
-787	Clinical Rules Target Intervals				Klinische regels vooor Doelstelling intervallen																					dummy
+787	Clinical Rules Target Intervals				Klinische regels voor interval doelstellingen																					dummy
 788	Clinical targets				Klinische doelstellingen																					dummy
 789	Clinicians	Klinikmedverkande	Clínicos	Kliniker	Kliniekmedewerkers										Κλινικοί		Clínicos	Clínicos	الأطباء 	Klinikmedverkande	Klinisyenler					dummy
 790	Clone		Clonar		Kloon										Κλωνοποίηση		copie	Clonar	الاستنساخ		Çoğalt					dummy
@@ -904,7 +904,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 899	Copyright Notice	Upphovsrättsskydd	Anuncio de Derechos Reservados	Lizenzbestimmungen	Copyright				版权声明					Copyright Notice	Σημείωμα Πνευματ. Δικαιωμάτων 		Notificação protegido por direitos de autor	Direitos Autorais	حول حفظ الحقوق	Upphovsrättsskydd	Telif hakkı bilgisi					dummy
 900	Coronary Artery Bypass	Coronary Artery Bypass	Bypass coronario arterial	Koronarerarterieller Bypass	Coronaire Ateriele Bypass				冠状动脉搭桥					Artery koroner Bypass	Αορτοστεφανιαία παράκαμψη		Bypass coronário	Artéria Coronária Bypass	مجازة الشرايين التاجية	Coronary Artery Bypass	Koroner Arter Baypas					dummy
 901	Coronary Artery Bypass Graft (CABG)				Coronaire Arteriele Bypass Graft (CABG)																					dummy
-902	Corrected		Corregido		Coronair Arterie Bypass										Διορθώθηκε						Düzeltildi					dummy
+902	Corrected		Corregido		Gecorrigeerd										Διορθώθηκε						Düzeltildi					dummy
 903	Cough	Hosta	Tos	Husten	Hoest										Βήχας		Tosse	Tosse	السعال	Hosta	Öksürük					dummy
 904	Cough:	Hosta:	Tos:	Husten:	Hoest:			Hoste:	咳嗽：					Batuk:	Βήχας: 		Tosse:	Tosse:	السعال	Hosta:	Öksürük:					dummy
 905	Could not read file		No se pudo leer el archivo		Kon bestand niet lezen										Το αρχείο δεν μπορεί να διαβαστεί		Não foi possível ler o ficheiro				Dosya okunamadı					dummy
@@ -977,7 +977,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 972	Current Password				Geldig Paswoord																					dummy
 973	Current Patient	Pågående patient	Actual Paciente		Nu aanwezige patient				目前病人					Peristiwa Pasien	Τρέχων Ασθενής		Paciente Corrente	Atual do paciente	المريض الحالي	Pågående patient	Güncel Hasta					dummy
 974	Current Recreational Drugs		Actuales drogas recreativas		Huidig recreatief drug gebruik										Τρέχοντα ψυχαγωγικά ναρκωτικά						Halen kullandığı uyuşturucu ilaçlar					dummy
-975	Current some day smoker		Actualmente fumador ocasional		Rook gedreag gedurende enkele dagen										Τρέχον περιστασιακός καπνιστής						Halen bazı günler sigara içer					dummy
+975	Current some day smoker		Actualmente fumador ocasional		Rook gedrag gedurende enkele dagen										Τρέχον περιστασιακός καπνιστής						Halen bazı günler sigara içer					dummy
 976	Currently Active	För närvarande Aktiv	Actualmente Activo		Nu actief			For øyeblikket aktiv	目前活跃					Sedang aktif	Τρεχόντως Ενεργός		Atualmente ativo	Atualmente Ativo	النشط حالياَ	För närvarande Aktiv	Halen Aktif					dummy
 977	Currently there are no facilities.		No hay consultorios		Er zijn geen facilities aanwezig										Τρεχόντως δεν υπάρχουν έδρες.						Halen hiç tesis yok.					dummy
 978	Cushing Syndrom	Cushing Syndrom	Síndrome de Cushing	Cushing-Syndrom	Cushing syndroom				柯兴综合征					Cushing Syndrom	Σύνδρομο Cushing	Cushing Syndrome	Síndrome de Cushing	Síndrome de Cushing	متلازمة كوشينغ	Cushing Syndrom	Cushing Sendromu					dummy
@@ -1221,7 +1221,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1216	Displaying the following number of most recent notes:		Mostrando el siguiente número de las notas más recientes:		Toon het vervolg nummer van recente notes										Εμφάνιση του ακόλουθου αριθμού των πιο πρόσφατων Σημειώσεων:		A mostrar o número de notas mais recentes:				En son notlardan izleyen sayıda olanlar gösteriliyor:					dummy
 1217	Distribution	Distrubition	Distribución		Verdeling				分布					Distribusi	Διανομή 		Distribuição	Distribuição	التوزع	Distrubition	Dağılım					dummy
 1218	Distributions		Distribuciones		Verdeling										Διανομές		Distribuições				Dağılımlar					dummy
-1219	Distributor		Distribuidor		Verdelingen										Διανομέας		Distribuidor				Dağıtıcı					dummy
+1219	Distributor		Distribuidor		Distributeur										Διανομέας		Distribuidor				Dağıtıcı					dummy
 1220	Diverticulitis	Divertikulit	Diverticulitis	Divertikulitis	Diverticulitis				憩室炎					Diverticulitis	Εκκολπωματίτιδα 		Diverticulitis	Diverticulite	التهاب الرتوج	Divertikulit	Divertikülit 					dummy
 1221	Diverticulitis Surgery	Diverticulitis Kirurgi	Operación de Diverticulitis	Divertikulitis-Chirurgie	Diverticulitis chirurgie				憩室炎手术					Diverticulitis Bedah	Εγχείρηση εκκολπωματίτιδας		Cirúrgia de Diverticulite	Diverticulite Cirurgia	جراحة الرتوج	Diverticulitis Kirurgi	Divertikülit Cerrahisi					dummy
 1222	Divirticulitis	Divertikulit	Diverticulitis	Divertikulitis	Diverticulitis				Divirticulitis					Divirticulitis	Εκκολπωματίτιδα 		Diverticulite	Divirticulitis		Divertikulit	Divertikülitis					dummy
@@ -2499,7 +2499,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 2494	Main Top Pane Screen				Belangrijkste boven top Scherm												Ecrã Superior Topo				Esas Orta Üst Ekran					dummy
 2495	Maintain active medication allergy list.				Bijhouden van acieve medicatie allergie lijst																					dummy
 2496	Maintain active medication list.				Bijhouden actieve medicatie lijst																					dummy
-2497	Maintain an up-to-date problem list of current and active diagnoses.				Bijhouden van up-to-date lijst van problemen en ectieve diagnoses.																					dummy
+2497	Maintain an up-to-date problem list of current and active diagnoses.				Bijhouden van up-to-date lijst van problemen en actieve diagnoses.																					dummy
 2498	Make modifications to current categories.	Gör ändringar i nuvarande kategorier.	Hacer modificaciones a las actuales categorías.		Maak aanpassingen op gebruikte categorieen				修改最近的分类					Memodifikasi kategori.	Κάντε αλλαγές στις τρέχουσες κατηγορίες. 		Faça modificações para categorias recentes	Faça modificações categorias atuais.		Gör ändringar i nuvarande kategorier.	Güncel kategorilerde değişiklikler yap					dummy
 2499	Make new appointment for				Maak een nieuwe afspraak voor										Νέο ραντεβού για						Yeni randevu oluşturulacak 					dummy
 2500	Make sure "	Försäkra \"	Cerciorarse \"		Verzeker je ervan \"				确定					Pastikan \"	Βεβαιωθείτε ότι \" 		Tenha Certeza	Certifique-se de \"\"		Försäkra \"	Emin olun:					dummy
@@ -2626,8 +2626,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 2621	Mixed	Blandat	Mixto	Gemischt	Gemengd			Mikset						Dicampur	Μικτό		Misturado	Mixed		Blandat	Karışık					dummy
 2622	ml	ml	ml	ml	ml									ml	ml 		ml	ml		ml	ml					dummy
 2623	MM/DD/YYYY				mm/dd/yyyy										Μήνας/Ημέρα/Έτος		MM/DD/AAAA				MM/DD/YYYY					dummy
-2624	mm/hg		mm/hg	mm/Hg	mm kwik										mm/Hg		mm/hg	mm / Hg			mm/hg					dummy
-2625	mmHg																									dummy
+2624	mm/hg		mm/hg	mm/Hg	mmHg										mm/Hg		mm/hg	mm / Hg			mm/hg					dummy
+2625	mmHg				mmHg																					dummy
 2626	MMR 1		MMR 1		MMR 1										MMR 1		MMR 1	VASPR 1			MMR 1					dummy
 2627	MMR 2		MMR 2		MMR 2										MMR 2		MMR 2	MMR 2			MMR 2					dummy
 2628	Mobile	Mobil	Móvil	Mobil	Mobiel			Mobil						Mobile	Κινητό 		Telemóvel	Móvel		Mobil	Mobil					dummy
@@ -2728,7 +2728,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 2723	Neurologic		Neurológico 	Neurologisch	Neurologisch										Νευρολογικό		Neurologico	Neurológicas			Nörolojik					dummy
 2724	Never		Nunca		Nooit										Ποτέ		Nunca				Asla					dummy
 2725	Never Alcohol				Nooit alcohol										Ποτέ οινόπνευμα						Hiç Alkol Kullanmamış					dummy
-2726	Never smoker				Noot gerookt										Ποτέ καπνιστής						Hiç Sigara İçmamiş					dummy
+2726	Never smoker				Nooit gerookt										Ποτέ καπνιστής						Hiç Sigara İçmamiş					dummy
 2727	New	Ny	Nuevo	Neu	Nieuw			Ny						Baru	Νέο		Novo	Novo		Ny	Yeni					dummy
 2728	New =>	Ny =>	Nuevo=>	Neu =>	Nieuw =>			Ny=>						Baru =>	Νέο =>		Novo =>	Novo =>		Ny =>	Yeni=>					dummy
 2729	New Acceptors	Nya mottagare	Nuevos aceptadores 		Nieuw geaccepteerden									Baru Acceptors	Νέοι Αποδέκτες 		Aceitantes novos	Nova Aceitadores		Nya mottagare	Yeni Alıcılar					dummy
@@ -2781,7 +2781,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 2776	No active patient reminders.				Geen actieve patient reminders																					dummy
 2777	No adenopathy (2 areas required)		No adenopatías (2 áreas requeridas)		Geen adenopathie (2 gebieden nodig)									Tidak adenopathy (2 daerah diperlukan)	Καμία αδενοπάθεια (απαιτούνται 2 περιοχές) 		Nenhum adenopathy (2 áreas requereram)	No adenopatia (2 áreas necessárias)			Adenopati yok (2 alan gerekiyor)					dummy
 2778	No adjustment reason type found for				Geen aanpssing reden gevonden voor																Düzeltme sebebi tipi bulunamadı:					dummy
-2779	No adnexal tenderness/masses		Sin adnexal delicado/masa		Geen gevoeloige adnexa of massa									Tidak ada kesakitan adnexal / massa	Καμία ευαισθησία των εξαρτημάτων/ Μάζες		Nenhum tenderness/masses anexo	No ternura adnexal / massas			Adneksiyal hassasiyet/kitle yok					dummy
+2779	No adnexal tenderness/masses		Sin adnexal delicado/masa		Adnexa niet pijnlijk of palpabele massa									Tidak ada kesakitan adnexal / massa	Καμία ευαισθησία των εξαρτημάτων/ Μάζες		Nenhum tenderness/masses anexo	No ternura adnexal / massas			Adneksiyal hassasiyet/kitle yok					dummy
 2780	No Appointments				Geen afspraken																					dummy
 2781	No billing system is currently active	Inget faktureringssystem är aktivt	Sistema de facturación no se encuentra activa		Er is momenteel geen factureringssysteem actief									Tidak ada sistem penagihan yang sedang aktif	Κανένα σύστημα χρέωσης δεν είναι ενεργό		Nenhum sistema de faturamento é atualmente ativo	No sistema de faturamento está atualmente activo		Inget faktureringssystem är aktivt	Halen bir faturalama sistemi etkin değil					dummy
 2782	No Bills Found to Include in OFX Export<br>		Ningunas cuentas encontraron para incluir en la exportación de OFX 		Geen rekeningen gevonden om in OFX Export bij te voegen<br>									Tidak Ditemukan Bills Termasuk ke dalam OFX Ekspor <br>	Δεν βρέθηκαν χρεώσεις να περιληφθούν στην Εξαγωγή Ανοικτής Οικονομ. Ανταλλαγής <br>		Nenhuma Conta Achou para Incluir em OFX Export <br>	Nenhum Bills a incluir em OFX Exportação <br>			OFX Dışa aktar da eklenecek hiçbir fatura bulunmadı					dummy
@@ -2997,8 +2997,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 2992	OpenEMR must be configured to use certificates before it can create client certificates.		OpenEMR debe configurarse para usar certificado antes de poder crear cliente		OpenEMR moet geconfigureerd worden voordat het client certificaten kan gebruiken										Το OpenEMR πρέπει να ρυθμισθεί για να χρησιμοποιεί Πιστοποιητικά, πριν είναι σε θέση να δημιουργεί Πιστοποιητικά χρήστη.						ÖzgürETKnın müşteri sertifikalarını oluşturabilmesi için sertifika kullanmak üzere yapılandırılması gerekir					dummy
 2993	OpenEMR requires Javascript to perform user authentication.	OpenEMR kräver Javascript för att utföra användarverifiering.	OpenEMR requiere Javascript para realizar la autenticación de usuario. 		OpenEMR heeft Javascript nodig voor toegangscontrole. 									OpenEMR memerlukan Javascript untuk melakukan otentikasi pengguna.	Το OpenEMR απαιτεί Javascript για να εκτελέσει την ταυτοποίηση του χρήστη. 		OpenEMR exige para Javascript que execute autenticação de usuário.	OpenEMR requer que o Javascript para realizar a autenticação do usuário.		OpenEMR kräver Javascript för att utföra användarverifiering.	ÖzgürETK kullanıcı doğrulaması yapabilmek için JavaScripte ihtiyaç duyar.					dummy
 2994	OpenEMR Users		OpenEMR Usuarios 		OpenEMR gebruikers										Χρήστες OpenEMR		Utilizadores do OpenEMR	Usuários OpenEMR			ÖzgürETK Kullanıcıları					dummy
-2995	Openings																									dummy
-2996	Opthalmic																									dummy
+2995	Openings				Openingen																					dummy
+2996	Opthalmic				Ophtalmisch																					dummy
 2997	Option	Alternativ	Opcion		Mogelijkheid			Valg						Pilihan	Επιλογή 		Opção	Opção		Alternativ	Seçenek					dummy
 2998	Option to support inventory and sales of products				Optie om inventaris en producten voor verkoop te ondersteunen										Επιλογή για υποστήριξη απογραφής και πώλησης προϊόντων						Ürünlerin envanterini ve satışlarını destekleme opsiyonu					dummy
 2999	Optional	Valfritt	Opcional		Keuze mogelijkheid			Valgfritt						Opsional	Προαιρετικό 		Opcional	Opcional		Valfritt	Seçmeli					dummy
@@ -3139,8 +3139,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3134	Patient Comunication Sent		Comunicación Enviada la Paciente		Patiënt communicatie verzonden									Pasien Comunication Terkirim	Επικοινωνία ασθενούς απεστάλη		Comunicação do Utente Enviada	Paciente Comunication Enviados			Hasta Epikrizi Gönderildi					dummy
 3135	Patient Data	Patientdata	Datos del Paciente		Data van patient									Data pasien	Στοιχεία ασθενούς		Dados Utente	Dados do paciente		Patientdata	Hasta Bilgileri					dummy
 3136	Patient Document	Patientdokument	Documentos del Paciente		Document van patient			Pasient Dokument						Pasien Dokumen	Έγγραφο ασθενούς		Documento Utente	Documento do paciente		Patientdokument	Hasta Belgesi					dummy
-3137	Patient Education																									dummy
-3138	Patient Education Materials																									dummy
+3137	Patient Education				Patienten voorlichting																					dummy
+3138	Patient Education Materials				Patietnten voorlichtings materiaal																					dummy
 3139	Patient Encounter	Patientmöten	Encuentros del Paciente		Patientcontact(en)									Pasien Encounter	Επίσκεψη ασθενούς		Consulta Utente	Patient Encounter		Patientmöten	Hasta Görüşmesi					dummy
 3140	Patient Encounter Form	Patientmötesformulär	Formulario de Encuentros del Paciente		Patientencontactformulier									Pasien Encounter Formulir	Έντυπο επίσκεψης ασθενούς		Formulário Consulta Utente	Patient Encounter Forma		Patientmötesformulär	Hasta Görüşme Formu					dummy
 3141	Patient Encounters	Patientmöten	Encuentros de Pacientes		Patiëntencontacten									Pasien Encounters	Επισκέψεις ασθενούς		Consultas Utente	Paciente Encounters		Patientmöten	Hasta Görüşmeleri					dummy
@@ -3295,7 +3295,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3290	Plan Name		Nombre del Plan		Naam plan									Rencana Nama	Όνομα πλάνου		Nome de Plano	Nome do Plano			Plan İsmi					dummy
 3291	Plan Set				Plan set																					dummy
 3292	Plan:		Plan:		Plan:									Rencana:	Πλάνο:		Plano:	Plano:			Plan:					dummy
-3293	Plans																									dummy
+3293	Plans				Plannen																					dummy
 3294	Player	Spelare	Jugador		Speler									Player	Παίκτης 		Jogador	Jogador		Spelare	Oyuncu					dummy
 3295	Playing Position	Position 	Posición de juego		Spel positie									Posisi bermain	Θέση παιχνιδιού 		Posição do Jogador	Jogando Posição		Position 	Oyun Pozisyonu					dummy
 3296	Please call if any of the above information is incorrect		Favor de llamar si la informacion arriba es incorrecta		Bel als u een bovenstaande informatie onjuist is										Παρακαλώ τηλεφωνείστε αν κάποιο από τα παραπάνω στοιχεία είναι λάθος						Yukarıdaki bilgilerin bir kısmı dahi yanlış ise lütfen arayın.					dummy
@@ -3330,21 +3330,21 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3325	Please Fill the Payment From				AUB vorm vanbetaling invullen																Lütfen Ödemeyi Yapanı Doldurunuz					dummy
 3326	Please Fill the Post To Date				AUB dat um van vastleggen invullen																Lütfen Tarihe Kadar Gönderi Doldurunuz.					dummy
 3327	Please fill them in before continuing.		Favor de llenar antes de continuar		AUB invullen voor verder te gaan										Παρακαλώ συμπληρώστε τους πριν συνεχίσετε.						Lütfen devam etmeden önce onları doldurunuz.					dummy
-3328	Please indicate visit reason																									dummy
-3329	Please input search criteria above, and click Submit to view results.		Favor digitar criterios de busqueda, luego Selecciona para ver resultados		Vul zoek criteria in en klik Submit voor resultaat										Παρακαλώ βάλτε κριτήρια αναζήτησης πιο πάνω, και κάντε κλικ στο Υποβολή για να δείτε τα αποτελέσματα.						Lütfen yukarıya arama kriterlerini giriniz, ve sonuçları görmek için Gönder i tıklayınız					dummy
-3330	Please input search criteria above, and click Submit to view results. (Results will be displayed in a pop up window)																									dummy
-3331	Please login again.																									dummy
+3328	Please indicate visit reason				Geef reden van vistei aan																					dummy
+3329	Please input search criteria above, and click Submit to view results.		Favor digitar criterios de busqueda, luego Selecciona para ver resultados		Vul zoek criteria in en klik Submit om resultaat te zien										Παρακαλώ βάλτε κριτήρια αναζήτησης πιο πάνω, και κάντε κλικ στο Υποβολή για να δείτε τα αποτελέσματα.						Lütfen yukarıya arama kriterlerini giriniz, ve sonuçları görmek için Gönder i tıklayınız					dummy
+3330	Please input search criteria above, and click Submit to view results. (Results will be displayed in a pop up window)				Vul zoek criteria hierboven in en klik op Submit om resultaten te zien. (Resultaten worden getoond in een pop-up scherm)																					dummy
+3331	Please login again.				Opnieuw inloggen AUB.																					dummy
 3332	Please note that this can take a very long time, up to several minutes, your web browser may not appear very active during this time but generating a bill is a complicated process and your web browser is merely waiting for more information.		Por Favor tenga en cuenta que esto puede tomar mucho tiempo, hasta varios minutos, el navegador web puede no aparecer muy activa durante este tiempo, pero la generación de un proyecto de ley es un proceso complicado y su navegador web no es más que la espera de más información.		Houd er rekening mee dat dit erg lang kan duren, zelfs tot enkele minuten, uw webbrowser lijkt niet erg actief in deze tijd, maar het genereren van een factuur is een ingewikkeld proces en uw webbrowser is slechts in afwachting van meer informatie.									Perlu diketahui bahwa hal ini bisa memakan waktu yang cukup lama, hingga beberapa menit, browser Anda mungkin tidak muncul sangat aktif saat ini, tetapi dalam waktu yang tagihan adalah proses yang rumit dan browser web Anda hanya menunggu untuk informasi lebih lanjut.	Παρακαλώ σημειώστε ότι αυτό μπορεί να πάρει πολύ χρόνο, έως και αρκετά λεπτά. Ο φυλλομετρητής σας μπορεί να μην εμφανίζεται πολύ δραστήριος κατά το διάστημα αυτό, αλλά η δημιουργία μιας χρέωσης είναι μια περίπλοκη διαδικασία και ο φυλλομετρητής σας απλώς περιμένει περισσότερες πληροφορίες.		Por favor note que isto pode levar um tempo muito longo, até várias atas, que seu browser de teia pode não se aparecer muito ativo durante este tempo mas gerando uma conta é um processo complicado e seu browser de teia somente está esperando por mais informação.	Por favor, note que isso pode levar um tempo muito longo, até vários minutos, o seu navegador pode não aparecer muito ativo durante este tempo, mas gerando um projeto de lei é um processo complicado e seu navegador está apenas à espera de mais informações.			Lütfen bunun birkaç dakikaya kadar uzun bir süre alabileceğini göz önüne alınız, bu süre boyunca tarayıcınız çok aktif görünmeyebilir, fakat bir faturanın oluşturulması karmaşık bir işlemdir ve tarayıcınız sadece daha fazla veri beklemektedir.					dummy
 3333	Please Note: constants are case sensitive and any string is allowed.		Por favor Nota: constantes son sensibles a mayúsculas y minúsculas y se permite cualquier cadena. 		Let op: constanten zijn hoofdlettergevoelig en iedere string is toegestaan.									Harap Catatan: konstan adalah sensitif huruf, dan setiap string diperbolehkan.	Σημείωση: στις σταθερές παίζουν ρόλο τα μικρά-κεφαλαία γράμματα και επιτρέπεται κάθε string.		Por favor Note: constantes são caso sensível e qualquer fio é permitido.	Atenção: as constantes são caso sensível e qualquer seqüência de caracteres é permitida.			Lütfen Dikkat: Sabitler büyük ve küçük harfe duyarlıdır herhangi bir dizi olabilir					dummy
 3334	Please only use alphabetic characters	Vänligen använ endast alfabetiska tecken 	Por favor, utilice únicamente caracteres alfabéticos 		Gebruik alleen letters									Harap hanya menggunakan huruf AZ	Παρακαλώ χρησιμοποιήστε μόνο αλφαβητικούς χαρακτήρες		Use somente carateres alfabéticos	Por favor, utilize apenas caracteres alfabéticos		Vänligen använ endast alfabetiska tecken 	Lütfen sadece alfabedeki karakterleri kullanınız					dummy
 3335	Please only use alphabetic characters with no spaces	Vänligen använd endast alfabetiska tecken utan mellanslag 	Por favor, utilice únicamente caracteres alfabéticos sin espacios		Gebruik alleen letters zonder spaties									Harap hanya menggunakan abjad karakter tanpa spasi	Παρακαλώ χρησιμοποιήστε μόνο αλφαβητικούς χαρακτήρες χωρίς κενά		Use somente carateres alfabéticos sem espaços	Por favor, utilize apenas caracteres alfabéticos sem espaços		Vänligen använd endast alfabetiska tecken utan mellanslag 	Lütfen sadece alfabedeki karakterleri boşluk bırakmadan kullanınız					dummy
 3336	Please pay this amount	Vänligen betala detta belopp 	Por favor, pagar esta cantidad 		Gelieve dit bedrag betalen			Vær vennlig å betal denne summen						Harap membayar jumlah ini	Παρακαλώ πληρώστε αυτό το ποσό		Por favor pague esta quantia	Por favor, o pagamento deste montante		Vänligen betala detta belopp 	Lütfen bu miktarı ödeyiniz					dummy
-3337	Please refer to		Favor de referise a		Verzijzing naar																Lütfen bakın:					dummy
+3337	Please refer to		Favor de referise a		Verwijzing naar																Lütfen bakın:					dummy
 3338	Please reset the password.		Por favor, restablecer la contraseña.		AUB paswoord wijzigen										Παρακαλώ επανακαθορίστε τον κωδικό.		Por favor redefina a senha.				Lütfen şifreyi sıfırlayınız.					dummy
 3339	Please restart the apache server before playing with de-identification				Apache Server opnieuw opstarten voor de De-Identificatie te bewerken										Παρακαλώ επανεκκινήστε τον Apache server πριν παίξετε με την Απο-Ταυτοποίηση						Kimliksizleştirmeyi çalıştırmadan önce lütfen apache sunucusunu tekrar çalıştırınız					dummy
 3340	Please select a language				Kies een taal										Παρακαλώ επιλέξτε μία γλώσσα		Por favor seleccione um idioma				Lütfen bir dil seçiniz					dummy
 3341	Please Select a Patient.				Kies een patient												Seleccione Um Utente				Lütfen bir Hasta Seçiniz					dummy
-3342	Please select a start date and end date																									dummy
+3342	Please select a start date and end date				Kies een start en eind datum																					dummy
 3343	Please select an adjustment reason for code 		Por favor, seleccione un ajuste de código de razón 		Selecteer een reden voor aanpassing van code									Silakan pilih salah satu alasan untuk penyesuaian kode	Παρακαλώ επιλέξτε μια αιτιολογία διόρθωσης για τον κωδικό		Por favor selecione uma razão de ajuste para código	Por favor selecione uma razão de ajuste para o código			Lütfen kod için bir düzeltme sebebi seçiniz					dummy
 3344	Please select an event	Välj en händelse 	Por favor, seleccione un evento		Selecteer gebeurtenis									Silakan pilih sebuah event	Παρακαλώ επιλέξτε ένα συμβάν		Por favor selecione um evento	Por favor selecione um evento		Välj en händelse 	Lütfen bir olay seçiniz					dummy
 3345	Please select any Search Option.				AUB Search Optie kiezen																Lütfen herhangi bir Arama Opsiyonu seçiniz					dummy
@@ -3368,10 +3368,10 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3363	Pneumococcal Conjugate 2		Conjugación Neumocócica 2		Pneumococ Conj 2										Συζευγμ. εμβόλιο πνευμονιοκόκκου 2		Pneumococcal Conjugate 2	Pneumocócica conjugada 2			Pnömokokal Konjugat 2					dummy
 3364	Pneumococcal Conjugate 3		Conjugación Neumocócica 3		Pneumococ Conj 3										Συζευγμ. εμβόλιο πνευμονιοκόκκου 3		Pneumococcal Conjugate 3	Pneumocócica conjugada 3			Pnömokokal Konjugat 3					dummy
 3365	Pneumococcal Conjugate 4		Conjugación Neumocócica 4		Pneumococ Conj 4										Συζευγμ. εμβόλιο πνευμονιοκόκκου 4		Pneumococcal Conjugate 4	Pneumocócica conjugada 4			Pnömokokal Konjugat 4					dummy
-3366	Pneumococcal Vaccine																									dummy
-3367	Pneumonia Vaccination	Lunginflammations Vaccination 	Vacunación de Neumonía		Pneumonie Vaccinatie									Vaksinasi radang paru-paru	Εμβολιασμός για πνευμονία		Vacinação de pneumonia	Pneumonia Vacinação		Lunginflammations Vaccination 	Pnömoni Aşısı					dummy
-3368	Pneumonia Vaccination Status for Older Adults																									dummy
-3369	Pneumonia Vaccination Status for Older Adults (CQM)																									dummy
+3366	Pneumococcal Vaccine				Pneumococcen vaccin																					dummy
+3367	Pneumonia Vaccination	Lunginflammations Vaccination 	Vacunación de Neumonía		Pneumococcen vaccinatie									Vaksinasi radang paru-paru	Εμβολιασμός για πνευμονία		Vacinação de pneumonia	Pneumonia Vacinação		Lunginflammations Vaccination 	Pnömoni Aşısı					dummy
+3368	Pneumonia Vaccination Status for Older Adults				Pneumonie VaccinatiePneumococcen vaccinatie status voor ouderen																					dummy
+3369	Pneumonia Vaccination Status for Older Adults (CQM)				Pneumonie VaccinatiePneumococcen vaccinatie status voor ouderen (CQM)																					dummy
 3370	Podiatric				Podiatrie																					dummy
 3371	Point of Service (POS)		Punto del servicio (posición) 		Point of Service (POS)									Point of Service (POS)	Σημείο εξυπηρέτησης		Ponto de Serviço (POS)	Point of Service (POS)			Hizmet Noktası (POS)					dummy
 3372	Policy	Förhållningssätt	Póliza 		Beleid			Polise						Kebijakan	Ασφαλ. Συμβόλαιο		Política	Política		Förhållningssätt	Politika					dummy
@@ -3454,7 +3454,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3449	Prev Med/Surg Hx				Voorafgaande Med/Chir Historie										Προηγ. Ιατρικό/ Χειρουργ. ιστορικό						Önceki Tıb/Cer Öyk					dummy
 3450	Prev. month (hold for menu)		Mes anterior. (Presione para menu)		Vorige maand (ingedrukt houden voor menu)										Προηγ. μήνας (κρατήστε πατημένο για να εμφανισθεί το μενού)						Önc. ay (menü için basılı tutun)					dummy
 3451	Prev. year (hold for menu)		Año anterior (Presione para el menu)		Vorig jaar (ingedrukt houden voor menu)										Προηγ. έτος (κρατήστε πατημένο για να εμφανισθεί το μενού)						Önc. yıl (menü için basılı tutun)					dummy
-3452	Preventative Care																									dummy
+3452	Preventative Care				Preventieve zorg																					dummy
 3453	Preview Event		Vista previa del evento		Gebeurtenis preview									Pratinjau Event	Προεπισκόπηση συμβάντος		Preveja Evento	Preview Event			Olay Ön İzleme					dummy
 3454	Previous	Föregående 	Anterior		Vorig									Sebelumnya	Προηγούμενο		Previamente	Anterior		Föregående 	Önceki					dummy
 3455	Previous Consultations	Föregående konsultation	Consultas Anteriores		Eerdere consultaties									Konsultasi sebelumnya	Προηγ. Συμβουλευτική (Επίσκεψη)		Consultas prévias	Consultas anteriores		Föregående konsultation	Önceki Konsültasyonlar					dummy
@@ -4592,11 +4592,11 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4587	TO_TITLE		PARA_TÍTULO 		NAAR_TITEL										TO_TITLE		TO_TITLE	TO_TITLE			ALACAK_UNVANI					dummy
 4588	TO_VALEDICTORY		PARA_DESPEDIDA 		NAAR_EXTRA-TITELS										TO_VALEDICTORY		TO_VALEDICTORY	TO_VALEDICTORY			ALACAK_VEDA					dummy
 4589	Tobacco	Tobak 	Tabaco		Tabak				烟草					Tembakau	Καπνός 		Tabaco	Tabaco		Tobak 	Tütün					dummy
-4590	Tobacco Cessation Intervention				Stop tabakgebruik interventie 																					dummy
-4591	Tobacco Cessation Intervention (CQM)				Stop tabakgebruik interventie  (CQM)																					dummy
+4590	Tobacco Cessation Intervention				Interventie tabaksgebruik stoppen 																					dummy
+4591	Tobacco Cessation Intervention (CQM)				Interventie tabaksgebruik stoppen (CQM)																					dummy
 4592	Tobacco use	Tobaks användande	El uso del tabaco 		Tabaksgebruik				烟草使用					Menggunakan tembakau	Χρήση καπνού 		Uso de tabaco	O uso do tabaco		Tobaks användande	Tütün kullanımı					dummy
-4593	Tobacco Use Assessment				Tabakgebruik evalutatie																					dummy
-4594	Tobacco Use Assessment (CQM)				tabakgebruik evaluatie (CQM) 																					dummy
+4593	Tobacco Use Assessment				Evaluatie tabaksgebruik																					dummy
+4594	Tobacco Use Assessment (CQM)				Evaluatie tabaksgebruik (CQM) 																					dummy
 4595	Today	Idag 	Hoy		Vandaag				今天					Hari ini	Σήμερα 		Hoje	Hoje		Idag 	Bugün					dummy
 4596	today		hoy		vandaag										σήμερα						bugün					dummy
 4597	Today\'s Date	Dagens datum	Fecha de Hoy 		Datum van vandaag										Σημερινή ήμερα		Hoje \'Data de s	Data de Hoje		Dagens datum	Bugünün tarihi					dummy
@@ -5047,7 +5047,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 5042	Your start date is invalid	Ditt startdatum är ogiltig 	Su fecha de inicio no es válido 		Uw begindatum is ongeldig			Din start dato er ikke gyldig	您的开始日期是无效的					Anda mulai tanggal tidak valid	Η ημερομηνία έναρξής σας είναι άκυρη		Sua data de começo é inválida	Sua data de início é inválida		Ditt startdatum är ogiltig 	Başlama tarihiniz geçersiz					dummy
 5043	Your submission failed.	Ditt förslag misslyckats.	Su sumisión falló. 		Uw verzenden is mislukt				您提交失败。					Anda gagal.	Η υποβολή σας απέτυχε		Sua submissão falhou.	Sua submissão falhou.		Ditt förslag misslyckats.	Göndermeniz başarısız oldu					dummy
 5044	yyyy-mm-dd	åååå-mm-dd 	aaaa-mm-dd 		jjjj-mm-dd			åååå-mm-dd	格式yyyy - mm -日					yyyy-mm-dd	εεεε-μμ-ηη 		aaaa-mm-dd	aaaa-mm-dd		åååå-mm-dd 	yyyy-aa-gg					dummy
-5045	YYYY-MM-DD				YYYY-MM-DD										ΕΕΕΕ-ΜΜ-ΗΗ						YYYY-AA-GG					dummy
+5045	YYYY-MM-DD				JJJJ-MM-DD										ΕΕΕΕ-ΜΜ-ΗΗ						YYYY-AA-GG					dummy
 5046	yyyy-mm-dd date associated with this document	åååå-mm-dd dag är förknippade med detta dokument 	aaaa-mm-dd fecha asociada con este documento 		jjjj-mm-dd datum geassocieerd met dit document			åååå-mm-dd datoer assosiert med dette dokumentet	格式yyyy - mm -日日期与此相关的文件					yyyy-mm-dd tanggal yang terkait dengan dokumen ini	εεεε-μμ-ηη Ημερομηνία συνδεδεμένη με αυτό το έγγραφο		aaaa-mm-dd data associado a este documento	aaaa-mm-dd data associado a este documento		åååå-mm-dd dag är förknippade med detta dokument 	Bu belge ile ilgili yyyy-aa-gg tarihi					dummy
 5047	yyyy-mm-dd date destroyed		aaaa-mm-dd fecha destruido 		jjjj-mm-dd datum vernietigd										εεεε-μμ-ηη Ημερομηνία καταστράφηκε		aaaa-mm-dd data destruído	aaaa-mm-dd data destruído			yyyy-aa-gg tarihi yok					dummy
 5048	yyyy-mm-dd date of birth	åååå-mm-dd födelsedatum 	aaaa-mm-dd fecha de nacimiento 		jjjj-mm-dd geb datum			åååå-mm-dd fødselsdato	格式yyyy - mm -日出生日期					yyyy-mm-dd tanggal lahir	εεεε-μμ-ηη ημερομηνία γέννησης 		aaaa-mm-dd data de nascimento	aaaa-mm-dd data de nascimento		åååå-mm-dd födelsedatum 	yyyy.aa-gg doğum tarihi					dummy
