@@ -17841,7 +17841,7 @@ INSERT INTO `lang_definitions` VALUES (12558, 4544, 5, 'Tot/Tav');
 INSERT INTO `lang_definitions` VALUES (12559, 4545, 5, 'NAAR');
 INSERT INTO `lang_definitions` VALUES (12560, 4546, 5, 'tot/tav');
 INSERT INTO `lang_definitions` VALUES (12561, 4547, 5, 'naar absolute pad van bestand');
-INSERT INTO `lang_definitions` VALUES (12562, 4548, 5, 'A.u.b. klikken om notities toe te voegen');
+INSERT INTO `lang_definitions` VALUES (12562, 4548, 5, 'Om notities toe te voegen klik ');
 INSERT INTO `lang_definitions` VALUES (12563, 4549, 5, 'Op aangedane gebied');
 INSERT INTO `lang_definitions` VALUES (12564, 4550, 5, 'op aangedane gebied');
 INSERT INTO `lang_definitions` VALUES (12565, 4551, 5, 'Automatisch het gekozen formulier openen. Sommige sport teams gebruiken hiervoor football_injury_audit.');
