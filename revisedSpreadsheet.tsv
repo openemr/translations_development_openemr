@@ -4686,8 +4686,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4681	Turkish				Turks												Turco				Türkçe					dummy
 4682	twice daily	två gånger dagligen	Dos veses al dia		2 x daags				每天两次					dua kali sehari	δύο φορές ημερησίως		duas vezes ao dia	duas vezes por dia		två gånger dagligen	Günde iki kez					dummy
 4683	Tympanic Membrane		Membrana Timpánica 		Trommelvlies										Τυμπανική μεμβράνη		Membrana timpânica	Via Auricular			Kulak zarı					dummy
-4684	Type	Typ	Tipo		Type Id of Naam met minimaal drie karakters (spaties meerekenen)				类型					Tipe	Τύπος 		Tipo	Tipo		Typ	Tip					dummy
-4685	Type Id or Name.3 characters minimum (including spaces).				Type vermelding																Tip Kimliği veya ismi (boşluklar dahil) minimum 3 harf					dummy
+4684	Type	Typ	Tipo		Waardering				类型					Tipe	Τύπος 		Tipo	Tipo		Typ	Tip					dummy
+4685	Type Id or Name.3 characters minimum (including spaces).				Type Id of Naam met minimaal drie karakters (spaties meerekenen)																Tip Kimliği veya ismi (boşluklar dahil) minimum 3 harf					dummy
 4686	Type of columns displayed for patient search results				Keuze van kolommen die getoond moeten worden voor Patient zoek resultaat										Τύπος των εμφανισθέντων στηλών για τα αποτελέσματα της αναζήτησης ασθενών						Hasta arama sonuçları için görüntülenen sütunların tipleri					dummy
 4687	Type of Disclosure				Type vermelding																Açıklama Tipi					dummy
 4688	Type of Events		Tipo de Eventos		Soort gebeurtenissen										Τύπος συμβάντων						Olayların Tipleri					dummy
