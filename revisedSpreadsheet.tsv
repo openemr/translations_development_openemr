@@ -1462,9 +1462,9 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1457	Encounter 	Patientmöter	Encuentro	Fall	Encounter 		Rencontre	Møte	遇到					Encounter	Επίσκεψη		Consulta	Consulta	المراجعة	Patientmöter	Görüşme					dummy
 1458	encounter acute inpatient or ED				encounter acute inpatient of ED																					dummy
 1459	Encounter Date				Encounter datum		Date Rencontre																			dummy
-1460	Encounter Forms	Patientmöte formulär	Encuentro formas	Fall-Formular	Episode Formulier		Formulaires Rencontre	Møte skjerma	遇到形式					Encounter Formulir	Έντυπα επίσκεψης		Formulários de Consulta	Consulta Formulários	استمارات المراجعة	Patientmöte formulär	Görüşme Formları					dummy
-1461	encounter health and behavior assessment				encounter voor gezondheid en gedrags evaluatie											encounter health and behaviour assessment										dummy
-1462	Encounter History				Historie van encounter										Ιστορικό επίσκεψης		Histórico das Consultas									dummy
+1460	Encounter Forms	Patientmöte formulär	Encuentro formas	Fall-Formular	Encounter Formulier		Formulaires Rencontre	Møte skjerma	遇到形式					Encounter Formulir	Έντυπα επίσκεψης		Formulários de Consulta	Consulta Formulários	استمارات المراجعة	Patientmöte formulär	Görüşme Formları					dummy
+1461	encounter health and behavior assessment				Evaluatie-encounter voor gezondheid en gedrag											encounter health and behaviour assessment										dummy
+1462	Encounter History				Encounter historie										Ιστορικό επίσκεψης		Histórico das Consultas									dummy
 1463	Encounter ID				Encounter ID										Κωδικός επίσκεψης		ID Consulta									dummy
 1464	encounter influenza				enounter voor influenza																					dummy
 1465	Encounter number	Patientmöte antal/nummer	Encuentro número	Fallnummer	Episode nummer			Møte nummer	遇到一些					Menemukan nomor	Αριθμός επίσκεψης		Número da consulta	Número Consulta	رقم المراجعة	Patientmöte antal/nummer	Görüşme numarası					dummy
@@ -3036,7 +3036,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3031	Order Type		tipo de orden		Aangevraagde test										Τύπος παραγγελίας						Sipariş Tipi					dummy
 3032	Order/Result Type		Tipo de orden/resultado		Bestel/Resultaat Type										Παραγγελία/ Τύπος αποτελεσμάτων						Sipariş Sonucu/Tipi					dummy
 3033	Ordered		Ordenado		Besteld										Παρηγγέλθη						Sipariş edildi					dummy
-3034	Ordering Provider		Profesional que ordeno		I.o.v. dienstverlener:										Παραγγέλων Πάροχος						Sipariş Sağlayıcı					dummy
+3034	Ordering Provider		Profesional que ordeno		i.o.v. Dienstverlener:										Παραγγέλων Πάροχος						Sipariş Sağlayıcı					dummy
 3035	Organ injury	Organskada	Lesión de órganos		Orgaanletsel			Organ skade						Organ cedera	Βλάβη οργάνου 		Dano de órgão	Lesões de órgãos		Organskada	Organ yaralanması					dummy
 3036	Organization	Organisation	Organización		Organisatie			Organisasjon						Organisasi	Οργανισμός	Organisation	Organização	Pessoa Jurídica		Organisation	Organizasyon					dummy
 3037	Organization Name		Nombre de organización		Naam organisatie										Όνομα Οργανισμού	Organisation Name					Organizasyon Adı					dummy
@@ -4047,7 +4047,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4042	Show Authorized Only	Visa endast behöriga	Mostrar Sólo Autorizado 		Alleen geautorizeerden									Hanya menunjukkan Authorized	Προβολή μόνο των εξουσιοδοτημένων	Show Authorised Only	Mostrar só as Autorizadas	Mostrar apenas autorizado		Visa endast behöriga	Sadece Yetkilileri Göster					dummy
 4043	Show Available Times				Laat beschikbare tijd zien												Ver Períodos Disponíveis				Uygun Zamanları Göster					dummy
 4044	Show both US and metric (main unit is metric)			Zeige sowohl US als auch metrische Einheiten (Standard ist metrisch)	Toon zowel US al metriek (Metriek is voorkeurs stand)										Προβολή και του Αμερικαν. και του Μετρικού συστήματος (η κύρια μονάδα θα είναι το μετρικό)		Mostrar medidas US e métricas (defeito: métricas)				Hem Amerikan hem de metrik göster (ana birim metrik)					dummy
-4045	Show both US and metric (main unit is US)			Zeige sowohl US als auch metrische Einheiten (Standard ist US)	Toond zowel US als Metriek (US heeft voorkeur)										Προβολή και του Αμερικαν. και του Μετρικού συστήμ. (η κύρια μονάδα θα είναι το Αμερικαν.)		Mostrar medidas US e métricas (defeito: US)				Hem Amerikan hem de metrik göster (ana birim Amerikan)					dummy
+4045	Show both US and metric (main unit is US)			Zeige sowohl US als auch metrische Einheiten (Standard ist US)	Toon zowel US als Metriek (US heeft voorkeur)										Προβολή και του Αμερικαν. και του Μετρικού συστήμ. (η κύρια μονάδα θα είναι το Αμερικαν.)		Mostrar medidas US e métricas (defeito: US)				Hem Amerikan hem de metrik göster (ana birim Amerikan)					dummy
 4046	Show Details	Visa detaljer 	Mostrar Detalles	Details zeigen	Toon details									Tampilkan Rincian	Προβολή Λεπτομερειών		Ver Detalhes	Mostrar Detalhes		Visa detaljer 	Ayrıntıları Göster					dummy
 4047	Show Graph			Grafik zeigen	Laat Grafiek zien												Ver Gráfico				Grafiği Göster					dummy
 4048	Show hovering event text on mouseover?		¿Demuestre el texto de cernido del acontecimiento en mouseover? 		Laat gebeurtenis tekst zien bij muis over									Tampilkan teks pada acara hovering Gunaka mouse di atas?	Να προβάλλεται βοηθητικό κείμενο κατά την κατάδειξη με το ποντίκι;		Espetáculo que paira texto de evento mouseover aceso?	Mostrar texto de eventos que paira sobre mouseover?			Üzerine fare geldiğinde düz metin olayı gösterilsin mi?					dummy
@@ -4686,8 +4686,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4681	Turkish				Turks												Turco				Türkçe					dummy
 4682	twice daily	två gånger dagligen	Dos veses al dia		2 x daags				每天两次					dua kali sehari	δύο φορές ημερησίως		duas vezes ao dia	duas vezes por dia		två gånger dagligen	Günde iki kez					dummy
 4683	Tympanic Membrane		Membrana Timpánica 		Trommelvlies										Τυμπανική μεμβράνη		Membrana timpânica	Via Auricular			Kulak zarı					dummy
-4684	Type	Typ	Tipo		Waardering				类型					Tipe	Τύπος 		Tipo	Tipo		Typ	Tip					dummy
-4685	Type Id or Name.3 characters minimum (including spaces).				Type Id of Naam met minimaal drie karakters (spaties meerekenen)																Tip Kimliği veya ismi (boşluklar dahil) minimum 3 harf					dummy
+4684	Type	Typ	Tipo		Soort				类型					Tipe	Τύπος 		Tipo	Tipo		Typ	Tip					dummy
+4685	Type Id or Name.3 characters minimum (including spaces).				Gebruik Id of Naam met minimaal drie karakters (inclusief spaties)																Tip Kimliği veya ismi (boşluklar dahil) minimum 3 harf					dummy
 4686	Type of columns displayed for patient search results				Keuze van kolommen die getoond moeten worden voor Patient zoek resultaat										Τύπος των εμφανισθέντων στηλών για τα αποτελέσματα της αναζήτησης ασθενών						Hasta arama sonuçları için görüntülenen sütunların tipleri					dummy
 4687	Type of Disclosure				Type vermelding																Açıklama Tipi					dummy
 4688	Type of Events		Tipo de Eventos		Soort gebeurtenissen										Τύπος συμβάντων						Olayların Tipleri					dummy
@@ -4720,8 +4720,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4715	Unit	Enhet 	Unidad	Einheit	Eenheid		Unité		股					Unit	Μονάδα 		Unidade	Unidade		Enhet 	Birim					dummy
 4716	Units	Enheter 	Unidades	Einheiten	Eenheden		Unités		单位					Unit	Μονάδες 		Unidades	Unidades		Enheter 	Ünite					dummy
 4717	units	enheter 	unidades	einheiten	eenheden		unités		单位					unit	μονάδες (units) 		unidades	unidades		enheter 	ünite					dummy
-4718	Units for Visit Forms			Einheiten für Besucher Formular	Eenheden voor Visit Forms		Unités pour les Formulaire de Visite								Μονάδες για Εντυπα Επισκέψεων		Unidades dos Formulários				Vizit Formları için Birimler					dummy
-4719	Units must be a number		Unidades deben ser un numero	Einheiten müssen Nummern sein	Eenheden moeten een nummer zijn		Les unités doivent être un nombre								Οι μονάδες πρέπει να είναι ένας αριθμός		Unidades devem ser um número	Unidades deve ser um número			Birimler bir sayı olmalıdır					dummy
+4718	Units for Visit Forms			Einheiten für Besucher Formular	Eenheden voor Vitals Formulier		Unités pour les Formulaire de Visite								Μονάδες για Εντυπα Επισκέψεων		Unidades dos Formulários				Vizit Formları için Birimler					dummy
+4719	Units must be a number		Unidades deben ser un numero	Einheiten müssen Nummern sein	Eenheden moeten een getal zijn		Les unités doivent être un nombre								Οι μονάδες πρέπει να είναι ένας αριθμός		Unidades devem ser um número	Unidades deve ser um número			Birimler bir sayı olmalıdır					dummy
 4720	Units not defined		Unidades no definidas	Einheit nicht definiert	Units niet gedefinieerd		Unités Indéfinies								Οι μονάδες δεν είναι ορισμένες						Birimler tanımlanmadı					dummy
 4721	Units/L		Unidades/L	Einheiten/L	Units/L		Unités / L								Μονάδες/L						Unite/L					dummy
 4722	Unknown	Okänt 	Desconocido 	Unbekannt	Onbekend of N/A		Inconnu		未知					Unknown	Άγνωστο		Desconhecido	Desconhecido		Okänt 	Bilinmiyor					dummy
