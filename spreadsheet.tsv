@@ -1051,7 +1051,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1046	Date:	Datum:	Fecha:	Datum:	Datum:		Date:	Dato:	日期：					Tanggal:	Ημερομηνία: 		Data:	Data:	التاريخ	Datum:	Tarih:					dummy
 1047	day	dag	dia	Tag	dag		jour								Ημέρα 		dia	dia	يوم	dag	gün					dummy
 1048	Day	Dag	Día	Tag	Dag		Jour	Dag	白天					Hari	Ημέρα 		Dia	Dia	اليوم	Dag	Gün				दिन	dummy
-1049	Day View	Överblick dag	Vista de día	Tagesansicht	Dagoverzicht		Vue Journalière	Dags oversikt	每天检视					Hari Lihat	Προβολή Ημέρας		Dia	Ver dia	طريقة عرض اليوم	Överblick dag	Gün Görünümü					dummy
+1049	Day View	Överblick dag	Vista de día	Tagesansicht	Dagoverzicht		Vue quotidienne	Dags oversikt	每天检视					Hari Lihat	Προβολή Ημέρας		Dia	Ver dia	طريقة عرض اليوم	Överblick dag	Gün Görünümü					dummy
 1050	Day(s)	Dag (ar)	Día(s)	Tag(e)	Dag(en)		Jour(s)	Dag(er)	日（县）					Hari (s)	Ημέρα(ες) 		Dia(s)	Dia(s)	اليوم (الأيامٍ)ء	Dag (ar)	Gün					dummy
 1051	Day(s) M-F	Dag (ar) M-F	Día(s) L-V	Werktag(e)	Dag(en) Ma - Vr		Jour(s) M-F	Dag(er) M-F	日（县）中氟					Hari (s) M-F	Ημέρα(ες) Α-Θ		Dia(s) M-F	Dia (s) M-F		Dag (ar) M-F	Gün(ler)Pt-Cu					dummy
 1052	days	dagar	días	Tage	dagen		jours	dager	天					bulan	Ημέρες 		dias	dias	الأيام	dagar	günler				दिन	dummy
@@ -3074,24 +3074,24 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3069	Outcome	Utfall	Resultado		Resultaat			Utfall						Hasil	Έκβαση 		Resultado	Resultado		Utfall	Sonuç					dummy
 3070	Outlook	Outlook	Outlook		Outlook									Outlook	Outlook 		Perspectiva	Outlook		Outlook	Görünüm					dummy
 3071	Overuse	Överutnyttjande	Sobreuso		Overbelast									Overuse	Υπερβολ. χρήση		Overuse	O uso excessivo		Överutnyttjande	Aşırı kullanım					dummy
-3072	Overweight		Sobrepeso 		Overgewicht										Υπέρβαρος		Sobrepeso	Sobrepeso			Aşırı kilolu					dummy
+3072	Overweight		Sobrepeso 		Overgewicht		Sucharge pondérale								Υπέρβαρος		Sobrepeso	Sobrepeso			Aşırı kilolu					dummy
 3073	Overwrite HIPAA choice		Sobrescribir la elección HIPAA		Overschrijf HIPAA keuze									Menimpa HIPAA pilihan	Επικαλύψτε την επιλογή HIPAA		Escreva elaboradamente escolha de HIPAA	Substituir escolha HIPAA			HIPAA seçiminin üzerine yaz					dummy
-3074	Oxygen Saturation		Saturación del Oxígeno 		Zuurstof saturatie										Κορεσμός οξυγόνου		Saturação de oxigênio	Saturação de Oxigênio			Oksijen Satürasyonu					dummy
+3074	Oxygen Saturation		Saturación del Oxígeno 		Zuurstof saturatie		Saturation d'O2								Κορεσμός οξυγόνου		Saturação de oxigênio	Saturação de Oxigênio			Oksijen Satürasyonu					dummy
 3075	P		P		P												P	P			P					dummy
-3076	p.c.	vid behov	p.c.	postprandial	p.c.									p.c.	μετά φαγητό		p.c.	P.C.		vid behov	Yemekten sonra					dummy
-3077	p.m.		p.m.	nachmittags	p.m.									p.m.	μμ		da tarde	p.m.			ö.s.					dummy
-3078	p.r.n.		p.r.n.		zo nodig									p.r.n.	επί ανάγκης		p.r.n.	P.R.N.			gerektiğinde					dummy
+3076	p.c.	vid behov	p.c.	postprandial	p.c.		pc							p.c.	μετά φαγητό		p.c.	P.C.		vid behov	Yemekten sonra					dummy
+3077	p.m.		p.m.	nachmittags	p.m.		pm							p.m.	μμ		da tarde	p.m.			ö.s.					dummy
+3078	p.r.n.		p.r.n.		zo nodig		prn							p.r.n.	επί ανάγκης		p.r.n.	P.R.N.			gerektiğinde					dummy
 3079	Pacific Islander				Pacific Eiland bewoner																Pasifik Adalarından					dummy
-3080	Paedeatric	Pedriatisk	Paedeatric	Pädiatrisch	Pediatrisch									Paedeatric	Παιδιατρικό		Paedeatric	Pediátricos		Pedriatisk	Pediyatrik					dummy
-3081	Page		Página	Seite	Pagina										Σελίδα		Página	Página			Sayfa					dummy
-3082	Pages	Sidor	Páginas	Seiten	Pagina´s			Sider						Halaman	Σελίδες		Páginas	Páginas		Sidor	Sayfalar					dummy
-3083	Paid	Betald	Pago		Betaald			Betalt						Dibayar	Αμειβόμενος/η		Pagado	Pago		Betald	Ödenmiş					dummy
+3080	Paedeatric	Pedriatisk	Paedeatric	Pädiatrisch	Pediatrisch		Pédiatrique							Paedeatric	Παιδιατρικό		Paedeatric	Pediátricos		Pedriatisk	Pediyatrik					dummy
+3081	Page		Página	Seite	Pagina		Page								Σελίδα		Página	Página			Sayfa					dummy
+3082	Pages	Sidor	Páginas	Seiten	Pagina´s		Pages	Sider						Halaman	Σελίδες		Páginas	Páginas		Sidor	Sayfalar					dummy
+3083	Paid	Betald	Pago		Betaald		Payé	Betalt						Dibayar	Αμειβόμενος/η		Pagado	Pago		Betald	Ödenmiş					dummy
 3084	Paid amount that you will allocate	Betalt belopp som du kommer att fördela	Cantidad pagada que usted asignará 		Betaald bedrag dat u will plaatsen									Anda dibayar jumlah yang akan mengalokasikan	Πληρωμένο ποσό που θα κατανείμετε		Quantia pagada que você alocará	Montante pago que você vai alocar		Betalt belopp som du kommer att fördela	Ayıracağınız ödenmiş miktar					dummy
-3085	Paid Via	Betalas via	Pagado Via		Betaald per			Betalt Via						Dibayar Via	Πλήρωσε μέσω 		Pagado Por	Via Paid		Betalas via	Ödendi:					dummy
-3086	Pain		Dolor	Schmerz	Pijn										Πόνος		Dor	Dor			Ağrı					dummy
-3087	Palpitation		Palpitaciones 		Palpitatie										Αίσθημα παλμών		Palpitação	Palpitações			Çarpıntı					dummy
-3088	Pap Smear		Prueba de Papanicolaou 		PAP smear									Pap smear	Τεστ Παπανικολάου 		Sujeira de papinha	Papanicolau			Sürüntü					dummy
-3089	Paralysis		Parálisis 		Paralyse										Παράλυση		Paralisia	Paralisia			Felç					dummy
+3085	Paid Via	Betalas via	Pagado Via		Betaald per		Payé avec	Betalt Via						Dibayar Via	Πλήρωσε μέσω 		Pagado Por	Via Paid		Betalas via	Ödendi:					dummy
+3086	Pain		Dolor	Schmerz	Pijn		Douleur								Πόνος		Dor	Dor			Ağrı					dummy
+3087	Palpitation		Palpitaciones 		Palpitatie		Palpitation								Αίσθημα παλμών		Palpitação	Palpitações			Çarpıntı					dummy
+3088	Pap Smear		Prueba de Papanicolaou 		PAP smear		Test de Pap							Pap smear	Τεστ Παπανικολάου 		Sujeira de papinha	Papanicolau			Sürüntü					dummy
+3089	Paralysis		Parálisis 		Paralyse		Paralysie								Παράλυση		Paralisia	Paralisia			Felç					dummy
 3090	Parse HL7		Analizar HL7		HL7 invoegen									Parse HL7	Ανάλυση HL7		Analise gramaticalmente HL7	Parse HL7			HL7 yi incele					dummy
 3091	Partner	Partner	Socio	Lebensgefährte	Partner			Partner						Mitra	Εταίρος 		Sócio	Partner		Partner	Partner					dummy
 3092	Pass Phrase				Pass zin																					dummy
@@ -3099,15 +3099,15 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3094	Passed Patients				Gepasseerde patienten																					dummy
 3095	Passive Alert				Passieve alert																					dummy
 3096	Passive Alert Rules				Passieve alert regels																					dummy
-3097	Password	Lösenord	Contraseña 	Kennwort	Wachtwoord			Passord						Password	Κωδικός πρόσβ.		Senha	Senha		Lösenord	Şifre					dummy
-3098	Password Change	Ändra lösenord	Cambio de la contraseña 	Kennwortänderung	Wachtwoord wijzigen			Endre Passord						Ubah password	Αλλαγή Κωδικ. πρόσβασης		Alterar Senha	Alterar Senha		Ändra lösenord	Şifre Değişikliği					dummy
-3099	Password change successful.		Cambio de contraseña con éxito.	Kennwortänderung erfolgreich	Wachtwoord wijzigen gelukt.										Επιτυχής Αλλαγή Κωδικ. πρόσβασης		Senha Alterada.	Mudança de senha bem sucedida.			Şifre Değişikliği Başarılı.					dummy
+3097	Password	Lösenord	Contraseña 	Kennwort	Wachtwoord		Mot de passe	Passord						Password	Κωδικός πρόσβ.		Senha	Senha		Lösenord	Şifre					dummy
+3098	Password Change	Ändra lösenord	Cambio de la contraseña 	Kennwortänderung	Wachtwoord wijzigen		Modification de mot de passe	Endre Passord						Ubah password	Αλλαγή Κωδικ. πρόσβασης		Alterar Senha	Alterar Senha		Ändra lösenord	Şifre Değişikliği					dummy
+3099	Password change successful.		Cambio de contraseña con éxito.	Kennwortänderung erfolgreich	Wachtwoord wijzigen gelukt.		Mot de passe modifié								Επιτυχής Αλλαγή Κωδικ. πρόσβασης		Senha Alterada.	Mudança de senha bem sucedida.			Şifre Değişikliği Başarılı.					dummy
 3100	Password Expiration Grace Period				Tijd nog beschikbaar totdat het Paswoord verloopt										Περίοδος χάριτος μετά τη Λήξη του Κωδ. πρόσβασης						Şifre Son Mühlet					dummy
 3101	Password for Phone Gateway. Automated VOIP service provided by Maviq. Please visit http://signup.maviq.com for more information.				Pasword voor telefoon Gateway. geautomatiseerde VOIP service verleend door Maviq. Bezoek http://signup.maviq.com voor meer informatie.																					dummy
 3102	Password for SMS Gateway	Lösenord för SMS Gateway	Contraseña para la entrada de SMS 	Kennwort für SMS Gateway	Wachtwoord voor SMS Toegang									Password untuk SMS Gateway	Κωδικός για το SMS Gateway 		Password para Portal de SMS	Senha para o SMS Gateway		Lösenord för SMS Gateway	SMS ara birimi için Şifre					dummy
 3103	Password for SMS Gateway.				Paswoord voor SMS toegang										Κωδικός για το SMS Gateway 		Password para Portal de SMS.				SMS ara birimi için Şifre:					dummy
 3104	Password security has recently been upgraded.				Paswoord veiligheid is kort geleden verbeterd.																					dummy
-3105	Password:	Lösenord:	Contraseña 	Kennwort:	Wachtwoord:			Passord:						Password:	Κωδικός Πρόσβασης:		Senha:	Senha:		Lösenord:	Şifre:					dummy
+3105	Password:	Lösenord:	Contraseña 	Kennwort:	Wachtwoord:		Mot de passe:	Passord:						Password:	Κωδικός Πρόσβασης:		Senha:	Senha:		Lösenord:	Şifre:					dummy
 3106	Past due				Verlopen																					dummy
 3107	Past Due				Verlopen																					dummy
 3108	Past Due Interval (Clinical Reminders)				Verlopen interval (Klinische reminders)																					dummy
@@ -3126,13 +3126,13 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3121	Path to MySQL Binaries				Pad naar MSQL bin files																MySQL binary dosyalarının yolu					dummy
 3122	Path to Perl Binaries				Pad naar Perl Bin files																Perl Binary dosyalarının yolu					dummy
 3123	Path to Temporary Files				Pad naar tijdelijke bestanden										Path για τα Προσωρινά Αρχεία						Geçici Dosyaların Yolu					dummy
-3124	Patient	Patient	Paciente	Patient	Patiënt			Pasient						Pasien	Ασθενής		Utente	Paciente		Patient	Hasta				मरीज 	dummy
-3125	patient		paciente	Patient	patient										ασθενής		utente	paciente			hasta 				मरीज 	dummy
-3126	PATIENT		PACIENTE	Patient	PATIENT										ΑΣΘΕΝΕΙΣ		UTENTE	PACIENTE			HASTA 				मरीज 	dummy
-3127	Patient Allergies	Patient Allergier	Alergias del Pacientes 		Allergieen van pt			Pasient Allergier						Pasien Alergi	Αλλεργίες Ασθενούς		Alergias do Utente	Paciente Alergias		Patient Allergier	Hasta Alerjileri 					dummy
-3128	Patient allergies		Alergias del Pacientes		Allergieen van pt									Pasien alergi	Αλλεργίες ασθενούς		Alergias do utente	Paciente alergias			Hasta alerjileri 					dummy
+3124	Patient		Paciente	Patient	Patiënt		Patient	Pasient						Pasien	Ασθενής		Utente	Paciente		Patient	Hasta				मरीज 	dummy
+3125	patient		paciente	Patient	patient		patient								ασθενής		utente	paciente			hasta 				मरीज 	dummy
+3126	PATIENT		PACIENTE	Patient	PATIENT		PATIENT								ΑΣΘΕΝΕΙΣ		UTENTE	PACIENTE			HASTA 				मरीज 	dummy
+3127	Patient Allergies	Patient Allergier	Alergias del Pacientes 		Allergieen van pt		Allergie	Pasient Allergier						Pasien Alergi	Αλλεργίες Ασθενούς		Alergias do Utente	Paciente Alergias		Patient Allergier	Hasta Alerjileri 					dummy
+3128	Patient allergies		Alergias del Pacientes		Allergieen van pt		Allergie							Pasien alergi	Αλλεργίες ασθενούς		Alergias do utente	Paciente alergias			Hasta alerjileri 					dummy
 3129	Patient Appointment	Patient träff/bokning	Cita del Paciente		Afspraak van pt			Pasient Avtale						Penunjukan pasien	Ραντεβού ασθενούς		Marcação Utente	Nomeação do Paciente		Patient träff/bokning	Hasta Randevusu					dummy
-3130	Patient chart ID	Patient diagram ID	Identificación de la tabla del paciente 		Patientkaart-ID									Grafik pasien ID	Κωδικός φακέλου ασθενούς		Processo doente ID	Prontuário ID		Patient diagram ID	Hasta Çizelge ID					dummy
+3130	Patient chart ID	Patient diagram ID	Identificación de la tabla del paciente 		Patientkaart-ID		Numéro de dossier							Grafik pasien ID	Κωδικός φακέλου ασθενούς		Processo doente ID	Prontuário ID		Patient diagram ID	Hasta Çizelge ID					dummy
 3131	Patient Checkout		Comprobación de paciente		Patient vertrokken									Pasien Checkout	Έλεγχος εξόδου του ασθενούς		Alta Utente	Paciente Checkout			Hasta Ödemesi					dummy
 3132	Patient Checkout for 		Comprobación de paciente para		Patient vertrokken voor									Checkout untuk pasien	Έλεγχος εξόδου ασθενούς για τον/ την		Saída doente para	Paciente Checkout			Hasta ödemesi:					dummy
 3133	Patient Communication sent		Comunicación Enviada la Paciente		Patiënt communicatie verzonden									Komunikasi pasien dikirim	Επικοινωνία ασθενούς απεστάλη		Comunicação do Utente enviada	Paciente Comunicação enviado			Hasta Epikrizi Gönderildi					dummy
