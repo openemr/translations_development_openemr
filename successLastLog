@@ -2,7 +2,7 @@ Success:
 589c589
 < Total number of real definitions: 41056
 ---
-> Total number of real definitions: 41331
+> Total number of real definitions: 41332
 601c601
 < French: 37.64% (2015 definitions)
 ---
@@ -11,6 +11,10 @@ Success:
 < Italian: 6.18% (331 definitions)
 ---
 > Italian: 6.29% (337 definitions)
+608c608
+< Polish: 0.19% (10 definitions)
+---
+> Polish: 0.21% (11 definitions)
 613c613
 < Spanish: 76.35% (4088 definitions)
 ---
