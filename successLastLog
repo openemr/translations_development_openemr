@@ -1,21 +1,30 @@
 Success:
+587c587
+< Total number of languages with translations: 20
+---
+> Total number of languages with translations: 21
 589c589
 < Total number of real definitions: 41056
 ---
-> Total number of real definitions: 41332
-601c601
+> Total number of real definitions: 45660
+598c598
+< Dutch: 96.73% (5179 definitions)
+---
+> Dutch: 99.94% (5351 definitions)
+601c601,602
 < French: 37.64% (2015 definitions)
 ---
-> French: 41.11% (2201 definitions)
-606c606
+> French (Canadian): 42.66% (2284 definitions)
+> French (Standard): 41.99% (2248 definitions)
+606c607
 < Italian: 6.18% (331 definitions)
 ---
-> Italian: 6.29% (337 definitions)
-608c608
+> Italian: 40.36% (2161 definitions)
+608c609
 < Polish: 0.19% (10 definitions)
 ---
-> Polish: 0.21% (11 definitions)
-613c613
+> Polish: 0.22% (12 definitions)
+613c614
 < Spanish: 76.35% (4088 definitions)
 ---
 > Spanish: 77.9% (4171 definitions)
