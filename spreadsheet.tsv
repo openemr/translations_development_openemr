@@ -1681,9 +1681,9 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1676	Exist				Bestaat																				Esiste		dummy
 1677	Exit from Administration	lämna från Administration	Salir de Administración		Uit Admin weggaan				Avslutt fra administrasjon	退出管理					Keluar dari Administrasi	Έξοδος από τη Διαχείριση		Sair da Administração	Sair do Administração		lämna från Administration	Çıkış Yönetimi			Esci da Amministrazione		dummy
 1678	Exp		Exp		Exp											Εξ		Exp	Exp			Gen					dummy
-1679	Expand				Uitvouwen											Eπέκταση		Expandir				Genişlet			Espandi		dummy
-1680	expand		Expandir		uitvouwen											επέκταση		expandir				genişlet			espandi		dummy
-1681	Expand All				Alles uitvouwen											Ανάπτυξη όλων		Expandir Todos				Hepsini Genişlet			Espandi Tutto		dummy
+1679	Expand				Uitvouwen			Aggrandir								Eπέκταση		Expandir				Genişlet			Espandi		dummy
+1680	expand		Expandir		uitvouwen			aggrandir								επέκταση		expandir				genişlet			espandi		dummy
+1681	Expand All				Alles uitvouwen			Tout aggrandir								Ανάπτυξη όλων		Expandir Todos				Hepsini Genişlet			Espandi Tutto		dummy
 1682	Expanded View	Utökad vy	Vista ampliada	Erweiterte Ansicht	Uitgevouwen scherm				Utvidet oversikt	扩展视图					Lihat diperluas	Λεπτομερής Προβολή		Vista Expandida	Visualização Expandida		Utökad vy	Genişletilmiş Görünüm			Vista espansa		dummy
 1683	Expected form_encounter.pid to be 	Förväntad form_mötes.pid att	La forma esperada_encuentro. pid para ser		Verwacht formulier_ontmoeting. pid om te zijn					预计form_encounter.pid将					Form_encounter.pid diharapkan akan	O κωδικός για το έντυπο_επίσκεψης.pid αναμένεται να είναι 		Forma_encontro.pid esperado para ser	Form_encounter.pid Esperado ser		Förväntad form_mötes.pid att	form_encounter.pid sinin olması gereken:					dummy
 1684	Expiration	Utgångsdatum	Caducidad	Verfallen	Verloopdatum				Utløps	到期					Kadaluarsa	Λήξη		Expiração	Expiração		Utgångsdatum	Sona erme			Scadenza		dummy
