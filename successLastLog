@@ -6,7 +6,7 @@ Success:
 589c589
 < Total number of real definitions: 41056
 ---
-> Total number of real definitions: 45880
+> Total number of real definitions: 47892
 598c598
 < Dutch: 96.73% (5179 definitions)
 ---
@@ -19,12 +19,20 @@ Success:
 606c607
 < Italian: 6.18% (331 definitions)
 ---
-> Italian: 44.4% (2377 definitions)
-608c609
+> Italian: 76.99% (4122 definitions)
+608,610c609,611
 < Polish: 0.19% (10 definitions)
+< Portuguese (Brazilian): 63.37% (3393 definitions)
+< Portuguese (European): 71.16% (3810 definitions)
 ---
 > Polish: 0.22% (12 definitions)
+> Portuguese (Brazilian): 63.39% (3394 definitions)
+> Portuguese (European): 71.31% (3818 definitions)
 613c614
 < Spanish: 76.35% (4088 definitions)
 ---
 > Spanish: 77.9% (4171 definitions)
+615c616
+< Turkish: 87.8% (4701 definitions)
+---
+> Turkish: 92.62% (4959 definitions)
