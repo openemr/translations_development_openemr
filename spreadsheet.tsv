@@ -555,7 +555,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 550	Buttock		Gluteos		Zitvlak		Fesses	Fesses								Γλουτός		nádega				Kalça			Natica		dummy
 551	Buttock + S.I.	Skinkan + S.I.	Gluteos + S.I.		Zitvlak + S.I.		Fesses + S.I	Fesses + S.I		臀部+副省长					Buttock + S.I.	Γλουτός και ιερολαγόνια		Nádega + S.I.	Nádega + S.I.		Skinkan + S.I.	Kalça + S.I.					dummy
 552	by	via	por	bei	dmv		par	par	av	通过					oleh	με το		por	por		via	tarafından			da		dummy
-553	By		Por	Bei	Door		Par	Par								Με το		por			Via	Tarafından			Da		dummy
+553	By		Por	Bei	Door		Par	Par								Με το		por			By	Tarafından			Da		dummy
 554	by mouth	via munnen	por boca	oral	Oraal		Par voie orale	Par voie orale	av mund	经口					oleh mulut	από το στόμα		per os	pela boca	عن طريق الفم	Via munden	ağızdan			per via orale		dummy
 555	By/Source	Genom / Källa	Por / Fuente		Door/Oorsprong		Par / Source	Par / Source	Av/Skilde	文/来源					Oleh / Sumber	Με/Πηγή		Por/Fonte	Por / Fonte	بواسطة/ المصدر	via/ kilden	Tarafından/Kaynak			Da/Origine		dummy
 556	By:	Av:	Por:	Bei:	door:		Par:	Par:	Av:	方式：					Oleh:	Έως:		Por:	Por:	من قبل:	Via:	Tarafından:			Da:		dummy
@@ -2533,25 +2533,25 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 2528	Lock		Bloquear		Afsluiten											Κλείδωμα						Kilit			Blocca		dummy
 2529	Log In				Inloggen																Log ind				Ingresso		dummy
 2530	Log Out				Uitloggen																Log ud				Uscita		dummy
-2531	Logged in	Inloggad	Iniciar sesión		Ingelogd				Inlogget	登录					Login	Συνδέθηκε σε		Sessão	Logado		Inloggad	Girdi			Entrato		dummy
-2532	Logged in as	Inloggad som	Abierto una sesión como		Actieve gebruiker 				Logget in som	登录身份为					Login sebagai	Συνδέθηκε ως		Sessão iniciada como	Logado como		Inloggad som	Girdi:			Entrato come		dummy
-2533	Logged in as: 	Inloggad som:	Abierto una sesión como:		Actieve gebruiker: 				Logget in som:						Login sebagai:	Συνδέθηκε ως:		Sessão iniciada como:	Logado como:		Inloggad som:	Olarak girdi:			Entrato come:		dummy
-2534	Logged out.	Utloggad.	Salir de sesión.		Afgemeld.				Logget ut.	登出					Keluar.	Αποσυνδέθηκε.		Sessão terminada.	Desconectado.		Utloggad.	Çıktı.			Uscito.		dummy
-2535	Login	Logga in	Conexión		Inloggen				Log in	登录					Login	Σύνδεση		Entrar	Login		Logga in	Giriş			Ingresso		dummy
-2536	login	logga in	conexión		Inloggen											σύνδεση		entrar	login		logga in	giriş			ingresso		dummy
-2537	Logout	Logout	Cerrar sesión		Logout				Log ut	登出					Logout	Αποσύνδεση		Sair	Sair		Logout	Çıkış			Uscita		dummy
-2538	logout	logout	cerrar sesión		logout											αποσύνδεση		sair	sair		logout	Çıkış 			uscita		dummy
-2539	Logs	Loggar	Registros		Logs				Logger	文件夹					Log	Logs		Eventos	Históricos		Loggar	Günlükler			Logs		dummy
-2540	Logs Viewer		Espectador de los registros 		Logviewer					日志浏览器					Log Viewer	Προβολή καταγραφών		Visualizador de Eventos	Históricos Viewer			Günlükler Görüntüleyici			Visore dei Logs		dummy
-2541	Look Up	Slå upp	Buscar		Opzoeken					查阅					Look Up	Αναζήτηση 		Procurar	Look Up		Slå upp	Ara					dummy
+2531	Logged in	Inloggad	Iniciar sesión		Ingelogd				Inlogget	登录					Login	Συνδέθηκε σε		Sessão	Logado		logget ind	Girdi			Entrato		dummy
+2532	Logged in as	Inloggad som	Abierto una sesión como		Actieve gebruiker 				Logget in som	登录身份为					Login sebagai	Συνδέθηκε ως		Sessão iniciada como	Logado como		logget ind som	Girdi:			Entrato come		dummy
+2533	Logged in as: 	Inloggad som:	Abierto una sesión como:		Actieve gebruiker: 				Logget in som:						Login sebagai:	Συνδέθηκε ως:		Sessão iniciada como:	Logado como:		logget ind som	Olarak girdi:			Entrato come:		dummy
+2534	Logged out.	Utloggad.	Salir de sesión.		Afgemeld.				Logget ut.	登出					Keluar.	Αποσυνδέθηκε.		Sessão terminada.	Desconectado.		logget ud	Çıktı.			Uscito.		dummy
+2535	Login	Logga in	Conexión		Inloggen				Log in	登录					Login	Σύνδεση		Entrar	Login		log ind	Giriş			Ingresso		dummy
+2536	login	logga in	conexión		Inloggen											σύνδεση		entrar	login		log ind	giriş			ingresso		dummy
+2537	Logout	Logout	Cerrar sesión		Logout				Log ut	登出					Logout	Αποσύνδεση		Sair	Sair		Log ud	Çıkış			Uscita		dummy
+2538	logout	logout	cerrar sesión		logout											αποσύνδεση		sair	sair		log ud	Çıkış 			uscita		dummy
+2539	Logs	Loggar	Registros		Logs				Logger	文件夹					Log	Logs		Eventos	Históricos		Logs	Günlükler			Logs		dummy
+2540	Logs Viewer		Espectador de los registros 		Logviewer					日志浏览器					Log Viewer	Προβολή καταγραφών		Visualizador de Eventos	Históricos Viewer		Log viewer	Günlükler Görüntüleyici			Visore dei Logs		dummy
+2541	Look Up	Slå upp	Buscar		Opzoeken					查阅					Look Up	Αναζήτηση 		Procurar	Look Up		Slå op	Ara					dummy
 2542	Lot	Batch	Lote		Voorraad					批号					Banyak	Παρτίδα 		Lote	Lote		Batch	Parti			Lotto		dummy
 2543	Lot ID missing!		Identificación del lote que faltan! 		ID ontbreekt voor voorraad					批号缺失						Λείπει ο Κωδικός παρτίδας!		Lote ID em falta!	Lote ID faltando!			Parti ID eksik			ID del Lotto mancante!		dummy
 2544	Lot Number	Batchnummer	Número de Lote 		Voorraadnummer					批量编号					Jumlah banyak	Αριθμός παρτίδας 		Número de Lote	Número de lote		Batchnummer	Parti Numarası			Numero del Lotto		dummy
-2545	Low	låg	Bajo		Laag					低的					Rendah	Χαμηλό		Baixo	Baixo		låg	Düşük					dummy
+2545	Low	låg	Bajo		Laag					低的					Rendah	Χαμηλό		Baixo	Baixo		lav	Düşük					dummy
 2546	Lower leg	Benet	Pierna inferior		Onderbeen					小腿					Rendah kaki	Κάτω άκρο		Perna mais baixa	Perna		Benet	Alt bacak					dummy
 2547	Lumbar spine	Lumbal delen av ryggraden	Columna lumbar		Lumbale wervelkolom					腰脊柱					Lumbar spine	Οσφ.Μ.Σ.Σ.		Espinha Lombar	Coluna lombar		Lumbal delen av ryggraden	Lomber omurgalar			Colonna lombare		dummy
-2548	LUNCH	LUNCH	ALMUERZO 	Mittagessen	LUNCH		Déjeuner	Déjeuner		午餐						ΓΕΥΜΑ 		ALMOÇO	Horário de Almoço		LUNCH	ÖĞLE			PRANZO		dummy
-2549	Lunch	Lunch	almuerzo	Mittagessen	Lunch		Déjeuner	Déjeuner								Γεύμα		Almoço	Horário de Almoço		Lunch	Öğle Yemeği			Pranzo		dummy
+2548	LUNCH	LUNCH	ALMUERZO 	Mittagessen	LUNCH		Déjeuner	Déjeuner		午餐						ΓΕΥΜΑ 		ALMOÇO	Horário de Almoço		Frokost	ÖĞLE			PRANZO		dummy
+2549	Lunch	Lunch	almuerzo	Mittagessen	Lunch		Déjeuner	Déjeuner								Γεύμα		Almoço	Horário de Almoço		Frokost	Öğle Yemeği			Pranzo		dummy
 2550	Lung Cancer	Lung Cancer	cáncer de pulmón	Lungenkrebs	Longkanker		Cancer du Poummon	Cancer du Poummon	Lunge Kreft	肺癌					Kanker paru-paru	Καρκίνος του πνεύμονα 		Cancro do Pulmão	Câncer de Pulmão		Lung Cancer	Akciğer Kanseri			Cancro al polmone		dummy
 2551	Lung Cancer Surgery	Lung Cancer kirurgi	Cirugía del cáncer de pulmón 	Thoraxchirurgie bei Lungenkrebs	Longkanker chirurgie		Chirurgie du Cancer de poumon	Chirurgie du Cancer de poumon		肺癌手术					Kanker Paru Bedah	Χειρουργική καρκίνου του πνεύμονα 		Cirurgia de Cancro do Pulmão	Cirurgia de Câncer de Pulmão		Lung Cancer kirurgi	Akciğer Kanseri Cerrahisi			Intervento per cancro al polmone		dummy
 2552	LUNGS:	Lungor:	PULMONES:	Lungen:	LONGEN:		POUMMONS:	POUMMONS:	LUNGER:						Paru-paru:	ΠΝΕΥΜΟΝΕΣ:		PULMÕES:	Pulmões:		Lungor:	AKCİĞERLER:			POLMONI:		dummy
@@ -2561,24 +2561,24 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 2556	MA Category	MA Kategori	Categoría de MA 		Memb.Association Categorie										MA Kategori	Κύριος		Categoria MA	MA Categoria		MA Kategori	MA Kategorisi					dummy
 2557	MA Client Accepting Abortion				MA client abortus toegestaan																	Düşüğü Kabul Eden MA Hastası					dummy
 2558	MA Stats				MA statistieken																	MA İstatistikleri					dummy
-2559	Mail Sent				Mail verstuurd																				Posta Inviata		dummy
-2560	Main				Main											Βασικός/ ή						Ana			Principale		dummy
-2561	Main Address	Huvudadress	Dirección principal		Hoofdadres				Hoved Adresse	主要地址					Alamat utama	Κύρια Διεύθυνση 		Endereço Principal	Endereço principal		Huvudadress	Ana Adres			Indirizzo Principale		dummy
+2559	Mail Sent				Mail verstuurd																Mail sendt				Posta Inviata		dummy
+2560	Main				Main											Βασικός/ ή					hoved	Ana			Principale		dummy
+2561	Main Address	Huvudadress	Dirección principal		Hoofdadres				Hoved Adresse	主要地址					Alamat utama	Κύρια Διεύθυνση 		Endereço Principal	Endereço principal		Hovedadresse	Ana Adres			Indirizzo Principale		dummy
 2562	Main Top Pane Screen				Belangrijkste boven top Scherm													Parte Superior do Ecrã				Esas Orta Üst Ekran			Parte sup. della schermata del pannello principale		dummy
 2563	Maintain active medication allergy list.				Bijhouden van acieve medicatie allergie lijst																				Mantieni attivo l\'elenco delle allergie ai farmaci.		dummy
 2564	Maintain active medication list.				Bijhouden actieve medicatie lijst																				Mantieni attivo l\'elenco dei farmaci.		dummy
 2565	Maintain an up-to-date problem list of current and active diagnoses.				Bijhouden van up-to-date lijst van problemen en actieve diagnoses.																				Mantieni un elenco aggiornato dei problemi delle diagnosi correnti e attive		dummy
-2566	Make modifications to current categories.	Gör ändringar i nuvarande kategorier.	Hacer modificaciones a las actuales categorías.		Maak aanpassingen op gebruikte categorieen					修改最近的分类					Memodifikasi kategori.	Κάντε αλλαγές στις τρέχουσες κατηγορίες. 		Faça modificações para categorias recentes	Faça modificações categorias atuais.		Gör ändringar i nuvarande kategorier.	Güncel kategorilerde değişiklikler yap			Esegui le modifiche alle ategorie correnti		dummy
-2567	Make new appointment for				Maak een nieuwe afspraak voor											Νέο ραντεβού για						Yeni randevu oluşturulacak 			Fissa un nuovo appuntamento per		dummy
+2566	Make modifications to current categories.	Gör ändringar i nuvarande kategorier.	Hacer modificaciones a las actuales categorías.		Maak aanpassingen op gebruikte categorieen					修改最近的分类					Memodifikasi kategori.	Κάντε αλλαγές στις τρέχουσες κατηγορίες. 		Faça modificações para categorias recentes	Faça modificações categorias atuais.		Lav ændringer i nuværende kategorier	Güncel kategorilerde değişiklikler yap			Esegui le modifiche alle ategorie correnti		dummy
+2567	Make new appointment for				Maak een nieuwe afspraak voor											Νέο ραντεβού για					Lav ny aftale for	Yeni randevu oluşturulacak 			Fissa un nuovo appuntamento per		dummy
 2568	Make sure "	Försäkra \"	Cerciorarse \"		Verzeker je ervan \"					确定					Pastikan \"	Βεβαιωθείτε ότι \" 		Tenha Certeza	Certifique-se de \"\"		Försäkra \"	Emin olun:			Sii certo "		dummy
 2569	Making batch text files for uploading to Clearing House and will mark as billed		Hacer que los archivos de proceso por lotes de texto para ser cargados a casa de procesamiento y se marca como facturado		Het aanmaken van BATCH files om naar clearing huis te uploaden worden gemarkeerd als in rekening ebrachgt																	Takas Kurumuna yüklemek için toplu dosyalar oluşturuluyor ve faturalandırıldı olarak işaretlenecek					dummy
 2570	Malaise:	Sjukdomskänsla:	Malestar: 		Malaise:		Malaise:	Malaise:		不舒服					Rasa tidak enak:	Αδιαθεσία: 		Mal-estar	Mal-estar:		Sjukdomskänsla:	Halsizlik:					dummy
-2571	Male	Man	Masculino		Man		Masculin	Masculin	Manlig	男性					Laki-laki	Άρρεν		Masculino	Masculino		Man	Erkek			Maschile		dummy
+2571	Male	Man	Masculino		Man		Masculin	Masculin	Manlig	男性					Laki-laki	Άρρεν		Masculino	Masculino		Mand	Erkek			Maschile		dummy
 2572	Male Condoms	Manlig Kondomer	Condones Masculinos 		Condoom voor man		Préservatifs Masculin	Préservatifs Masculin	Kondommer	男性避孕套					Kondom laki-laki	Ανδρικά προφυλακτικά 		Preservativos Masculinos	Preservativos Masculinos		Manlig Kondomer	Erkek Kondomları			Condom maschili		dummy
 2573	Male VSC		Varón VSC 		Mannelijk VSC					男性输精管结扎术					Laki-laki VSC	Εκούσια χειρουργ. στείρωση του άνδρα		VSC Masculinas	Masculino VSC			Vazektomi					dummy
 2574	Mammogram	Mammogram	Mamograma	Mammogramm	Mammogram		Mammographie	Mammographie		乳房X线照片					Mammogram	Μαστογραφία 		Mamograma	Mamografia		Mammogram	Mamografi			Mamografia		dummy
-2575	Manage		Manejar		Beheren		Gérer	Gérer								διαχείριση		Gerir				Yönet			Gestisci		dummy
-2576	Manage Translations				Vertalingen beheren		Gérer les traductions	Gérer les traductions								Διαχείριση Μεταφράσεων		Gerir Traduções				Tercümeleri Yönet			Gestisci Traduzioni		dummy
+2575	Manage		Manejar		Beheren		Gérer	Gérer								διαχείριση		Gerir			Administrer	Yönet			Gestisci		dummy
+2576	Manage Translations				Vertalingen beheren		Gérer les traductions	Gérer les traductions								Διαχείριση Μεταφράσεων		Gerir Traduções			Administrer oversættelser	Tercümeleri Yönet			Gestisci Traduzioni		dummy
 2577	Management	Administration	Gerencia	Management	Bestand		Gestion	Gestion		管理					Manajemen	Διαχείριση 		Administração	Gerenciamento		Administration	Yönetim			Gestione		dummy
 2578	Mandatory and specified fields				Verplichte en specifieke velden		Les champs obligatoires et spécifiés	Les champs obligatoires et spécifiés								Υποχρεωτ. και συγκεκριμένα πεδία						Zorunlu ve belirli alanlar			Campi obbligatori e specificati		dummy
 2579	Mandatory or specified fields only, dup check, no search				Alleen verplichte of alleen specifieke velden, dup check, niet voor zoeken		Les champs obligatoires ou spécifié, contrôle de dup, pas de recherche	Les champs obligatoires ou spécifié, contrôle de dup, pas de recherche								Μόνον υποχρεωτ. ή συγκεκριμένα πεδία, έλεγχος διπλής απάντησης (dup check), χωρίς αναζήτηση						Sadece zorunlu ve belirli alanlar, çift kontrol, arama yok			Soltanto campi obbligatori e specificati, controllo duplicati, niente ricerca		dummy
@@ -4021,38 +4021,38 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4016	Sat	Lördag 	Sabado		Zat										Sabtu	Σάβ		Sáb	Sáb		Lørdag	Cts			Sab		dummy
 4017	Sat &amp; Sun	Lördag & söndag 	Sabado y Domingo		Zat - Zon										Sabtu & Minggu	Σάβ & Κυρ 		Sáb &amp; Dom	Sáb & Dom		Lørdag og Søndag	Cts &amp; Paz			Sab &amp; Dom		dummy
 4018	Saturday	Lördag 	Sabado		Zaterdag										Sabtu	Σάββατο		Sábado	Sábado		Lørdag	Cumartesi			Sabato		dummy
-4019	Save	Spara 	Guardar		Bewaren										Simpan	Αποθήκευση		Guardar	Salvar		Spare	Kaydet			Salva		dummy
-4020	SAVE																				GEM				SALVA		dummy
-4021	Save and Dispense	Spara och fördela	Guardar y Distribuir 		Save en Verstrek										Menyimpan dan mengeluarkan	Αποθήκευση και Διανομή		Guardar e dispensar	Salvar e Dispense		Spara och fördela	Kaydet ve Dağıt					dummy
+4019	Save	Spara 	Guardar		Bewaren										Simpan	Αποθήκευση		Guardar	Salvar		Gem	Kaydet			Salva		dummy
+4020	SAVE																				Gem				SALVA		dummy
+4021	Save and Dispense	Spara och fördela	Guardar y Distribuir 		Save en Verstrek										Menyimpan dan mengeluarkan	Αποθήκευση και Διανομή		Guardar e dispensar	Salvar e Dispense		Gem og fordel	Kaydet ve Dağıt					dummy
 4022	Save as New	Spara som ny 	Guradar como Nuevo		Bewaren als nieuw										Simpan sebagai Baru	Αποθήκευση ως νέο		Guardar como Nova	Salvar como nova		Gem som ny	Yeni olarak Kaydet			Salva come nuovo		dummy
 4023	Save as new note		Guarda como nota nueva		Bewaren als nieuwe notitie											Αποθήκευση ως νέα σημείωση		Guardar como nova nota			Gem som ny note	yeni not olarak kaydet			Salva come nuova nota		dummy
-4024	Save Certificate Settings		Guardar configuración del certificado		Bewaar Certificaat settings											Αποθήκευση ρυθμίσεων Πιστοποιητικού		Guardar Definições de Certificado				Sertifika Ayarlarını Kaydet			Salva le configurazioni del certificato		dummy
+4024	Save Certificate Settings		Guardar configuración del certificado		Bewaar Certificaat settings											Αποθήκευση ρυθμίσεων Πιστοποιητικού		Guardar Definições de Certificado			Gem certifikatindstillinger	Sertifika Ayarlarını Kaydet			Salva le configurazioni del certificato		dummy
 4025	Save Changes	Spara ändringar 	Guardar Cambios		Bewaar wijzigingen										Simpan Perubahan	Αποθήκευση Αλλαγών		Guardar Alterações	Salvar alterações		Gem ændringer	Kaydet			Salva i cambiamenti		dummy
-4026	Save Form		Guardar Formulario 		Bewaar											Αποθήκευση Εντύπου		Guardar Formulário	Salvar Form			Formu Kaydet			Salva il modulo		dummy
+4026	Save Form		Guardar Formulario 		Bewaar											Αποθήκευση Εντύπου		Guardar Formulário	Salvar Form		Gem form	Formu Kaydet			Salva il modulo		dummy
 4027	Save Immunization	Spara vaccination	Guardar Inmunización		Bewaar										Simpan imunisasi	Αποθήκευση Ανοσοποίησης	Save Immunisation	Guardar Imunização	Salvar Vacinação		Spara vaccination	Bağışıklamayı Kaydet			Salva Immunizzazione		dummy
-4028	Save New Field		Guardar Nuevo Campo		Bewaar nieuw veld 											Αποθήκευση Νέου Πεδίου		Guardar Campo	Salvar Novo Campo			Yeni Alanı Kaydet			Salva il nuovo campo		dummy
-4029	Save New Group		Guardar Nuevo Grupo		Bewaar nieuwe groep											Αποθήκευση Νέας Ομάδας 		Guardar Grupo	Salvar Novo Grupo		Gem Ny Gruppe	Yeni Grubu Kaydet			Salva il nuovo gruppo		dummy
-4030	Save New List		Guardar Nueva Lista		Bewaar nieuwe lijst											Αποθήκευση Νέου Καταλόγου		Guardar Lista	Salvar Lista		Gem Ny Liste	Yeni Liste Kaydet			Salva il nuovo elenco		dummy
+4028	Save New Field		Guardar Nuevo Campo		Bewaar nieuw veld 											Αποθήκευση Νέου Πεδίου		Guardar Campo	Salvar Novo Campo		Gem nyt felt	Yeni Alanı Kaydet			Salva il nuovo campo		dummy
+4029	Save New Group		Guardar Nuevo Grupo		Bewaar nieuwe groep											Αποθήκευση Νέας Ομάδας 		Guardar Grupo	Salvar Novo Grupo		Gem ny gruppe	Yeni Grubu Kaydet			Salva il nuovo gruppo		dummy
+4030	Save New List		Guardar Nueva Lista		Bewaar nieuwe lijst											Αποθήκευση Νέου Καταλόγου		Guardar Lista	Salvar Lista		Gem ny liste	Yeni Liste Kaydet			Salva il nuovo elenco		dummy
 4031	Save new template		Guardar la nueva plantilla 		Nieuw sjabloon bewaren											Αποθήκευση Νέας διάταξης		Guardar Modelo	Salvar novo modelo			Yeni kalıp kaydet			Salva il nuovo aspetto		dummy
-4032	Save Patient Demographics		Guardar Demograficas de Paciente		Bewaar pers. gegevens										Simpan Pasien Demografi	Αποθήκευση Δημογραφικών στοιχείων ασθενούς		Guardar Estatísticas do Utente	Salvar Informações do Paciente			Hasta Demografik Bilgilerini Kaydet			Salva la demografica del paziente		dummy
+4032	Save Patient Demographics		Guardar Demograficas de Paciente		Bewaar pers. gegevens										Simpan Pasien Demografi	Αποθήκευση Δημογραφικών στοιχείων ασθενούς		Guardar Estatísticas do Utente	Salvar Informações do Paciente		Gem patientoplysninger	Hasta Demografik Bilgilerini Kaydet			Salva la demografica del paziente		dummy
 4033	Save Successful for chart ID		Guardar Exitoso para el gráfico identificación		Status-ID bewaard											Επιτυχής αποθήκευση για το αναγνωριστικό γραφήματος		Guardado com sucesso para o quadro de ID	Guarde bem sucedido para gráfico ID			Çizelge ID Kaydı Başarılı					dummy
-4034	Save Transaction	Spara transaktionen	Guardar ITransacción		Transactie bewaren										Simpan Transaksi	Αποθήκευση Συναλλαγής		Guardar Operação	Salvar Operação		Gem transaktioner	İşlemi Kaydet			Salva la transazione		dummy
+4034	Save Transaction	Spara transaktionen	Guardar ITransacción		Transactie bewaren										Simpan Transaksi	Αποθήκευση Συναλλαγής		Guardar Operação	Salvar Operação		Gem transaktion	İşlemi Kaydet			Salva la transazione		dummy
 4035	Scanned	Inskannade 	Escaneados 		Gescand										Discan	Σαρωμένο		Digitalizado	Digitalizada		Scannet	Tarandı			Scansito		dummy
 4036	Scanned Encounter Note		Encuentro de Nota Escaneada 		Gescande notitie dit bezoek										Discan Encounter Catatan	Σαρωμένη σημείωση επίσκεψης		Nota de Encontro digitalizada	Scanned Nota Encounter			Taranmış Görüşme Notu			Nota incontro scansita		dummy
 4037	Scanner Directory				Directory van Scanner											Κατάλογος σαρωτή						Tarayıcı Dizini			Directory della scanner		dummy
 4038	Scanner In		Escáner En		In de scanner										Dalam scanner	Σαρωτής σε		Escâner Em	Em Scanner		Scanner i	Tarayıcı giriş					dummy
-4039	Schedule	Schema 	Horario		Schema										Jadwal	Πρόγραμμα		Horário	Cronograma		Schema 	Program					dummy
+4039	Schedule	Schema 	Horario		Schema										Jadwal	Πρόγραμμα		Horário	Cronograma		Skema 	Program					dummy
 4040	Schedule Facilities:		Calendario de Facilidades		Agenda voor Lokatie:											Πρόγραμμα Έδρας:		Agenda da Clínica:	Agenda da Clínica:			Program Kolaylıkları:					dummy
 4041	SCHOOL NOTE		Nota Escolar		Briefje voor school										CATATAN SEKOLAH	ΣΗΜΕΙΩΣΗ ΣΧΟΛΕΙΟΥ		NOTA ESCOLAR	NOTA ESCOLA			OKUL NOTU			NOTE SCUOLA		dummy
 4042	Scoliosis	Skolios 	Escoliosis 		Scoliose										Scoliosis	Σκολίωση 		Escoliose	Escoliose		Skolios 	Skolyoz			Scoliosi		dummy
 4043	SE	SE 	SE		SE										SE	Εργοδότης		SE	SE		SE 	İşveren 					dummy
-4044	SE Address	SE Adress 	SE Dirección 		SE Adres										SE Alamat	Διεύθυνση Εργοδότη		SE Address	SE Endereço		SE Adress 	İşveren Adresi					dummy
-4045	SE City	SE Stad	SE Ciudad		SE Stad										SE Kota	Πόλη Εργοδότη		Cidade de SE	SE Cidade		SE Stad	İşveren Semt					dummy
+4044	SE Address	SE Adress 	SE Dirección 		SE Adres										SE Alamat	Διεύθυνση Εργοδότη		SE Address	SE Endereço		SE Adresse	İşveren Adresi					dummy
+4045	SE City	SE Stad	SE Ciudad		SE Stad										SE Kota	Πόλη Εργοδότη		Cidade de SE	SE Cidade		SE By	İşveren Semt					dummy
 4046	SE Country	SE Land 	SE Pais		SE Land										SE Negara	Χώρα Εργοδότη		País de SE	SE País		SE Land 	İşveren Ülke					dummy
 4047	SE Locality		SE Localidad 		SE Localiteit											Περιοχή Εργοδότη		Localidade de SE	SE Bairro			İşveren Yer					dummy
-4048	SE Postal Code		SE Código Postal		SE Postcode											Τ.Κ. Εργοδότη		SE Código Postal	SE CEP			İşveren Posta Kodu					dummy
+4048	SE Postal Code		SE Código Postal		SE Postcode											Τ.Κ. Εργοδότη		SE Código Postal	SE CEP		SE Postnummer	İşveren Posta Kodu					dummy
 4049	SE State		SE Estado 		SE Staat											Νομός Εργοδότη		SE State	SE Estado			İşveren Şehir					dummy
-4050	SE Zip Code		SE Código Postal 		SE Postcode											Τ.Κ. Εργοδότη	SE Pin Code	Cep de SE	SE CEP			İşveren Posta Kodu					dummy
+4050	SE Zip Code		SE Código Postal 		SE Postcode											Τ.Κ. Εργοδότη	SE Pin Code	Cep de SE	SE CEP		SE Postnummer	İşveren Posta Kodu					dummy
 4051	Search	Söka 	Búsqueda		Zoeken										Mencari	Αναζήτηση		Procurar	Pesquisa		Søg	Ara 			Cerca		dummy
 4052	search	söka 	búsqueda		zoeken										mencari	αναζήτηση		procurar	pesquisa		Søg	ara			cerca		dummy
 4053	search again	Sök igen 	Búsqar Nuevamente		opnieuw zoeken										cari lagi	αναζήτησε πάλι		procurar novamente	busca novamente		Søg igen	tekrar ara			cerca di nuovo		dummy
