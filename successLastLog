@@ -6,7 +6,7 @@ Success:
 589c589
 < Total number of real definitions: 41056
 ---
-> Total number of real definitions: 48984
+> Total number of real definitions: 49086
 591c591
 < Arabic: 15.35% (822 definitions)
 ---
@@ -37,8 +37,8 @@ Success:
 < Portuguese (Brazilian): 63.37% (3393 definitions)
 < Portuguese (European): 71.16% (3810 definitions)
 ---
-> Polish: 0.22% (12 definitions)
-> Portuguese (Brazilian): 64.33% (3444 definitions)
+> Polish: 1.42% (76 definitions)
+> Portuguese (Brazilian): 65.04% (3482 definitions)
 > Portuguese (European): 72.56% (3885 definitions)
 613c614
 < Spanish: 76.35% (4088 definitions)
