@@ -1757,7 +1757,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 1752	Faxes In	Fax in	Faxes entrada	Faxes entrada	Fax-Eingang	Fax ingekomen				Inkommende Fakser	传真在					Dalam faks	Είσοδος Fax		Envie Fax dentro	Faxes no	الفاكس الوارد	Fax ind	Gelen Fakslar			Fax in ingresso			dummy
 1753	Faxes Out	Fax ut	Faxes salida	Faxes salida	Fax-Ausgang	Fax uitgegaan				Utgående Fakser	传真输出					Faks Keluar	Έξοδος Fax		Envie Fax Fora	Faxes Out	الفاكس الصادر	Fax ud	Giden Fakslar			Fax in uscita			dummy
 1754	Features				Funktion	Mogelijkheden											Χαρακτηριστικά		Propriedades		المميزات	Funktioner	Özellikler			Cartteristiche			dummy
-1755	Feb		Feb	Feb	Feb	Feb		févr.	févr.								Φεβ		Fev		شباط	Feb	Şub			Feb			dummy
+1755	Feb		Feb	Feb	Feb	Feb		févr.	févr.				Фев				Φεβ		Fev		شباط	Feb	Şub			Feb			dummy
 1756	February	Februari	Febrero	Febrero	Februar	Februari		Février	Février	Februar	二月		Февраль			Februari	Φεβρουάριος 		Fevereiro	Fevereiro	شباط	Februar	Şubat			Febbraio			dummy
 1757	FECA		FECA	FECA		FECA					FECA					FECA	Εθνική πράξη αποκατάστασης υπαλλήλων		FECA	FECA			FECA						dummy
 1758	Federal Drug ID	Läkemedel ID	Identificación de medicamento federal	Identificación de medicamento federal		Medicijn ID-nummer overheid					联邦药品编号					Federal Narkoba ID	Εθν. Κωδικός φαρμάκου		Droga Federal ID	Estado do CRM	رقم الدواء	Läkemedel ID	Federal İlaç ID						dummy
@@ -2550,8 +2550,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 2545	Low	låg	Bajo	Bajo		Laag					低的					Rendah	Χαμηλό		Baixo	Baixo		lav	Düşük						dummy
 2546	Lower leg	Benet	Pierna inferior	Pierna inferior		Onderbeen					小腿					Rendah kaki	Κάτω άκρο		Perna mais baixa	Perna		Benet	Alt bacak						dummy
 2547	Lumbar spine	Lumbal delen av ryggraden	Columna lumbar	Columna lumbar		Lumbale wervelkolom					腰脊柱					Lumbar spine	Οσφ.Μ.Σ.Σ.		Espinha Lombar	Coluna lombar		Lumbal delen av ryggraden	Lomber omurgalar			Colonna lombare			dummy
-2548	LUNCH	LUNCH	ALMUERZO 	ALMUERZO 	Mittagessen	LUNCH		Déjeuner	Déjeuner		午餐						ΓΕΥΜΑ 		ALMOÇO	Horário de Almoço		Frokost	ÖĞLE			PRANZO			dummy
-2549	Lunch	Lunch	almuerzo	almuerzo	Mittagessen	Lunch		Déjeuner	Déjeuner								Γεύμα		Almoço	Horário de Almoço		Frokost	Öğle Yemeği			Pranzo			dummy
+2548	LUNCH	LUNCH	ALMUERZO 	ALMUERZO 	Mittagessen	LUNCH		Déjeuner	Déjeuner		午餐		Обед				ΓΕΥΜΑ 		ALMOÇO	Horário de Almoço		Frokost	ÖĞLE			PRANZO			dummy
+2549	Lunch	Lunch	almuerzo	almuerzo	Mittagessen	Lunch		Déjeuner	Déjeuner				обед				Γεύμα		Almoço	Horário de Almoço		Frokost	Öğle Yemeği			Pranzo			dummy
 2550	Lung Cancer	Lung Cancer	cáncer de pulmón	cáncer de pulmón	Lungenkrebs	Longkanker		Cancer du Poummon	Cancer du Poummon	Lunge Kreft	肺癌					Kanker paru-paru	Καρκίνος του πνεύμονα 		Cancro do Pulmão	Câncer de Pulmão		Lung Cancer	Akciğer Kanseri			Cancro al polmone			dummy
 2551	Lung Cancer Surgery	Lung Cancer kirurgi	Cirugía del cáncer de pulmón 	Cirugía del cáncer de pulmón 	Thoraxchirurgie bei Lungenkrebs	Longkanker chirurgie		Chirurgie du Cancer de poumon	Chirurgie du Cancer de poumon		肺癌手术					Kanker Paru Bedah	Χειρουργική καρκίνου του πνεύμονα 		Cirurgia de Cancro do Pulmão	Cirurgia de Câncer de Pulmão		Lung Cancer kirurgi	Akciğer Kanseri Cerrahisi			Intervento per cancro al polmone			dummy
 2552	LUNGS:	Lungor:	PULMONES:	PULMONES:	Lungen:	LONGEN:		POUMMONS:	POUMMONS:	LUNGER:						Paru-paru:	ΠΝΕΥΜΟΝΕΣ:		PULMÕES:	Pulmões:		Lungor:	AKCİĞERLER:			POLMONI:			dummy
@@ -3663,7 +3663,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3658	Procedure Type		Tipò del procedimiento	Tipò del procedimiento		Verrichtingen Type											Είδος Διαδικασίας						İşlem Tipi						dummy
 3659	Procedure Types		Tipos de procedimientos	Tipos de procedimientos		Verrichtingen Types											Είδη Διαδικασίας						İşlem Tipleri						dummy
 3660	Procedure Units		Unidades del procedimiento	Unidades del procedimiento		Verrichtingen eenheid											Μονάδες Διαδικασίας						İşlem Birimleri						dummy
-3661	Procedures	Förfarande 	Procedimientos	Procedimientos		Verrichtingen										Prosedur	Διαδικασίες 		Procedimentos	Procedimentos		Procedure	İşlemler			Procedure			dummy
+3661	Procedures	Förfarande 	Procedimientos	Procedimientos		Verrichtingen							Процедуры			Prosedur	Διαδικασίες 		Procedimentos	Procedimentos		Procedure	İşlemler			Procedure			dummy
 3662	Process	Process 	Proceso	Proceso		Verwerken										Proses	Επεξεργασία		Processo	Processo		Process 	İşlem 			Elabora			dummy
 3663	Process ERA File		Procesar ERA file	Procesar ERA file		Verwerk ERA bestand											Επεξεργ. αρχείου ηλεκτρον. εμβάσματος πληρωμής (ERA)						İşlem ERA Dosyası						dummy
 3664	Processing	Bearbetning 	Procesamiento	Procesamiento		Verwerking										Pengolahan	Επεξεργάζεται		Processando	Processamento		Bearbetning 	İşleniyor			Sto elaborando			dummy
@@ -3931,8 +3931,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3926	Required field missing: Please enter the User Name					Noodzakelijk veld afwezig: Usernaam invullen		Champ manquant: entrer le nom d'utilisateur svp																		Campo richiesto mancante: inserisci il nome utente			dummy
 3927	Required fields					Verplichtte velden		Champs obligatoires																		Campi richiesti			dummy
 3928	Requirements					Vastgelegde vereiste																				Requisiti			dummy
-3929	RESERVED	RESERVERAD	RESERVADO	RESERVADO		GERESERVEERD		RESERVE									ΚΡΑΤΗΜΕΝΟ		RESERVADO	RESERVADO		RESERVERET	REZERVE EDİLMİŞ			RISERVATO			dummy
-3930	Reserved	reserverad	Reservados 	Reservados 		Gereserveerd		Réservé									Απόρρητη		Reservado	Reservado		reserveret	Rezerve edilmiş			Riservato			dummy
+3929	RESERVED	RESERVERAD	RESERVADO	RESERVADO		GERESERVEERD		RESERVE					ЗАРЕЗЕРВИРОВАННО				ΚΡΑΤΗΜΕΝΟ		RESERVADO	RESERVADO		RESERVERET	REZERVE EDİLMİŞ			RISERVATO			dummy
+3930	Reserved	reserverad	Reservados 	Reservados 		Gereserveerd		Réservé					Зарезервированно				Απόρρητη		Reservado	Reservado		reserveret	Rezerve edilmiş			Riservato			dummy
 3931	Reserved for use to define Scheduled Vacation Time		Reservados para su uso para definir el Tiempo Programado de Vacaciones	Reservados para su uso para definir el Tiempo Programado de Vacaciones		Gereserveerd voor vakantie											Χρησιμοποιείται προς καθορισμό της Ώρας Προγραμματισμένων Διακοπών 		Reservado para uso para definir Tempo de Férias Marcado	Reservado para uso para definir o tempo de férias agendadas			Programlanmış Tatil Zamanını belirlemek için ayrılmıştır			Riservato al fine di definire il Tempo programmato di vancanza			dummy
 3932	Reserved to define when a provider may not have available appointments after.		Reservados para definir cuando un proveedor no podrá tener citas disponibles después. 	Reservados para definir cuando un proveedor no podrá tener citas disponibles después. 		Gereserveerd om voor behandelaar vast te leggen als er geen afspraken meer daarna gemaakt kunnen worden.											Χρησιμοποιείται για να οριστεί πότε ένας πάροχος δεν έχει διαθέσιμα ραντεβού μετά. 		Reservou para definir quando um provedor pode não ter compromissos disponíveis depois.	Reservado para definir quando um fornecedor pode não ter disponível após a nomeação.			Bir sağlayıcının daha sonra uygun randevusu olmayabileceğini belirtmek için ayrılmıştır			Riservato per definire quando un erogante non è disponibile per successivi appuntamenti.			dummy
 3933	Reserved to define when an event did not occur as specified.		Reservados para definir cuando un evento no ocurrió, tal como se especifica. 	Reservados para definir cuando un evento no ocurrió, tal como se especifica. 		Gereserveerd om vast te leggen dat gebeurtenis niet als verwacht gebeurde.											Χρησιμοποιείται για να οριστεί αν ένα συμβάν δεν συνέβη όπως προσδιορίστηκε.		Reservou para definir quando um evento não aconteceu como especificado.	Reservado para definir quando um evento não ocorreu, conforme especificado.			Bir olayın belirtildiği şekilde gerçekleşmediğini tanımlamak için ayrılmıştır			Riservato per definire quando un evento non si è verificato come specificato.			dummy
@@ -4688,8 +4688,8 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4683	Throat Cancer		Cáncer de Garganta 	Cáncer de Garganta 		Keelkanker					咽喉癌					Kanker Tenggorokan	Καρκίνος του λάρυγγα		Câncer de garganta	Cancro da garganta			Gırtlak Kanseri			Cancro alla gola			dummy
 4684	Throat Cancer Surgery		Cirugía del Cáncer de Garganta 	Cirugía del Cáncer de Garganta 		Keelkanker chirurgie					咽喉癌手术					Kanker Tenggorokan Bedah	Εγχείρηση καρκίνου του λάρυγγα		Cirurgia de Câncer de garganta	Cirurgia de Câncer de Garganta			Gırtlak Kanseri Cerrahisi			Intervento per cancro alla gola			dummy
 4685	Thrombosis/Stroke		Trombosis/Derrame Cerebral	Trombosis/Derrame Cerebral		Trombose/CVA					血栓/中风					Trombosa / Stroke	Θρόμβωση/ΑΕΕ		Thrombosis/Stroke	Trombose / Curso			Tromboz/Felç			Trombosi/Stroke			dummy
-4686	Thu	Tor	Jueves	Jueves	Do	don					星期四					Thu	Πεμ 		Qui	Qui		Tor	Perş			Gio			dummy
-4687	Thurdsay	torsdag	Jueves	Jueves	Donnerstag	Donderdag					Thurdsay					Thurdsay	Πέμπτη		Quinta	Quinta		torsdag	Perşembe			Giovedì			dummy
+4686	Thu	Tor	Jueves	Jueves	Do	don					星期四		Чет			Thu	Πεμ 		Qui	Qui		Tor	Perş			Gio			dummy
+4687	Thurdsay	torsdag	Jueves	Jueves	Donnerstag	Donderdag					Thurdsay		Четверг			Thurdsay	Πέμπτη		Quinta	Quinta		torsdag	Perşembe			Giovedì			dummy
 4688	Thursday	Torsdag 	Jueves	Jueves	Donnerstag	Donderdag					星期四		Четверг			Kamis	Πέμπτη		Quinta	Quinta-feira		Torsdag 	Perşembe			Giovedì			dummy
 4689	Thyroid normal	Sköldkörtel normal	Normal de la tiroides 	Normal de la tiroides 		Schildklier normaal					甲状腺正常					Thyroid normal	Θυρεοειδής φυσιολογικός		Normal tiróide	Tiróide normal		Sköldkörtel normal	Tiroid normal			Tiroide normale			dummy
 4690	Thyroid Problems		Problemas de la Tiroides 	Problemas de la Tiroides 		Schildklierproblemen					甲状腺问题						Προβλήμ. θυροειδη		Problemas tiróides	Problemas do Tiróide			Tiroid sorunları			Problemi alla tiroide			dummy
@@ -4844,9 +4844,9 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 4839	tsp	tesked	tsp	tsp		theelepel					小勺					tsp	κουταλάκι (5ml)		tsp	Colher(es) de chá		tesked	çay kaşığı						dummy
 4840	TTS		TTS	TTS		TTS					语音合成					Tts	Διαδερμικό θεραπευτικό σύστημα		TTS	TTS			Yazıdan Sese						dummy
 4841	Tuberculosis		Tuberculosis 	Tuberculosis 		Tuberculose		Tuberculose	Tuberculose		结核病					Tuberkulosis	Φυματίωση 		Tuberculose	Tuberculose			Tüberküloz			Tubercolosi			dummy
-4842	Tue	Tis	Martes	Martes	Di	Din		Mar.	Mar.		星期二					Selasa	Τρί		Ter	Ter		Tir	Sal			Mar			dummy
+4842	Tue	Tis	Martes	Martes	Di	Din		Mar.	Mar.		星期二		Вт			Selasa	Τρί		Ter	Ter		Tir	Sal			Mar			dummy
 4843	Tues &amp; Thur		Martes y Jueves 	Martes y Jueves 	Di - Do	Dinsd-Dond		Mar. &amp; Jeu.	Mar. &amp; Jeu.		星期二及星期四					Selasa & Kamis	Τρίτη & Πέμπτη 		Ter &amp; Qui	Ter & Qui		Tirsdag og Torsdag	Sal ve Perş			Mart &amp; Giov			dummy
-4844	Tuesday	Tisdag	Martes	Martes	Dienstag	Dinsdag		Mardi	Mardi		星期二					Selasa	Τρίτη 		Terça	Terça-feira		Tirsdag	Salı			Martedì			dummy
+4844	Tuesday	Tisdag	Martes	Martes	Dienstag	Dinsdag		Mardi	Mardi		星期二		Вторник			Selasa	Τρίτη 		Terça	Terça-feira		Tirsdag	Salı			Martedì			dummy
 4845	Tumour	Tumör	Tumor	Tumor		Tumor		Tumeur	Tumeur		肿瘤					Tumor	Όγκος		Tumor	Tumor		Tumör	Tümör			Tumore			dummy
 4846	Turkish					Turks		Turque	Turque								Τουρκικά		Turco				Türkçe			Turco			dummy
 4847	twice daily	två gånger dagligen	Dos veses al dia	Dos veses al dia		2 x daags		deux fois par jour	deux fois par jour		每天两次					dua kali sehari	δύο φορές ημερησίως		duas vezes ao dia	duas vezes por dia		To gange dagligt	Günde iki kez			due volte al dì			dummy
@@ -5078,7 +5078,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 5073	Web Search					Web search		Recherche Web	Recherche Web								Αναζήτηση στο δίκτυο			Busca online						Ricerca Web			dummy
 5074	Website	Hemsida	Sitio Web 	Sitio Web 		Website		Site Web	Site Web	Web side	网站		Вебсайт			Website	Ιστοσελίδα		Website	Website		Hjemmeside	Web Sitesi			Sito Web			dummy
 5075	Website link for the Onsite Patient Portal.					Website link voor de Onsite Patient Portal.											Σύνδεσμος ιστοσελίδας του Portal του Ασθενούς									Collegamento al sito web del Portale Paziente Onsite.			dummy
-5076	Wed	Ons	Miércoles	Miércoles		Woe		mer.	mer.	Ons	星期三					Rabu	Τετ		Qua	Qua		Ons	Çar			Mer	बुध		dummy
+5076	Wed	Ons	Miércoles	Miércoles		Woe		mer.	mer.	Ons	星期三		Ср			Rabu	Τετ		Qua	Qua		Ons	Çar			Mer	बुध		dummy
 5077	Wednesday	Onsdag 	Miércoles	Miércoles		Woensdag		Mercredi	Mercredi	Onsdag	星期三		Среда			Rabu	Τετάρτη		Quarta	Quarta-feira		Onsdag 	Çarşamba			Mercoledì	बुधवार		dummy
 5078	week	vecka 	semana	semana		week		semaine	semaine	uke	周		неделя			minggu	εβδομάδα 		semana	semana		uge	hafta			settimana	सप्ताह		dummy
 5079	Week	Vecka 	Semana	Semana		week		Semaine	Semaine	Uke	周		Неделя			Minggu	Εβδομάδα 		Semana	Semana		Uge	Hafta 			Settimana	सप्ताह		dummy
