@@ -5289,20 +5289,20 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 5284	+ Chart pulled		Historia Clínica retirada	Historia Clínica retirada		+ Status opgezocht		+ Diagramme retiré	+ Diagramme retiré		图表展开了		\"+\" Диаграмма сделана			+ Chart diambil	(+) Φάκελος ανεσύρθη			Carta puxado		#ERROR!:parse	*+ Çizelge çekildi						dummy
 5285	- None		-Ninguno	-Ninguno	- kein	- Geen		- Aucun	- Aucun								- Κανένα		- Nenhum				- Hiç			- Nessuno			dummy
 5286	.	.	.	.	.	.											.		.	.		.	- 			.			dummy
-5287	0				0	0											0		0				0			0			dummy
+5287	0		0		0	0											0		0				0			0			dummy
 5288	0-10	0-10	0-10	0-10	0-10	0-10				0-10						0-10	0-10		0-10	0-10		0-10	0-10			0-10			dummy
-5289	0-24					0-24											0-24		0-24				0-24			0-24			dummy
-5290	1				1	1											1		1				1			1			dummy
+5289	0-24		0-24			0-24											0-24		0-24				0-24			0-24			dummy
+5290	1		1		1	1											1		1				1			1			dummy
 5291	1 = North America. See http://www.wtng.info/ for a list of other country codes.					1 - Noord Amerika. See http://www.wtng.info/ voor een lijst met ander Landen Codes 		1 = Amérique du Nord. Voir http://www.wtng.info/ pour la liste des codes des autres pays.	1 = Amérique du Nord. Voir http://www.wtng.info/ pour la liste des codes des autres pays.								30 = Ελλάς. Αναφερθείτε στο http://www.wtng.info/ για λίστα κωδικών άλλων κρατών.						1 = Kuzey Amerika. Diğer ülke kodları için http://www.wtng.info/ 			1 = Nord America. Vedi http://www.wtng.info/ per un elenco degli altri codici nazionali.			dummy
 5292	1.Rest 2. Ice for two days 3. Compression, leave the dressing in place unless the foot develops numbness or pale color 4. Elevate the foot and leg	1.Vila 2. Lägg på is i två dagar 3. Komprimering lämna förbandet på plats om inte foten utvecklar domningar eller blek färg 4. Ha foten och ben i Upphöjt läge.	1. Descanso 2. Hielo por dos días 3. Compresión, dejar el vendaje en su lugar a menos que el pie presente hormigueo o color pálido 4. Elevar la pierna y el pie	1. Descanso 2. Hielo por dos días 3. Compresión, dejar el vendaje en su lugar a menos que el pie presente hormigueo o color pálido 4. Elevar la pierna y el pie		1. Rust houden 2. IJscompressen gedurende twee dagen 3. Druk uitoefenen, laat verband zitten tenzij de voet gevoelloos wordt of bleek 4. Voet en been hoogleggen		1. Repos 2. Glace pour deux jours 3. Compression, laissez le pansement en place à moins que le pied ne développe un engourdissement ou a une couleur pâle 4. Surélever le pied et la jambe	1. Repos 2. Glace pour deux jours 3. Compression, laissez le pansement en place à moins que le pied ne développe un engourdissement ou a une couleur pâle 4. Surélever le pied et la jambe		1. 休息 2. 敷冰两天 3. 压紧, 脚不麻木或不显苍白色,将绑带保持好位置					1.Rest 2. Es selama dua hari 3. Kompresi, meninggalkan dressing kecuali di tempat kaki mengembangkan rasa atau warna pucat 4. Meninggikan kaki dan kaki	1.Ανάπαυση 2. Πάγος για δύο ημέρες 3. Συμπίεση, αφήστε την πίεση στη θέση της, εκτός αν το πόδι αναπτύξει μούδιασμα ή ωχρό χρώμα 4. Ανυψώστε το πόδι και το κάτω άκρο	1.Rest 2. Ice for two days 3. Compression, leave the dressing in place unless the foot develops numbness or pale colour 4. Elevate the foot and leg	1.Descanso 2. Gelo durante dois dias 3. Compressão, mantém ligadura a menos que o pé fique hipostésico ou pálido. 4. Elevar pé e perna	1.Rest 2. Gelo durante dois dias 3. Compressão, deixar o curativo no local a menos que o pé se desenvolve dormência ou cor pálida 4. Elevar o pé e perna		1.Vila 2. Lägg på is i två dagar 3. Komprimering lämna förbandet på plats om inte foten utvecklar domningar eller blek färg 4. Ha foten och ben i Upphöjt läge.	1.İstirahat 2.İki gün buz 3. Kompresyon ayakta solukluk veya uyuşma oluncaya kadar sargıyı yerinde bırak 4. Ayak ve bacağı yükselt			1.Riposo 2.Ghiaccio per due giorni 3 Compressione, mantieni il bendaggio a meno che il piede non sviluppi  insensibilità o colore pallido. 4.Tieni piede e gamba in alto			dummy
 5293	11-14	11/14/09	11/14/09	11/14/09	11/14/10	11/14/09										11/14/09	11/14/10		11/14/09	11/14/09		11/14/09	11/14/10			11-14			dummy
-5294	12 hr					12 uur		12 H	12 H								12 ώρ		12 hr				12 saat			12 hr			dummy
+5294	12 hr		12 hr			12 uur		12 H	12 H								12 ώρ		12 hr				12 saat			12 hr			dummy
 5295	15-19	15-19	15-19	15-19	15-19	15-19										15-19	15-19		15-19	15-19		15-19	15-19			15-19			dummy
-5296	2				2	2											2		2				2			2			dummy
+5296	2		2		2	2											2		2				2			2			dummy
 5297	20-24	20-24	20-24	20-24	20-24	20-24										20-24	20-24		20-24	20-24		20-24	20-24			20-24			dummy
 5298	2111-13	2111-13	2111-13	2111-13	2111-13	2111-13										2111-13	2111-13		2111-13	2111-13		2111-13	2111-13						dummy
-5299	24 hr					24 uur		24 H	24 H								24 ωρ		24 hr				24 saat			24 hr			dummy
-5300	25+					25											25+		25			25+	25			25+			dummy
+5299	24 hr		24 hr			24 uur		24 H	24 H								24 ωρ		24 hr				24 saat			24 hr			dummy
+5300	25+		25+			25											25+		25			25+	25			25+			dummy
 5301	25-29	25-29	25-29	25-29	25-29	25-29										25-29	25-29		25-29	25-29		25-29	25-29			25-29			dummy
 5302	2nd	2:a	2da	2da	2te	2e		2ème	2ème								2ο		2º	2		2:a	2inci			2°			dummy
 5303	3 months	3 månader 	3 meses	3 meses	3 Monate	3 maanden		3 mois	3 mois	3 måneder	三个月					3 bulan	3 μήνες		3 meses	3 meses		3 måneder	3 ay			3 mesi			dummy
@@ -5313,7 +5313,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 5308	4 months	4 månader 	4 meses	4 meses	4 Monate	4 maanden		4 mois	4 mois	4 måneder	四个月					4 bulan	4 μήνες		4 meses	4 meses		4 måneder	4 ay			4 mesi			dummy
 5309	4 times daily	4 gånger dagligen 	4 veces al día	4 veces al día	4 mal täglich	4 x daags		4 fois par jour	4 fois par jour	4 ganger daglig	每天四次					4 kali sehari-hari	4 φορές ημερησίως		4 vezes ao dia	4 vezes ao dia		4 gange om dagen	Günde 4 kez			4 volte al dì			dummy
 5310	40-44	40-44 	40-44	40-44	40-44	40-44										40-44	40-44		40-44	40-44		40-44 	40-44			40-44			dummy
-5311	45+	45	45	45	45	45										45	45		45	45		45+	45			45+			dummy
+5311	45+	45	45+	45	45	45										45	45		45	45		45+	45			45+			dummy
 5312	465.9, URI		465,9, URI	465,9, URI		465.9, Bovenste luchtweg inf					465.9, 上呼吸道感染					465,9, URI	465.9, λοίμωξη ανώτερου ουροποιητικού		465.9, URI,	465,9, URI			465.9, IYE						dummy
 5313	466.0, Bronchitis, Acute NOS		466.0, Bronquitis, Aguda	466.0, Bronquitis, Aguda		466.0 Bronchitis, Acuut Niet nader gespecificeerd		466.0, Bronchite, Aiguë NOS	466.0, Bronchite, Aiguë NOS	466.0, akut bronkit	466.0, 急性支气管炎 NOS					466,0, bronkitis, akut NOS	466.0, Βρογχίτιδα, Οξεία Συνθετάση του ΝΟ		466.0, Bronquite aguda SOE	466,0, Bronquite aguda SOE			466.0, Bronşit, Akut, başka türlü sınıflandırılmamış						dummy
 5314	486.0, Pneumonia, Acute		486.0, Neumonía, Aguda	486.0, Neumonía, Aguda		486.0, Pneumonie, Acuut		486.0, Pneumonie, Aiguë	486.0, Pneumonie, Aiguë		486.0, 小儿急性肺炎					486,0, radang paru-paru, akut	486.0, Πνευμονία, οξεία 		486.0, Pneumonia aguda	486,0, Pneumonia aguda			486.0, Pnömoni, Akut						dummy
