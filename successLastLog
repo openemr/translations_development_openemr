@@ -6,7 +6,7 @@ Success:
 589c589
 < Total number of real definitions: 41056
 ---
-> Total number of real definitions: 55226
+> Total number of real definitions: 55238
 591c591
 < Arabic: 15.35% (822 definitions)
 ---
@@ -28,16 +28,16 @@ Success:
 > French (Standard): 48.26% (2584 definitions)
 > German: 31.42% (1682 definitions)
 > Greek: 87.82% (4702 definitions)
-606c607
+606,611c607,613
 < Italian: 6.18% (331 definitions)
----
-> Italian: 78.2% (4187 definitions)
-608,611c609,613
+< Norwegian: 16.83% (901 definitions)
 < Polish: 0.19% (10 definitions)
 < Portuguese (Brazilian): 63.37% (3393 definitions)
 < Portuguese (European): 71.16% (3810 definitions)
 < Russian: 7% (375 definitions)
 ---
+> Italian: 78.2% (4187 definitions)
+> Norwegian: 17.05% (913 definitions)
 > Polish: 3.14% (168 definitions)
 > Portuguese (Brazilian): 67.39% (3608 definitions)
 > Portuguese (European): 73.01% (3909 definitions)
