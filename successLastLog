@@ -2,23 +2,25 @@ Success:
 587c587
 < Total number of languages with translations: 20
 ---
-> Total number of languages with translations: 22
+> Total number of languages with translations: 23
 589c589
 < Total number of real definitions: 41056
 ---
-> Total number of real definitions: 55869
+> Total number of real definitions: 62813
 591c591
 < Arabic: 15.35% (822 definitions)
 ---
 > Arabic: 22.32% (1195 definitions)
-596c596
+596,599c596,599
 < Danish: 45.05% (2412 definitions)
+< dummy: 100% (5354 definitions)
+< Dutch: 96.73% (5179 definitions)
+< English (Indian): 2.19% (117 definitions)
 ---
 > Danish: 58.72% (3144 definitions)
-598c598
-< Dutch: 96.73% (5179 definitions)
----
+> dummy: 0% ( definitions)
 > Dutch: 99.94% (5351 definitions)
+> English (Indian): 2.22% (119 definitions)
 601,603c601,604
 < French: 37.64% (2015 definitions)
 < German: 27.87% (1492 definitions)
@@ -27,7 +29,7 @@ Success:
 > French (Canadian): 42.73% (2288 definitions)
 > French (Standard): 48.26% (2584 definitions)
 > German: 31.42% (1682 definitions)
-> Greek: 90.81% (4862 definitions)
+> Greek: 93.63% (5013 definitions)
 606,611c607,613
 < Italian: 6.18% (331 definitions)
 < Norwegian: 16.83% (901 definitions)
@@ -43,7 +45,7 @@ Success:
 > Portuguese (European): 73.01% (3909 definitions)
 > Romanian: 0% (0 definitions)
 > Russian: 21.95% (1175 definitions)
-613,615c615,618
+613,615c615,619
 < Spanish: 76.35% (4088 definitions)
 < Swedish: 45.83% (2454 definitions)
 < Turkish: 87.8% (4701 definitions)
@@ -52,3 +54,4 @@ Success:
 > Spanish (Spain): 78.17% (4185 definitions)
 > Swedish: 45.85% (2455 definitions)
 > Turkish: 92.6% (4958 definitions)
+> Vietnamese: 126.84% (6791 definitions)
