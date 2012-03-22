@@ -6,7 +6,7 @@ Success:
 589c589
 < Total number of real definitions: 41056
 ---
-> Total number of real definitions: 65476
+> Total number of real definitions: 65475
 591c591
 < Arabic: 15.35% (822 definitions)
 ---
@@ -19,7 +19,7 @@ Success:
 < Dutch: 96.73% (5179 definitions)
 < English (Indian): 2.19% (117 definitions)
 ---
-> Dutch: 99.98% (5353 definitions)
+> Dutch: 99.96% (5352 definitions)
 > English (Indian): 2.22% (119 definitions)
 601,603c601,604
 < French: 37.64% (2015 definitions)
