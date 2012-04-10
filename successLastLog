@@ -6,7 +6,7 @@ Success:
 589c589,590
 < Total number of real definitions: 41056
 ---
-> Total number of real definitions: 65576
+> Total number of real definitions: 65579
 > Albanian: 0.93% (50 definitions)
 591c592
 < Arabic: 15.35% (822 definitions)
@@ -30,7 +30,7 @@ Success:
 > French (Canadian): 42.73% (2288 definitions)
 > French (Standard): 48.26% (2584 definitions)
 > German: 31.42% (1682 definitions)
-> Greek: 94.42% (5055 definitions)
+> Greek: 94.47% (5058 definitions)
 606,611c608,615
 < Italian: 6.18% (331 definitions)
 < Norwegian: 16.83% (901 definitions)
