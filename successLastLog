@@ -9,35 +9,37 @@ Success:
 < Arabic: 21.65% (1195 definitions)
 ---
 > Arabic: 21.74% (1200 definitions)
-596,597c596,597
+594a595
+> Bengali: 0% (0 definitions)
+596,597c597,598
 < Chinese (Traditional): 0.13% (7 definitions)
 < Czech: 0.25% (14 definitions)
 ---
 > Chinese (Traditional): 96.41% (5321 definitions)
 > Czech: 11.8% (651 definitions)
-600c600
+600c601
 < Dutch: 97.01% (5354 definitions)
 ---
 > Dutch: 99.86% (5511 definitions)
-603,604c603,604
+603,604c604,605
 < French (Canadian): 41.46% (2288 definitions)
 < French (Standard): 46.82% (2584 definitions)
 ---
 > French (Canadian): 41.55% (2293 definitions)
 > French (Standard): 47.27% (2609 definitions)
-606c606
+606c607
 < Greek: 91.74% (5063 definitions)
 ---
 > Greek: 94.17% (5197 definitions)
-616c616
+616c617
 < Russian: 94.33% (5206 definitions)
 ---
 > Russian: 99.95% (5516 definitions)
-619c619
+619c620
 < Spanish (Spain): 75.83% (4185 definitions)
 ---
 > Spanish (Spain): 98.75% (5450 definitions)
-622c622
+622c623
 < Ukrainian: 0.22% (12 definitions)
 ---
 > Ukrainian: 100% (5519 definitions)
