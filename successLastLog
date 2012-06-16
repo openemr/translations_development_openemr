@@ -3,7 +3,7 @@ Success:
 < Total number of real definitions: 65615
 < Albanian: 0.96% (53 definitions)
 ---
-> Total number of real definitions: 84697
+> Total number of real definitions: 84973
 > Albanian: 7.94% (438 definitions)
 592c592
 < Arabic: 21.65% (1195 definitions)
@@ -15,11 +15,11 @@ Success:
 < Chinese (Traditional): 0.13% (7 definitions)
 < Czech: 0.25% (14 definitions)
 ---
-> Bahasa Indonesia: 75.61% (4173 definitions)
+> Bahasa Indonesia: 79.83% (4406 definitions)
 > Bengali: 0% (0 definitions)
 > Chinese (Simplified): 99.89% (5513 definitions)
 > Chinese (Traditional): 96.41% (5321 definitions)
-> Czech: 11.8% (651 definitions)
+> Czech: 12.57% (694 definitions)
 600c601
 < Dutch: 97.01% (5354 definitions)
 ---
