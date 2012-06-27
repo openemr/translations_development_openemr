@@ -3488,7 +3488,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 3483	Placeholder		Marcador de posición 	Marcador de posición 		Placeholder					占位符	佔位	Метка-заполнитель			Placeholder			Placeholder	Espaço reservado			Yer tutucu			Segnaposto			Giữ chỗ				Заповнювач		dummy
 3484	Placeholder (Maintains empty ACLs)		Marcador de posición (Mantiene vacia ACL) 	Marcador de posición (Mantiene vacia ACL) 		Placeholder (vult lege ACLs op)					占位符（保持空的ACL）	佔位（保持空的ACL）	Метка-заполнитель (поддерживает пустой ACLs)			Placeholder (Menjaga ACL kosong)			Placeholder (Mantém ACLs vazio)	Espaço reservado (Mantém vazio ACLs)			Yer tutucu (Boş ACL leri sürdürür)			Segnaposto (Mantiene in bianco le ACL)			Giữ chỗ (duy trì ACL trống)				Заповнювач (підтримує пустий ACLs)		dummy
 3485	Plain Text	Vanlig text	Texto sin Formato	Texto sin Formato		Vlakke tekst					纯文本	純文字	Простой текст			Teks Biasa	Απλό κείμενο 		Texto Simples	Plain Text		Vanlig text	Düz Metin			Solo testo			Plain Text				Простий текст		dummy
-3486	Plan		Plan	Plan		Plan					计划	計劃	План			Rencana	Οδηγίες		Plano	Conduta			Plan	Plan		Piano			Kế hoạch				План		dummy
+3486	Plan		Plan	Plan		Plan					计划	計劃	План			Rencana	Θεραπευτική Αγωγή		Plano	Conduta			Plan	Plan		Piano			Kế hoạch				План		dummy
 3487	Plan Name		Nombre del Plan	Nombre del Plan		Naam plan					计划名称	計畫名稱	Название программы			Nama Rencana	Όνομα πλάνου		Nome de Plano	Nome do Plano			Plan İsmi			Nome del Piano			Tên Chương Trình				Назва плану		dummy
 3488	Plan Set		Ajuste Planes			Plan set					计划集	計劃設定	Установка программы			Set Rencana													Kế hoạch Set				Установка плану		dummy
 3489	Plan:		Plan:	Plan:		Plan:					计划：	計劃：	План:			Rencana:	Πλάνο:		Plano:	Plano:			Plan:	Plan:		Piano:			Kế hoạch:				План:		dummy
