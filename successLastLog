@@ -2,8 +2,12 @@ Success:
 589c589
 < Total number of real definitions: 86241
 ---
-> Total number of real definitions: 86348
+> Total number of real definitions: 86359
 601c601
 < Dutch: 95.96% (5511 definitions)
 ---
 > Dutch: 97.82% (5618 definitions)
+613c613
+< Polish: 11.67% (670 definitions)
+---
+> Polish: 11.86% (681 definitions)
