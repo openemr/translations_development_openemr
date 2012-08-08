@@ -2,7 +2,7 @@
 Language Statistics:
 Total number of languages with translations: 27
 Total number of constants: 5743
-Total number of real definitions: 87075
+Total number of real definitions: 87079
 Albanian: 7.63% (438 definitions)
 Arabic: 21.26% (1221 definitions)
 Bahasa Indonesia: 96.01% (5514 definitions)
@@ -29,4 +29,4 @@ Spanish (Spain): 99.56% (5718 definitions)
 Swedish: 42.75% (2455 definitions)
 Turkish: 87.15% (5005 definitions)
 Ukrainian: 99.88% (5736 definitions)
-Vietnamese: 96.4% (5536 definitions)
+Vietnamese: 96.47% (5540 definitions)
