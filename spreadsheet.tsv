@@ -5042,7 +5042,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 5037	Titles		Títulos 	Títulos 		Titels					标题	標題	Обращения			Judul	Τίτλοι 		Títulos	Queixas		Titler	Başlıklar			Titoli			Danh xưng				Назви		dummy
 5038	TM\'S:		TM\'S:	TM\'S:		TM\'S:					商标的：	商標“S：	TM\'S:			TM\'S:			TM \'S:	TMs / AEM / EE, ext nariz			Boğaz Ağız:						TM \'S:				TM\'S:		dummy
 5039	TMs/EAMs/EE, ext nose		TMs/EAMs/EE, ext nariz	TMs/EAMs/EE, ext nariz		TMs / EAM\'s / EE, ext neus					颅/季风/电子，外鼻	TMS/ EAMS/ EE，外鼻子	Наружный нос, TMs/EAMs/EE			TMs/EAMs/EE, ext nose	Τυμπανική μεμβράνη/Έξω ακουστικοί πόροι/έξω ους, έξω ρις		TMs/EAMs/EE, nariz de ext,	TMs			Boğaz ağız,Dış kulak yolu,dış kulak, burun:						TMS / EAMs / EE, ext mũi				Зовнішній ніс, TMs/EAMs/EE		dummy
-5040	To	Till 	Para	Para	Zu	Tot/Tav					至	至	по			Ke	Προς/Μέχρι		Para	Para		Til	Bitiş			A			Đến				по		dummy
+5040	To	Till 	Para	Para	Zu	Tot					至	至	по			Ke	Προς/Μέχρι		Para	Para		Til	Bitiş			A			Đến				по		dummy
 5041	TO	TILL	PARA	PARA	ZU	NAAR					至	至	ДО			KE	Προς/Μέχρι		PARA	TO		TIL	BİTİŞ			A			ĐẾN				ДО		dummy
 5042	to	till 	para	para	zu	tot/tav					至	至	до			ke	Προς/Μέχρι		para	para		til	bitiş			al percorso assoluto del file			để				до		dummy
 5043	to absolute path of file		Hacia la ruta absoluta del file	Hacia la ruta absoluta del file		naar absolute pad van bestand					绝对路径的文件	到文件的絕對路徑	в абсолютном пути файла			ke path absolut dari file	στην απόλυτη διαδρομή του αρχείου						dosyanın mutlak yoluna			al percorso assoluto del file			đường dẫn tuyệt đối của tập tin				в абсолютному шляху файлу		dummy
