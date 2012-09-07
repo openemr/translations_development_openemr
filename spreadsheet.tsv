@@ -5524,7 +5524,7 @@ cons_id	constant_name	definition	definition	definition	definition	definition	def
 5519	Year View	År Visa 	Ver año	Ver año	Jahresansicht	Jaaroverzicht		Vue Annuelle	Vue Annuelle	År oversikt	今年查看	年視圖	Обзор за год			Lihat Tahun	Προβολή Χρονιάς		Ver Ano	Ver Ano		Vis År	Yıl Görünümü			Vista Annuale			Theo năm				Огляд за рік		dummy
 5520	Year(s)	År	Año(s)	Año(s)	Jahr(e)	Jaar(en)		Année(s)	Année(s)	År	年份	年	Год(ы)			Tahun	Έτος(η) 		Ano(s)	Ano (s)		År	Yıl(lar)			Anno(i)			Năm				Рік(роки)		dummy
 5521	Years		Años			Jaren		Années	Années		岁	年	Годы			Tahun	Έτη					År				Anni			Năm				Роки		dummy
-5522	YES	JA 	SI	SI	JA	JA		OUI	OUI	JA	是	年	ДА			YA	ΝΑΙ		SIM	SIM		JA 	EVET			SI			CÓ				ТАК		dummy
+5522	YES	JA 	SI	SI	JA	Ja		OUI	OUI	JA	是	年	ДА			YA	ΝΑΙ		SIM	SIM		JA 	EVET			SI			CÓ				ТАК		dummy
 5523	Yes	Ja 	Si	Si	Ja	Ja		Oui	Oui	Ja	是	是	Да			Ya	Ναι		Sim	Sim		Ja 	Evet 			Si			Có				Так		dummy
 5524	yes	ja 	si	si	ja	ja		oui	oui	ja	是	是	да			ya	ναι		sim	sim		ja 	evet 			si			có				так		dummy
 5525	YES!	JA! 	SI!	SI!	JA!	JA !!		OUI!	OUI!	JA!	是！	是的﹗	ДА!			YA!	ΝΑΙ!		SIM!	SIM!		JA! 	EVET!			SI!			CÓ!				ТАК!		dummy
