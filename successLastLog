@@ -2,12 +2,12 @@ Success:
 587c587
 < Total number of languages with translations: 27
 ---
-> Total number of languages with translations: 28
+> Total number of languages with translations: 29
 589,590c589,590
 < Total number of real definitions: 86241
 < Albanian: 7.63% (438 definitions)
 ---
-> Total number of real definitions: 94638
+> Total number of real definitions: 94750
 > Albanian: 17.83% (1024 definitions)
 592c592
 < Arabic: 21.26% (1221 definitions)
@@ -48,15 +48,16 @@ Success:
 < Italian: 72.91% (4187 definitions)
 ---
 > Italian: 94.13% (5406 definitions)
-613c614
+613c614,615
 < Polish: 11.67% (670 definitions)
 ---
+> Persian: 1.95% (112 definitions)
 > Polish: 11.88% (682 definitions)
-617c618
+617c619
 < Russian: 96.05% (5516 definitions)
 ---
 > Russian: 97.02% (5572 definitions)
-619,624c620,625
+619,624c621,626
 < Spanish (Latin American): 74.28% (4266 definitions)
 < Spanish (Spain): 94.9% (5450 definitions)
 < Swedish: 42.75% (2455 definitions)
