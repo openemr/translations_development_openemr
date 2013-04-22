@@ -7,7 +7,7 @@ Success:
 < Total number of real definitions: 86241
 < Albanian: 7.63% (438 definitions)
 ---
-> Total number of real definitions: 97918
+> Total number of real definitions: 98025
 > Albanian: 17.83% (1024 definitions)
 592c592
 < Arabic: 21.26% (1221 definitions)
@@ -51,7 +51,7 @@ Success:
 613c614,615
 < Polish: 11.67% (670 definitions)
 ---
-> Persian: 48.84% (2805 definitions)
+> Persian: 50.1% (2877 definitions)
 > Polish: 11.88% (682 definitions)
 617c619
 < Russian: 96.05% (5516 definitions)
@@ -65,8 +65,8 @@ Success:
 < Ukrainian: 96.1% (5519 definitions)
 < Vietnamese: 94.2% (5410 definitions)
 ---
-> Spanish (Latin American): 99.2% (5697 definitions)
-> Spanish (Spain): 99.58% (5719 definitions)
+> Spanish (Latin American): 99.79% (5731 definitions)
+> Spanish (Spain): 99.6% (5720 definitions)
 > Swedish: 42.85% (2461 definitions)
 > Turkish: 87.15% (5005 definitions)
 > Ukrainian: 99.88% (5736 definitions)
