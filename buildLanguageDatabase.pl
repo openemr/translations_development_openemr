@@ -549,7 +549,7 @@ CREATE TABLE `lang_definitions` (
   `def_id` int(11) NOT NULL auto_increment,
   `cons_id` int(11) NOT NULL default '0',
   `lang_id` int(11) NOT NULL default '0',
-  `definition` mediumtext CHARACTER SET utf8,
+  `definition` mediumtext,
   UNIQUE KEY `def_id` (`def_id`),
   KEY `cons_id` (`cons_id`) 
 ) ENGINE=MyISAM AUTO_INCREMENT=".$tempCounter." ;
