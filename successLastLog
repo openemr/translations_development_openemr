@@ -44,20 +44,21 @@ Success:
 < Hindi: 1.34% (77 definitions)
 ---
 > Hindi: 3.73% (214 definitions)
-611c612
+611c612,613
 < Italian: 72.91% (4187 definitions)
 ---
 > Italian: 94.22% (5411 definitions)
-613c614,615
+> Lithuanian: 0% (0 definitions)
+613c615,616
 < Polish: 11.67% (670 definitions)
 ---
 > Persian: 52.12% (2993 definitions)
 > Polish: 11.89% (683 definitions)
-617c619
+617c620
 < Russian: 96.05% (5516 definitions)
 ---
 > Russian: 97.02% (5572 definitions)
-619,624c621,626
+619,624c622,627
 < Spanish (Latin American): 74.28% (4266 definitions)
 < Spanish (Spain): 94.9% (5450 definitions)
 < Swedish: 42.75% (2455 definitions)
