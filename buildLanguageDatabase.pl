@@ -1,14 +1,15 @@
 #!/usr/bin/perl
 #
+# Copyright (C) 2009-2013 Brady Miller <brady@sparmy.com>
+#
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation; either version 2 of the License, or
 # (at your option) any later version.
 #
-# author Brady Miller
-# email  brady@sparmy.com
-# date   04/03/09
-#
+# Author   Brady Miller <brady@sparmy.com>
+# Author   Ramin Moshiri <raminmoshiri@gmail.com> 
+# 
 # This is a perl script that will build the language translation sql
 # dumpfiles from the tab delimited language translation spreadsheet.
 # It will create two output dumpfiles:
@@ -41,9 +42,8 @@ use strict;
 # constants that get modified during the pipeline and don't look
 # like originals in the end. If this number increases, a english constant
 # was likely modified in the spreadsheet, and can then use log output
-# to localize and fix the problem.  As of list of 3.0.1 constants
-# the known number of mismatched constants is 57 .
-my $mismatchesKnown = 95;
+# to localize and fix the problem.
+my $mismatchesKnown = 101;
 
 # Hold variables to calculate language database statistics
 my $totalConstants;
@@ -392,14 +392,16 @@ sub createLanguages() {
  my @numberRow = split($de,$page[$languageNumRow]);
  my @idRow = split($de,$page[$languageIdRow]);
  my @nameRow = split($de,$page[$languageNameRow]);
+ $tempReturn .= "INSERT INTO `lang_languages`   (`lang_id`, `lang_code`, `lang_description`) VALUES\n";
  for (my $i = $constantColumn; $i < @numberRow; $i++) {
-  $tempReturn .= "INSERT INTO `lang_languages` VALUES (".$numberRow[$i].", '".$idRow[$i]."', '".$nameRow[$i]."');\n";
+  $tempReturn .= "(".$numberRow[$i].", '".$idRow[$i]."', '".$nameRow[$i]."'),\n";
   $tempCounter = $numberRow[$i];
      
   # set up for statistics later
   push (@languages, $nameRow[$i]);
   $numberConstantsLanguages[$numberRow[$i]-1] = 0;
  }
+ $tempReturn  =~ s/,\n$/;\n/;
  $tempCounter += 1;
 
  # create header
@@ -450,13 +452,15 @@ sub createConstants() {
  # create table input
  my $tempReturn;
  my $tempCounter; 
+ $tempReturn .= "INSERT INTO `lang_constants`   (`cons_id`, `constant_name`) VALUES\n";
  for (my $i = $constantRow; $i < @page; $i++) {
   my @tempRow = split($de,$page[$i]);
   my $tempId = $tempRow[$constantIdColumn];
   my $tempConstant = $tempRow[$constantColumn];
-  $tempReturn .= "INSERT INTO `lang_constants` VALUES (".$tempId.", '".$tempConstant."');\n";
+  $tempReturn .= "(".$tempId.", '".$tempConstant."'),\n";
   $tempCounter = $tempId;
  }
+ $tempReturn  =~ s/,\n$/;\n/;
  $tempCounter += 1; 
 
  # create header
@@ -524,7 +528,7 @@ sub createDefinitions() {
     $tempReturn .= "INSERT INTO `lang_definitions` VALUES (".$counter.", ".$tempId.", ".$tempLangNumber.", '".$tempDefinition."');\n";
     $tempCounter = $counter;
     $counter += 1;
-       
+     
     # set up for statistics
     $numberConstantsLanguages[($tempLangNumber - 1)] += 1;
    }
