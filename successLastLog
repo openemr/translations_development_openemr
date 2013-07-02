@@ -2,11 +2,11 @@ Success:
 625c625
 < Total number of real definitions: 98200
 ---
-> Total number of real definitions: 100060
+> Total number of real definitions: 100215
 628c628
 < Arabic: 26.89% (1654 definitions)
 ---
-> Arabic: 30.12% (1853 definitions)
+> Arabic: 31.53% (1940 definitions)
 637c637
 < Dutch: 93.34% (5742 definitions)
 ---
@@ -24,4 +24,4 @@ Success:
 662c662
 < Ukrainian: 93.24% (5736 definitions)
 ---
-> Ukrainian: 98.85% (6081 definitions)
+> Ukrainian: 99.95% (6149 definitions)
