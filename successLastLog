@@ -1,8 +1,12 @@
 Success:
+623c623
+< Total number of languages with translations: 29
+---
+> Total number of languages with translations: 30
 625c625
 < Total number of real definitions: 98200
 ---
-> Total number of real definitions: 102132
+> Total number of real definitions: 102156
 628c628
 < Arabic: 26.89% (1654 definitions)
 ---
@@ -21,6 +25,10 @@ Success:
 < Italian: 87.96% (5411 definitions)
 ---
 > Italian: 100% (6152 definitions)
+655c655
+< Romanian: 0% (0 definitions)
+---
+> Romanian: 0.39% (24 definitions)
 662,663c662,663
 < Ukrainian: 93.24% (5736 definitions)
 < Vietnamese: 90.05% (5540 definitions)
