@@ -6,7 +6,7 @@ Success:
 625c625
 < Total number of real definitions: 98200
 ---
-> Total number of real definitions: 103106
+> Total number of real definitions: 103117
 628c628
 < Arabic: 26.89% (1654 definitions)
 ---
@@ -30,11 +30,11 @@ Success:
 651c651
 < Persian: 48.65% (2993 definitions)
 ---
-> Persian: 49.51% (3046 definitions)
+> Persian: 49.61% (3052 definitions)
 655c655
 < Romanian: 0% (0 definitions)
 ---
-> Romanian: 14.6% (898 definitions)
+> Romanian: 14.68% (903 definitions)
 662,663c662,663
 < Ukrainian: 93.24% (5736 definitions)
 < Vietnamese: 90.05% (5540 definitions)
