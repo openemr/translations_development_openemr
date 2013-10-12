@@ -6,11 +6,11 @@ Success:
 625c625
 < Total number of real definitions: 98200
 ---
-> Total number of real definitions: 106057
+> Total number of real definitions: 106214
 628c628
 < Arabic: 26.89% (1654 definitions)
 ---
-> Arabic: 89.09% (5481 definitions)
+> Arabic: 91.47% (5627 definitions)
 637c637
 < Dutch: 93.34% (5742 definitions)
 ---
@@ -32,7 +32,7 @@ Success:
 < Polish: 11.1% (683 definitions)
 < Portuguese (Brazilian): 58.65% (3608 definitions)
 ---
-> Persian: 52.88% (3253 definitions)
+> Persian: 53.06% (3264 definitions)
 > Polish: 23.29% (1433 definitions)
 > Portuguese (Brazilian): 59.48% (3659 definitions)
 655c655
