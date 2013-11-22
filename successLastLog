@@ -6,7 +6,7 @@ Success:
 625c625
 < Total number of real definitions: 98200
 ---
-> Total number of real definitions: 106945
+> Total number of real definitions: 107375
 628c628
 < Arabic: 26.89% (1654 definitions)
 ---
@@ -24,7 +24,7 @@ Success:
 646c646
 < Hindi: 3.48% (214 definitions)
 ---
-> Hindi: 7.05% (434 definitions)
+> Hindi: 14.04% (864 definitions)
 648,649c648,649
 < Italian: 87.96% (5411 definitions)
 < Lithuanian: 0% (0 definitions)
