@@ -6,7 +6,7 @@ Success:
 625c625
 < Total number of real definitions: 98200
 ---
-> Total number of real definitions: 114866
+> Total number of real definitions: 114895
 627,628c627,628
 < Amharic: 0% (0 definitions)
 < Arabic: 26.89% (1654 definitions)
@@ -17,12 +17,14 @@ Success:
 < Dutch: 93.34% (5742 definitions)
 ---
 > Dutch: 100% (6152 definitions)
-641,644c641,644
+640,644c640,644
+< Estonian: 10.92% (672 definitions)
 < French (Canadian): 37.6% (2313 definitions)
 < French (Standard): 42.47% (2613 definitions)
 < German: 72.59% (4466 definitions)
 < Greek: 88.74% (5459 definitions)
 ---
+> Estonian: 11.39% (701 definitions)
 > French (Canadian): 38.02% (2339 definitions)
 > French (Standard): 48.34% (2974 definitions)
 > German: 78.35% (4820 definitions)
