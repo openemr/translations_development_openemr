@@ -1,8 +1,12 @@
 Success:
+359c359
+< Total number of languages with translations: 36
+---
+> Total number of languages with translations: 37
 361c361
 < Total number of real definitions: 118167
 ---
-> Total number of real definitions: 120135
+> Total number of real definitions: 120386
 363,364c363,364
 < Amharic: 0.03% (2 definitions)
 < Arabic: 89.92% (6148 definitions)
@@ -23,7 +27,7 @@ Success:
 < Finnish: 11.04% (755 definitions)
 < French (Canadian): 34.23% (2340 definitions)
 ---
-> Finnish: 27.8% (1901 definitions)
+> Finnish: 31.45% (2150 definitions)
 > French (Canadian): 36.55% (2499 definitions)
 385c385
 < Italian: 90% (6153 definitions)
@@ -33,6 +37,10 @@ Success:
 < Lithuanian: 0.34% (23 definitions)
 ---
 > Lithuanian: 0.83% (57 definitions)
+396c396
+< Sinhala: 0% (0 definitions)
+---
+> Sinhala: 0.03% (2 definitions)
 402c402
 < Ukrainian: 89.95% (6150 definitions)
 ---
