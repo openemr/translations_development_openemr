@@ -2,7 +2,7 @@ Success:
 361c361
 < Total number of real definitions: 118167
 ---
-> Total number of real definitions: 121743
+> Total number of real definitions: 121745
 363,364c363,364
 < Amharic: 0.03% (2 definitions)
 < Arabic: 89.92% (6148 definitions)
@@ -23,7 +23,7 @@ Success:
 < Dutch: 90% (6153 definitions)
 < English (Indian): 1.76% (120 definitions)
 ---
-> Dutch: 93.02% (6360 definitions)
+> Dutch: 93.04% (6361 definitions)
 > English (Indian): 2.05% (140 definitions)
 377,378c377,378
 < Finnish: 11.04% (755 definitions)
@@ -39,6 +39,10 @@ Success:
 < Lithuanian: 0.34% (23 definitions)
 ---
 > Lithuanian: 0.83% (57 definitions)
+399c399
+< Spanish (Spain): 83.68% (5721 definitions)
+---
+> Spanish (Spain): 83.69% (5722 definitions)
 402c402
 < Ukrainian: 89.95% (6150 definitions)
 ---
