@@ -2,7 +2,7 @@ Success:
 361c361
 < Total number of real definitions: 118167
 ---
-> Total number of real definitions: 124980
+> Total number of real definitions: 125208
 363,364c363,364
 < Amharic: 0.03% (2 definitions)
 < Arabic: 89.92% (6148 definitions)
@@ -13,7 +13,7 @@ Success:
 < Czech: 15.68% (1072 definitions)
 < Danish: 45.99% (3144 definitions)
 ---
-> Czech: 55.14% (3770 definitions)
+> Czech: 58.48% (3998 definitions)
 > Danish: 46.07% (3150 definitions)
 373,374c373,374
 < Dutch: 90% (6153 definitions)
