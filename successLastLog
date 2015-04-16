@@ -2,7 +2,7 @@ Success:
 361c361
 < Total number of real definitions: 118167
 ---
-> Total number of real definitions: 126502
+> Total number of real definitions: 128299
 363,364c363,364
 < Amharic: 0.03% (2 definitions)
 < Arabic: 89.92% (6148 definitions)
@@ -29,10 +29,12 @@ Success:
 > French (Canadian): 36.55% (2499 definitions)
 379a380
 > Georgian: 0% (0 definitions)
-385c386
+385,386c386,387
 < Italian: 90% (6153 definitions)
+< Japanese: 0.15% (10 definitions)
 ---
 > Italian: 98.79% (6754 definitions)
+> Japanese: 26.43% (1807 definitions)
 388c389
 < Lithuanian: 0.34% (23 definitions)
 ---
