@@ -6,7 +6,7 @@ Success:
 361c361
 < Total number of real definitions: 118167
 ---
-> Total number of real definitions: 128877
+> Total number of real definitions: 128879
 363,365c363,365
 < Amharic: 0.03% (2 definitions)
 < Arabic: 89.92% (6148 definitions)
@@ -48,7 +48,7 @@ Success:
 392c393
 < Portuguese (Brazilian): 59.37% (4059 definitions)
 ---
-> Portuguese (Brazilian): 61.12% (4179 definitions)
+> Portuguese (Brazilian): 61.15% (4181 definitions)
 395c396
 < Russian: 81.56% (5576 definitions)
 ---
