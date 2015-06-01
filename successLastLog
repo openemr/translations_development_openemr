@@ -1,2 +1,68 @@
 Success:
-
+359c359
+< Total number of languages with translations: 36
+---
+> Total number of languages with translations: 37
+361c361
+< Total number of real definitions: 118167
+---
+> Total number of real definitions: 129000
+363,365c363,365
+< Amharic: 0.03% (2 definitions)
+< Arabic: 89.92% (6148 definitions)
+< Armenian: 0% (0 definitions)
+---
+> Amharic: 0.04% (3 definitions)
+> Arabic: 90.43% (6183 definitions)
+> Armenian: 0.32% (22 definitions)
+370,371c370,371
+< Czech: 15.68% (1072 definitions)
+< Danish: 45.99% (3144 definitions)
+---
+> Czech: 76.55% (5234 definitions)
+> Danish: 46.07% (3150 definitions)
+373,374c373,374
+< Dutch: 90% (6153 definitions)
+< English (Indian): 1.76% (120 definitions)
+---
+> Dutch: 99.94% (6833 definitions)
+> English (Indian): 2.06% (141 definitions)
+377,378c377,378
+< Finnish: 11.04% (755 definitions)
+< French (Canadian): 34.23% (2340 definitions)
+---
+> Finnish: 48.31% (3303 definitions)
+> French (Canadian): 36.55% (2499 definitions)
+380c380,381
+< German: 70.5% (4820 definitions)
+---
+> Georgian: 0% (0 definitions)
+> German: 71.48% (4887 definitions)
+385,386c386,387
+< Italian: 90% (6153 definitions)
+< Japanese: 0.15% (10 definitions)
+---
+> Italian: 98.79% (6754 definitions)
+> Japanese: 32.72% (2237 definitions)
+388c389
+< Lithuanian: 0.34% (23 definitions)
+---
+> Lithuanian: 0.83% (57 definitions)
+392c393
+< Portuguese (Brazilian): 59.37% (4059 definitions)
+---
+> Portuguese (Brazilian): 61.15% (4181 definitions)
+395c396
+< Russian: 81.56% (5576 definitions)
+---
+> Russian: 81.6% (5579 definitions)
+398,399c399,400
+< Spanish (Latin American): 83.84% (5732 definitions)
+< Spanish (Spain): 83.68% (5721 definitions)
+---
+> Spanish (Latin American): 84.47% (5775 definitions)
+> Spanish (Spain): 83.88% (5735 definitions)
+402c403
+< Ukrainian: 89.95% (6150 definitions)
+---
+> Ukrainian: 91.24% (6238 definitions)
