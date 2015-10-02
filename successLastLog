@@ -6,7 +6,7 @@ Success:
 361c361
 < Total number of real definitions: 118167
 ---
-> Total number of real definitions: 129178
+> Total number of real definitions: 129188
 363,366c363,366
 < Amharic: 0.03% (2 definitions)
 < Arabic: 89.92% (6148 definitions)
@@ -15,7 +15,7 @@ Success:
 ---
 > Amharic: 0.04% (3 definitions)
 > Arabic: 90.43% (6183 definitions)
-> Armenian: 1.37% (94 definitions)
+> Armenian: 1.52% (104 definitions)
 > Bahasa Indonesia: 81.35% (5562 definitions)
 367a368
 > Bosnian: 0% (0 definitions)
