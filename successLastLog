@@ -3,72 +3,95 @@ Success:
 < Total number of languages with translations: 36
 ---
 > Total number of languages with translations: 37
-361c361
+361,371c361,373
 < Total number of real definitions: 118167
----
-> Total number of real definitions: 129188
-363,366c363,366
+< Albanian: 14.98% (1024 definitions)
 < Amharic: 0.03% (2 definitions)
 < Arabic: 89.92% (6148 definitions)
 < Armenian: 0% (0 definitions)
 < Bahasa Indonesia: 81.1% (5545 definitions)
----
-> Amharic: 0.04% (3 definitions)
-> Arabic: 90.43% (6183 definitions)
-> Armenian: 1.52% (104 definitions)
-> Bahasa Indonesia: 81.35% (5562 definitions)
-367a368
-> Bosnian: 0% (0 definitions)
-370,371c371,373
+< Bengali: 1.58% (108 definitions)
+< Chinese (Simplified): 80.71% (5518 definitions)
+< Chinese (Traditional): 77.86% (5323 definitions)
 < Czech: 15.68% (1072 definitions)
 < Danish: 45.99% (3144 definitions)
 ---
+> Total number of real definitions: 129298
+> Albanian: 0.01% (1 definitions)
+> Amharic: 29.22% (1998 definitions)
+> Arabic: 61.15% (4181 definitions)
+> Armenian: 81.6% (5579 definitions)
+> Bahasa Indonesia: 0% (0 definitions)
+> Bengali: 91.24% (6238 definitions)
+> Bosnian: 0% (0 definitions)
+> Chinese (Simplified): 13.97% (955 definitions)
+> Chinese (Traditional): 80.71% (5518 definitions)
 > Croatian: 0% (0 definitions)
-> Czech: 77.2% (5278 definitions)
-> Danish: 46.48% (3178 definitions)
+> Czech: 14.98% (1024 definitions)
+> Danish: 90.43% (6183 definitions)
 373,374c375,376
 < Dutch: 90% (6153 definitions)
 < English (Indian): 1.76% (120 definitions)
 ---
-> Dutch: 99.94% (6833 definitions)
-> English (Indian): 2.06% (141 definitions)
-377,380c379,383
+> Dutch: 71.48% (4887 definitions)
+> English (Indian): 82.87% (5666 definitions)
+376,386c378,389
+< Estonian: 10.25% (701 definitions)
 < Finnish: 11.04% (755 definitions)
 < French (Canadian): 34.23% (2340 definitions)
 < French (Standard): 75.44% (5158 definitions)
 < German: 70.5% (4820 definitions)
----
-> Finnish: 48.31% (3303 definitions)
-> French (Canadian): 36.55% (2499 definitions)
-> French (Standard): 75.53% (5164 definitions)
-> Georgian: 0% (0 definitions)
-> German: 71.48% (4887 definitions)
-385,386c388,389
+< Greek: 82.87% (5666 definitions)
+< Hebrew: 0% (0 definitions)
+< Hindi: 89.92% (6148 definitions)
+< Hungarian: 0.01% (1 definitions)
 < Italian: 90% (6153 definitions)
 < Japanese: 0.15% (10 definitions)
 ---
-> Italian: 98.79% (6754 definitions)
-> Japanese: 32.72% (2237 definitions)
-388c391
+> Estonian: 1.58% (108 definitions)
+> Finnish: 32.72% (2237 definitions)
+> French (Canadian): 75.53% (5164 definitions)
+> French (Standard): 0% (0 definitions)
+> Georgian: 0% (0 definitions)
+> German: 84.63% (5786 definitions)
+> Greek: 81.35% (5562 definitions)
+> Hebrew: 99.94% (6833 definitions)
+> Hindi: 98.79% (6754 definitions)
+> Hungarian: 81.56% (5576 definitions)
+> Italian: 0.04% (3 definitions)
+> Japanese: 0% (0 definitions)
+388,399c391,403
 < Lithuanian: 0.34% (23 definitions)
----
-> Lithuanian: 0.83% (57 definitions)
-392c395
+< Norwegian: 13.97% (955 definitions)
+< Persian: 48.3% (3302 definitions)
+< Polish: 29.22% (1998 definitions)
 < Portuguese (Brazilian): 59.37% (4059 definitions)
----
-> Portuguese (Brazilian): 61.15% (4181 definitions)
-395c398,399
+< Portuguese (European): 57.19% (3910 definitions)
+< Romanian: 13.75% (940 definitions)
 < Russian: 81.56% (5576 definitions)
----
-> Russian: 81.6% (5579 definitions)
-> Serbian: 0% (0 definitions)
-398,399c402,403
+< Sinhala: 0% (0 definitions)
+< Slovak: 0% (0 definitions)
 < Spanish (Latin American): 83.84% (5732 definitions)
 < Spanish (Spain): 83.68% (5721 definitions)
 ---
-> Spanish (Latin American): 84.63% (5786 definitions)
+> Lithuanian: 48.3% (3302 definitions)
+> Norwegian: 36.55% (2499 definitions)
+> Persian: 10.25% (701 definitions)
+> Polish: 73.23% (5007 definitions)
+> Portuguese (Brazilian): 57.19% (3910 definitions)
+> Portuguese (European): 2.06% (141 definitions)
+> Romanian: 89.92% (6148 definitions)
+> Russian: 77.86% (5323 definitions)
+> Serbian: 0% (0 definitions)
+> Sinhala: 0.83% (57 definitions)
+> Slovak: 3.13% (214 definitions)
+> Spanish (Latin American): 48.31% (3303 definitions)
 > Spanish (Spain): 83.88% (5735 definitions)
-402c406
+401,403c405,407
+< Turkish: 73.23% (5007 definitions)
 < Ukrainian: 89.95% (6150 definitions)
+< Vietnamese: 81.56% (5576 definitions)
 ---
-> Ukrainian: 91.24% (6238 definitions)
+> Turkish: 46.48% (3178 definitions)
+> Ukrainian: 77.2% (5278 definitions)
+> Vietnamese: 13.75% (940 definitions)
