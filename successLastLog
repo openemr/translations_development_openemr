@@ -60,7 +60,7 @@ Success:
 > Hungarian: 81.56% (5576 definitions)
 > Italian: 0.04% (3 definitions)
 > Japanese: 0% (0 definitions)
-388,399c391,403
+388,399c391,404
 < Lithuanian: 0.34% (23 definitions)
 < Norwegian: 13.97% (955 definitions)
 < Persian: 48.3% (3302 definitions)
@@ -75,6 +75,7 @@ Success:
 < Spanish (Spain): 83.68% (5721 definitions)
 ---
 > Lithuanian: 48.3% (3302 definitions)
+> Marathi: 0% (0 definitions)
 > Norwegian: 36.55% (2499 definitions)
 > Persian: 10.25% (701 definitions)
 > Polish: 73.23% (5007 definitions)
@@ -87,7 +88,7 @@ Success:
 > Slovak: 3.13% (214 definitions)
 > Spanish (Latin American): 48.31% (3303 definitions)
 > Spanish (Spain): 83.88% (5735 definitions)
-401,403c405,407
+401,403c406,408
 < Turkish: 73.23% (5007 definitions)
 < Ukrainian: 89.95% (6150 definitions)
 < Vietnamese: 81.56% (5576 definitions)
