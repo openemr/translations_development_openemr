@@ -16,7 +16,7 @@ Success:
 < Czech: 15.68% (1072 definitions)
 < Danish: 45.99% (3144 definitions)
 ---
-> Total number of real definitions: 136228
+> Total number of real definitions: 136295
 > Albanian: 0.01% (1 definitions)
 > Amharic: 29.22% (1998 definitions)
 > Arabic: 61.15% (4181 definitions)
@@ -49,7 +49,7 @@ Success:
 < Japanese: 0.15% (10 definitions)
 ---
 > Estonian: 1.58% (108 definitions)
-> Finnish: 33.32% (2278 definitions)
+> Finnish: 33.36% (2281 definitions)
 > French (Canadian): 75.53% (5164 definitions)
 > French (Standard): 0% (0 definitions)
 > Georgian: 0% (0 definitions)
@@ -85,7 +85,7 @@ Success:
 > Russian: 77.86% (5323 definitions)
 > Serbian: 0% (0 definitions)
 > Sinhala: 0.83% (57 definitions)
-> Slovak: 3.8% (260 definitions)
+> Slovak: 4.74% (324 definitions)
 > Spanish (Latin American): 48.31% (3303 definitions)
 > Spanish (Spain): 83.88% (5735 definitions)
 401,403c406,408
