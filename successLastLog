@@ -6,7 +6,7 @@ Success:
 361c361
 < Total number of real definitions: 118167
 ---
-> Total number of real definitions: 138415
+> Total number of real definitions: 138566
 363,366c363,366
 < Amharic: 0.03% (2 definitions)
 < Arabic: 89.92% (6148 definitions)
@@ -15,7 +15,7 @@ Success:
 ---
 > Amharic: 0.04% (3 definitions)
 > Arabic: 90.43% (6183 definitions)
-> Armenian: 30.23% (2067 definitions)
+> Armenian: 30.61% (2093 definitions)
 > Bahasa Indonesia: 81.35% (5562 definitions)
 367a368
 > Bosnian: 0% (0 definitions)
@@ -48,7 +48,7 @@ Success:
 < Japanese: 0.15% (10 definitions)
 ---
 > Italian: 98.79% (6754 definitions)
-> Japanese: 38.5% (2632 definitions)
+> Japanese: 39.52% (2702 definitions)
 388c391,392
 < Lithuanian: 0.34% (23 definitions)
 ---
@@ -57,7 +57,7 @@ Success:
 392c396
 < Portuguese (Brazilian): 59.37% (4059 definitions)
 ---
-> Portuguese (Brazilian): 61.15% (4181 definitions)
+> Portuguese (Brazilian): 61.96% (4236 definitions)
 395c399,400
 < Russian: 81.56% (5576 definitions)
 ---
