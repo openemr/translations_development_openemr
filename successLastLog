@@ -3,7 +3,7 @@ Success:
 < Total number of real definitions: 143124
 < Albanian: 13.56% (1024 definitions)
 ---
-> Total number of real definitions: 144670
+> Total number of real definitions: 144734
 > Albanian: 13.59% (1026 definitions)
 382,384c382,384
 < Arabic: 81.9% (6183 definitions)
@@ -29,3 +29,7 @@ Success:
 < Somali: 0.24% (18 definitions)
 ---
 > Somali: 0.33% (25 definitions)
+427c427
+< Vietnamese: 75.37% (5690 definitions)
+---
+> Vietnamese: 76.22% (5754 definitions)
