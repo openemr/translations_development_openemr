@@ -3,7 +3,7 @@ Success:
 < Total number of real definitions: 143124
 < Albanian: 13.56% (1024 definitions)
 ---
-> Total number of real definitions: 144831
+> Total number of real definitions: 144838
 > Albanian: 13.59% (1026 definitions)
 382,384c382,384
 < Arabic: 81.9% (6183 definitions)
@@ -16,7 +16,7 @@ Success:
 393c393
 < Dutch: 90.52% (6833 definitions)
 ---
-> Dutch: 92.5% (6983 definitions)
+> Dutch: 92.6% (6990 definitions)
 398c398
 < French (Canadian): 33.1% (2499 definitions)
 ---
