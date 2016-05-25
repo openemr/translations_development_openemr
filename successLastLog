@@ -1,9 +1,13 @@
 Success:
+377c377
+< Total number of languages with translations: 40
+---
+> Total number of languages with translations: 41
 379,380c379,380
 < Total number of real definitions: 143124
 < Albanian: 13.56% (1024 definitions)
 ---
-> Total number of real definitions: 144842
+> Total number of real definitions: 145054
 > Albanian: 13.59% (1026 definitions)
 382,384c382,384
 < Arabic: 81.9% (6183 definitions)
@@ -21,6 +25,10 @@ Success:
 < French (Canadian): 33.1% (2499 definitions)
 ---
 > French (Canadian): 34.44% (2600 definitions)
+400c400
+< Georgian: 0% (0 definitions)
+---
+> Georgian: 2.81% (212 definitions)
 407c407
 < Japanese: 38.87% (2934 definitions)
 ---
