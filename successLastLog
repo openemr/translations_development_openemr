@@ -11,8 +11,8 @@ Success:
 < Armenian: 73.32% (5535 definitions)
 < Bahasa Indonesia: 73.68% (5562 definitions)
 ---
-> Total number of real definitions: 147756
-> Albanian: 45.4% (3427 definitions)
+> Total number of real definitions: 147793
+> Albanian: 45.44% (3430 definitions)
 > Amharic: 0.05% (4 definitions)
 > Arabic: 81.92% (6184 definitions)
 > Armenian: 91.3% (6892 definitions)
@@ -48,4 +48,4 @@ Success:
 427c427
 < Vietnamese: 75.37% (5690 definitions)
 ---
-> Vietnamese: 77.39% (5842 definitions)
+> Vietnamese: 77.84% (5876 definitions)
