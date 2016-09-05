@@ -43,21 +43,23 @@ Success:
 < Japanese: 38.87% (2934 definitions)
 ---
 > Japanese: 39.4% (2974 definitions)
-412c412
+410a411
+> Mongolian: 0% (0 definitions)
+412c413
 < Persian: 43.74% (3302 definitions)
 ---
 > Persian: 43.75% (3303 definitions)
-421,422c421,422
+421,422c422,423
 < Somali: 0.24% (18 definitions)
 < Spanish (Latin American): 76.96% (5810 definitions)
 ---
 > Somali: 1.3% (98 definitions)
 > Spanish (Latin American): 79.6% (6009 definitions)
-425c425
+425c426
 < Turkish: 71.16% (5372 definitions)
 ---
 > Turkish: 71.15% (5371 definitions)
-427c427
+427c428
 < Vietnamese: 75.37% (5690 definitions)
 ---
 > Vietnamese: 78.35% (5915 definitions)
