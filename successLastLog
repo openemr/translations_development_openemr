@@ -11,7 +11,7 @@ Success:
 < Armenian: 73.32% (5535 definitions)
 < Bahasa Indonesia: 73.68% (5562 definitions)
 ---
-> Total number of real definitions: 155841
+> Total number of real definitions: 155879
 > Albanian: 48.89% (3691 definitions)
 > Amharic: 0.05% (4 definitions)
 > Arabic: 81.92% (6184 definitions)
@@ -54,7 +54,7 @@ Success:
 < Spanish (Latin American): 76.96% (5810 definitions)
 ---
 > Somali: 1.3% (98 definitions)
-> Spanish (Latin American): 79.6% (6009 definitions)
+> Spanish (Latin American): 80.1% (6047 definitions)
 425c426
 < Turkish: 71.16% (5372 definitions)
 ---
