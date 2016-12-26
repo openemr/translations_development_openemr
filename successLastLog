@@ -6,7 +6,7 @@ Success:
 397c397
 < Total number of real definitions: 157768
 ---
-> Total number of real definitions: 158013
+> Total number of real definitions: 158102
 400c400
 < Arabic: 71.15% (6184 definitions)
 ---
@@ -15,6 +15,10 @@ Success:
 < Bahasa Indonesia: 64.14% (5574 definitions)
 ---
 > Bahasa Indonesia: 64.24% (5583 definitions)
+411c411
+< Dutch: 81.46% (7080 definitions)
+---
+> Dutch: 82.49% (7169 definitions)
 431c431
 < Persian: 38.06% (3308 definitions)
 ---
