@@ -2,11 +2,11 @@ Success:
 395c395
 < Total number of languages with translations: 42
 ---
-> Total number of languages with translations: 43
+> Total number of languages with translations: 44
 397c397
 < Total number of real definitions: 157768
 ---
-> Total number of real definitions: 158989
+> Total number of real definitions: 158990
 400c400
 < Arabic: 71.15% (6184 definitions)
 ---
@@ -44,5 +44,5 @@ Success:
 444c444,445
 < Turkish: 62.69% (5448 definitions)
 ---
-> Tamil: 0% (0 definitions)
+> Tamil: 0.01% (1 definitions)
 > Turkish: 65.5% (5693 definitions)
