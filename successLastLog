@@ -6,7 +6,7 @@ Success:
 397c397
 < Total number of real definitions: 157768
 ---
-> Total number of real definitions: 165462
+> Total number of real definitions: 165600
 400c400
 < Arabic: 71.15% (6184 definitions)
 ---
@@ -30,7 +30,7 @@ Success:
 421c421
 < Hebrew: 86.85% (7548 definitions)
 ---
-> Hebrew: 86.94% (7556 definitions)
+> Hebrew: 86.95% (7557 definitions)
 425c425
 < Japanese: 34.22% (2974 definitions)
 ---
@@ -43,8 +43,8 @@ Success:
 < Portuguese (Brazilian): 48.97% (4256 definitions)
 < Portuguese (European): 44.99% (3910 definitions)
 ---
-> Portuguese (Brazilian): 50.12% (4356 definitions)
-> Portuguese (European): 46.04% (4001 definitions)
+> Portuguese (Brazilian): 51.59% (4484 definitions)
+> Portuguese (European): 46.07% (4004 definitions)
 436,437c436,437
 < Russian: 64.4% (5597 definitions)
 < Serbian: 0% (0 definitions)
@@ -57,8 +57,8 @@ Success:
 < Swedish: 36.26% (3151 definitions)
 < Turkish: 62.69% (5448 definitions)
 ---
-> Spanish (Latin American): 71.25% (6192 definitions)
-> Spanish (Spain): 66.43% (5773 definitions)
+> Spanish (Latin American): 71.27% (6194 definitions)
+> Spanish (Spain): 66.47% (5777 definitions)
 > Swedish: 36.27% (3152 definitions)
 > Tamil: 70.73% (6147 definitions)
 > Turkish: 65.5% (5693 definitions)
