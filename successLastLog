@@ -6,7 +6,7 @@ Success:
 397c397
 < Total number of real definitions: 157768
 ---
-> Total number of real definitions: 167111
+> Total number of real definitions: 167326
 400c400
 < Arabic: 71.15% (6184 definitions)
 ---
@@ -31,7 +31,7 @@ Success:
 < Greek: 65.19% (5666 definitions)
 < Hebrew: 86.85% (7548 definitions)
 ---
-> Greek: 77.01% (6693 definitions)
+> Greek: 79.48% (6908 definitions)
 > Hebrew: 86.95% (7557 definitions)
 425c425
 < Japanese: 34.22% (2974 definitions)
