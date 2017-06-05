@@ -6,7 +6,7 @@ Success:
 397c397
 < Total number of real definitions: 157768
 ---
-> Total number of real definitions: 167547
+> Total number of real definitions: 167548
 400c400
 < Arabic: 71.15% (6184 definitions)
 ---
@@ -21,12 +21,14 @@ Success:
 ---
 > Dutch: 90.56% (7871 definitions)
 > English (Indian): 1.98% (172 definitions)
-416,417c416,417
+416,418c416,418
 < French (Canadian): 29.92% (2600 definitions)
 < French (Standard): 59.43% (5165 definitions)
+< Georgian: 2.44% (212 definitions)
 ---
 > French (Canadian): 30.02% (2609 definitions)
 > French (Standard): 59.77% (5195 definitions)
+> Georgian: 2.45% (213 definitions)
 420,421c420,421
 < Greek: 65.19% (5666 definitions)
 < Hebrew: 86.85% (7548 definitions)
