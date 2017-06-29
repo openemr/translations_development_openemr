@@ -6,10 +6,12 @@ Success:
 397c397
 < Total number of real definitions: 157768
 ---
-> Total number of real definitions: 167700
-400c400
+> Total number of real definitions: 168185
+399,400c399,400
+< Amharic: 0.05% (4 definitions)
 < Arabic: 71.15% (6184 definitions)
 ---
+> Amharic: 0.6% (52 definitions)
 > Arabic: 71.74% (6235 definitions)
 402c402
 < Bahasa Indonesia: 64.14% (5574 definitions)
@@ -50,8 +52,8 @@ Success:
 < Portuguese (European): 44.99% (3910 definitions)
 ---
 > Persian: 38.23% (3323 definitions)
-> Polish: 23% (1999 definitions)
-> Portuguese (Brazilian): 55.36% (4811 definitions)
+> Polish: 28.01% (2434 definitions)
+> Portuguese (Brazilian): 55.38% (4813 definitions)
 > Portuguese (European): 46.23% (4018 definitions)
 436,437c436,437
 < Russian: 64.4% (5597 definitions)
