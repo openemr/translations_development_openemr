@@ -61,7 +61,7 @@ Success:
 ---
 > Russian: 65.63% (5704 definitions)
 > Serbian: 0.25% (22 definitions)
-441,444c441,445
+441,444c441,446
 < Spanish (Latin American): 70.45% (6123 definitions)
 < Spanish (Spain): 65.99% (5735 definitions)
 < Swedish: 36.26% (3151 definitions)
@@ -71,6 +71,7 @@ Success:
 > Spanish (Spain): 67.51% (5867 definitions)
 > Swedish: 36.28% (3153 definitions)
 > Tamil: 70.73% (6147 definitions)
+> Thai: 0% (0 definitions)
 > Turkish: 65.5% (5693 definitions)
-445a447
+445a448
 > Urdu: 0% (0 definitions)
