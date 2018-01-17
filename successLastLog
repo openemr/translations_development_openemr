@@ -6,7 +6,7 @@ Success:
 397c397
 < Total number of real definitions: 157768
 ---
-> Total number of real definitions: 173982
+> Total number of real definitions: 173985
 399,400c399,400
 < Amharic: 0.05% (4 definitions)
 < Arabic: 71.15% (6184 definitions)
@@ -70,7 +70,7 @@ Success:
 < Turkish: 62.69% (5448 definitions)
 ---
 > Spanish (Latin American): 72.78% (6325 definitions)
-> Spanish (Spain): 67.51% (5867 definitions)
+> Spanish (Spain): 67.54% (5870 definitions)
 > Swedish: 36.28% (3153 definitions)
 > Tamil: 70.73% (6147 definitions)
 > Thai: 0.41% (36 definitions)
