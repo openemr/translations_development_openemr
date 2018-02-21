@@ -6,7 +6,7 @@ Success:
 397c397
 < Total number of real definitions: 157768
 ---
-> Total number of real definitions: 173995
+> Total number of real definitions: 174000
 399,400c399,400
 < Amharic: 0.05% (4 definitions)
 < Arabic: 71.15% (6184 definitions)
@@ -26,7 +26,7 @@ Success:
 > Dutch: 90.56% (7871 definitions)
 > English (Indian): 1.98% (172 definitions)
 414a415
-> Filipino: 0.06% (5 definitions)
+> Filipino: 0.12% (10 definitions)
 416,418c417,419
 < French (Canadian): 29.92% (2600 definitions)
 < French (Standard): 59.43% (5165 definitions)
