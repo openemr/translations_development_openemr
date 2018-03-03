@@ -12,9 +12,9 @@ if (DR_loc) {
     window.location.href = 'https://sourceforge.net/home.html';
 }
 </script>
+<meta name="description" content="Free, secure and fast downloads from the largest Open Source applications and software directory - SourceForge.net"/>
 </head><body>
 <noscript>
-We're sorry -- the Sourceforge site is currently in Disaster Recovery mode, and currently requires
-the use of javascript to function.  Please check back later.
+We're sorry -- the Sourceforge site is currently in Disaster Recovery mode.  Please check back later.
 </noscript>
 </body></html>
