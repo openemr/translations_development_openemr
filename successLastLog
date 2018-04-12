@@ -2,7 +2,7 @@ Success:
 589c589
 < Total number of real definitions: 174000
 ---
-> Total number of real definitions: 174006
+> Total number of real definitions: 174044
 592c592
 < Arabic: 63.01% (6235 definitions)
 ---
@@ -10,4 +10,8 @@ Success:
 610c610
 < French (Standard): 52.5% (5195 definitions)
 ---
-> French (Standard): 52.52% (5197 definitions)
+> French (Standard): 52.54% (5199 definitions)
+628c628
+< Romanian: 87.76% (8684 definitions)
+---
+> Romanian: 88.13% (8720 definitions)
