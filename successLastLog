@@ -2,7 +2,7 @@ Success:
 589c589
 < Total number of real definitions: 174000
 ---
-> Total number of real definitions: 174401
+> Total number of real definitions: 174616
 592c592
 < Arabic: 63.01% (6235 definitions)
 ---
@@ -22,6 +22,6 @@ Success:
 < Spanish (Spain): 59.32% (5870 definitions)
 < Swedish: 31.86% (3153 definitions)
 ---
-> Spanish (Latin American): 65.53% (6484 definitions)
-> Spanish (Spain): 59.51% (5889 definitions)
+> Spanish (Latin American): 67.61% (6690 definitions)
+> Spanish (Spain): 59.61% (5898 definitions)
 > Swedish: 31.88% (3155 definitions)
