@@ -1,2 +1,41 @@
 Success:
-
+589c589
+< Total number of real definitions: 174000
+---
+> Total number of real definitions: 175187
+591,592c591,592
+< Amharic: 0.53% (52 definitions)
+< Arabic: 63.01% (6235 definitions)
+---
+> Amharic: 0.54% (53 definitions)
+> Arabic: 63.05% (6239 definitions)
+601c601
+< Danish: 32.12% (3178 definitions)
+---
+> Danish: 32.1% (3176 definitions)
+609,610c609,610
+< French (Canadian): 26.37% (2609 definitions)
+< French (Standard): 52.5% (5195 definitions)
+---
+> French (Canadian): 26.55% (2627 definitions)
+> French (Standard): 54.2% (5363 definitions)
+618c618
+< Japanese: 30.26% (2994 definitions)
+---
+> Japanese: 30.41% (3009 definitions)
+625c625
+< Polish: 24.6% (2434 definitions)
+---
+> Polish: 28.85% (2855 definitions)
+628c628
+< Romanian: 87.76% (8684 definitions)
+---
+> Romanian: 88.13% (8720 definitions)
+634,636c634,636
+< Spanish (Latin American): 63.97% (6330 definitions)
+< Spanish (Spain): 59.32% (5870 definitions)
+< Swedish: 31.86% (3153 definitions)
+---
+> Spanish (Latin American): 68.98% (6826 definitions)
+> Spanish (Spain): 59.61% (5898 definitions)
+> Swedish: 31.88% (3155 definitions)
