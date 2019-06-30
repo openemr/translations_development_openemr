@@ -2,7 +2,15 @@ Success:
 1093c1093
 < Total number of real definitions: 176116
 ---
-> Total number of real definitions: 176118
+> Total number of real definitions: 176481
+1118c1118
+< Greek: 60.41% (7101 definitions)
+---
+> Greek: 63.49% (7463 definitions)
+1120c1120
+< Hindi: 52.3% (6148 definitions)
+---
+> Hindi: 52.31% (6149 definitions)
 1145c1145
 < Turkish: 48.43% (5693 definitions)
 ---
