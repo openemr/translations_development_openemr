@@ -2,7 +2,7 @@ Success:
 1093c1093
 < Total number of real definitions: 176116
 ---
-> Total number of real definitions: 177481
+> Total number of real definitions: 177505
 1118c1118
 < Greek: 60.41% (7101 definitions)
 ---
@@ -11,6 +11,10 @@ Success:
 < Hindi: 52.3% (6148 definitions)
 ---
 > Hindi: 52.31% (6149 definitions)
+1133c1133
+< Romanian: 74.18% (8720 definitions)
+---
+> Romanian: 74.17% (8719 definitions)
 1141c1141
 < Swedish: 26.84% (3155 definitions)
 ---
@@ -22,4 +26,4 @@ Success:
 1148c1148
 < Vietnamese: 50.32% (5915 definitions)
 ---
-> Vietnamese: 52.04% (6117 definitions)
+> Vietnamese: 52.25% (6142 definitions)
