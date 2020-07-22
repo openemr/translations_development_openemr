@@ -2,7 +2,7 @@ Success:
 1093c1093
 < Total number of real definitions: 176116
 ---
-> Total number of real definitions: 178222
+> Total number of real definitions: 178400
 1108,1109c1108,1109
 < Dutch: 70.34% (8268 definitions)
 < English (Indian): 1.46% (172 definitions)
@@ -19,6 +19,10 @@ Success:
 < Hindi: 52.3% (6148 definitions)
 ---
 > Hindi: 52.31% (6149 definitions)
+1127c1127
+< Mongolian: 0.34% (40 definitions)
+---
+> Mongolian: 1.85% (218 definitions)
 1133c1133
 < Romanian: 74.18% (8720 definitions)
 ---
