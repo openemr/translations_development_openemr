@@ -2,7 +2,7 @@ Success:
 1093c1093
 < Total number of real definitions: 176116
 ---
-> Total number of real definitions: 178523
+> Total number of real definitions: 178548
 1108,1109c1108,1109
 < Dutch: 70.34% (8268 definitions)
 < English (Indian): 1.46% (172 definitions)
@@ -39,7 +39,7 @@ Success:
 < Spanish (Spain): 50.17% (5898 definitions)
 < Swedish: 26.84% (3155 definitions)
 ---
-> Spanish (Spain): 50.56% (5943 definitions)
+> Spanish (Spain): 50.77% (5968 definitions)
 > Swedish: 26.85% (3156 definitions)
 1145c1146
 < Turkish: 48.43% (5693 definitions)
