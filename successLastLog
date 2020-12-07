@@ -2,13 +2,17 @@ Success:
 1093c1093
 < Total number of real definitions: 176116
 ---
-> Total number of real definitions: 181212
+> Total number of real definitions: 181333
 1108,1109c1108,1109
 < Dutch: 70.34% (8268 definitions)
 < English (Indian): 1.46% (172 definitions)
 ---
 > Dutch: 71.03% (8350 definitions)
 > English (Indian): 1.47% (173 definitions)
+1115c1115
+< French (Standard): 47.16% (5544 definitions)
+---
+> French (Standard): 47.18% (5546 definitions)
 1117,1118c1117,1118
 < German: 41.62% (4892 definitions)
 < Greek: 60.41% (7101 definitions)
@@ -26,21 +30,19 @@ Success:
 1129c1129
 < Persian: 28.27% (3323 definitions)
 ---
-> Persian: 48.73% (5728 definitions)
-1131,1133c1131,1134
+> Persian: 48.9% (5748 definitions)
+1131,1132c1131,1133
 < Portuguese (Brazilian): 41.22% (4845 definitions)
 < Portuguese (European): 34.18% (4018 definitions)
-< Romanian: 74.18% (8720 definitions)
 ---
 > Portuguese (Angolan): 0% (0 definitions)
 > Portuguese (Brazilian): 42.74% (5024 definitions)
-> Portuguese (European): 34.6% (4067 definitions)
-> Romanian: 74.17% (8719 definitions)
+> Portuguese (European): 35.42% (4164 definitions)
 1140,1141c1141,1142
 < Spanish (Spain): 50.17% (5898 definitions)
 < Swedish: 26.84% (3155 definitions)
 ---
-> Spanish (Spain): 51.18% (6016 definitions)
+> Spanish (Spain): 51.19% (6017 definitions)
 > Swedish: 26.85% (3156 definitions)
 1145c1146
 < Turkish: 48.43% (5693 definitions)
