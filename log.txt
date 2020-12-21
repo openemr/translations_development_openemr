@@ -1090,7 +1090,7 @@ Good, constants weren't modified by translators
 Language Statistics:
 Total number of languages with translations: 47
 Total number of constants: 11755
-Total number of real definitions: 181335
+Total number of real definitions: 188063
 Albanian: 31.4% (3691 definitions)
 Amharic: 0.45% (53 definitions)
 Arabic: 53.08% (6239 definitions)
@@ -1129,7 +1129,7 @@ Norwegian: 8.12% (955 definitions)
 Persian: 48.9% (5748 definitions)
 Polish: 24.29% (2855 definitions)
 Portuguese (Angolan): 0% (0 definitions)
-Portuguese (Brazilian): 42.74% (5024 definitions)
+Portuguese (Brazilian): 99.97% (11752 definitions)
 Portuguese (European): 35.42% (4164 definitions)
 Romanian: 74.18% (8720 definitions)
 Russian: 48.52% (5704 definitions)
