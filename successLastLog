@@ -6,7 +6,7 @@ Success:
 1099c1099
 < Total number of real definitions: 188063
 ---
-> Total number of real definitions: 224036
+> Total number of real definitions: 224140
 1102,1103c1102,1103
 < Arabic: 50.39% (6239 definitions)
 < Armenian: 55.66% (6892 definitions)
@@ -47,8 +47,8 @@ Success:
 < Spanish (Spain): 48.59% (6017 definitions)
 < Swedish: 25.49% (3156 definitions)
 ---
-> Spanish (Latin American): 55.21% (6836 definitions)
-> Spanish (Spain): 49.06% (6075 definitions)
+> Spanish (Latin American): 55.3% (6847 definitions)
+> Spanish (Spain): 49.81% (6168 definitions)
 > Swedish: 25.48% (3155 definitions)
 1151c1154
 < Thai: 0.29% (36 definitions)
