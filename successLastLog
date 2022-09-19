@@ -6,7 +6,7 @@ Success:
 1159c1159
 < Total number of real definitions: 224275
 ---
-> Total number of real definitions: 230418
+> Total number of real definitions: 230495
 1181c1181
 < French (Canadian): 19.85% (2627 definitions)
 ---
@@ -24,8 +24,8 @@ Success:
 < Spanish (Spain): 46.82% (6196 definitions)
 < Swedish: 23.84% (3155 definitions)
 ---
-> Spanish (Latin American): 53.65% (7100 definitions)
-> Spanish (Spain): 46.83% (6197 definitions)
+> Spanish (Latin American): 54.22% (7176 definitions)
+> Spanish (Spain): 46.83% (6198 definitions)
 > Swedish: 23.85% (3156 definitions)
 1214c1214
 < Thai: 0.42% (55 definitions)
