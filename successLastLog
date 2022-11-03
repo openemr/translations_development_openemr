@@ -6,11 +6,13 @@ Success:
 1159c1159
 < Total number of real definitions: 224275
 ---
-> Total number of real definitions: 230571
-1181c1181
+> Total number of real definitions: 230593
+1181,1182c1181,1182
 < French (Canadian): 19.85% (2627 definitions)
+< French (Standard): 41.91% (5546 definitions)
 ---
-> French (Canadian): 19.86% (2628 definitions)
+> French (Canadian): 19.87% (2630 definitions)
+> French (Standard): 42.06% (5566 definitions)
 1184c1184
 < German: 42.22% (5587 definitions)
 ---
