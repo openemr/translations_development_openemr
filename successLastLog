@@ -6,7 +6,7 @@ Success:
 1159c1159
 < Total number of real definitions: 224275
 ---
-> Total number of real definitions: 230687
+> Total number of real definitions: 230826
 1181,1182c1181,1182
 < French (Canadian): 19.85% (2627 definitions)
 < French (Standard): 41.91% (5546 definitions)
@@ -28,7 +28,7 @@ Success:
 1203c1203
 < Romanian: 93.52% (12376 definitions)
 ---
-> Romanian: 93.82% (12416 definitions)
+> Romanian: 94.87% (12555 definitions)
 1209,1211c1209,1211
 < Spanish (Latin American): 51.91% (6870 definitions)
 < Spanish (Spain): 46.82% (6196 definitions)
